@@ -1,0 +1,48 @@
+{
+    "name": "Dati Spettroscopia SERS (CSV)",
+    "type": "csv",
+    "description": "SERS Data of bacteria_low quality data",
+    "data_nature": "Tabled data / Feature",
+    "file_configurations": [
+        {
+            "category": "E.coli",
+            "paths": [
+                "COLI_280_Riga7_5_2tacche_processed_supervised.csv",
+                "Coli_1000_Riga5_1_2_5tacche_processed_supervised.csv",
+                "Coli_1000_Riga5_1_2tacche_processed_supervised.csv",
+                "Coli_190_Riga5_1_2_5tacche_processed_supervised.csv",
+                "Coli_190_Riga5_1_2tacche_processed_supervised.csv",
+                "Coli_190_Riga6_1_test_processed_supervised.csv",
+                "Coli_280_Riga7_5_2_5tacche_processed_supervised.csv",
+                "RIGA6C1_COLI1000_processed_supervised.csv",
+                "RIGA7C5_COLI280_processed_supervised.csv"
+            ]
+        },
+        {
+            "category": "Enterococcus",
+            "paths": [
+                "ente_1000_Riga6_3_2_5tacche_processed_supervised.csv",
+                "ente_1000_Riga6_3_2tacche_processed_supervised.csv",
+                "ente_190_Riga5_1_2tacche_processed_supervised.csv",
+                "Ente_280_Riga_7_3_2_5tacche_processed_supervised.csv",
+                "Ente_280_Riga_7_3_2tacche_processed_supervised.csv",
+                "RIGA6C3_EITRO1000_processed_supervised.csv",
+                "RIGA7C3_ERIT280_processed_supervised.csv",
+                "ente_190_Riga5_1_2_5tacche_processed_supervised.csv"
+            ]
+        },
+        {
+            "category": "Citrobacter",
+            "paths": [
+                "CITRO_190_Riga5_1_2_5tacche_processed_supervised.csv",
+                "CITRO_190_Riga5_1_2_5tacche_processed_supervised.csv",
+                "CITRO_280_Riga_7_4_2_5tacche_processed_supervised.csv",
+                "CITRO_280_Riga_7_4_2tacche_processed_supervised.csv",
+                "citro_1000_Riga6_2_2_5tacche_processed_supervised.csv",
+                "RIGA6C2_CITRO1000_processed_supervised.csv",
+                "RIGA7C4_CITRO280_processed_supervised.csv",
+                "citro_1000_Riga6_2_2tacche_processed_supervised.csv"
+            ]
+        }
+    ]
+}

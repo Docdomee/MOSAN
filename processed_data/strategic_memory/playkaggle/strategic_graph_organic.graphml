@@ -1,0 +1,504 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d8" for="edge" attr.name="q_vector" attr.type="string"/>
+<key id="d7" for="edge" attr.name="full_arguments" attr.type="string"/>
+<key id="d6" for="edge" attr.name="raw_rewards" attr.type="string"/>
+<key id="d5" for="edge" attr.name="impact_vector" attr.type="string"/>
+<key id="d4" for="edge" attr.name="visits" attr.type="long"/>
+<key id="d3" for="edge" attr.name="action" attr.type="string"/>
+<key id="d2" for="node" attr.name="creation_step" attr.type="long"/>
+<key id="d1" for="node" attr.name="architecture" attr.type="string"/>
+<key id="d0" for="node" attr.name="vector" attr.type="string"/>
+<graph edgedefault="directed"><node id="1D_CNN_32b6be8f">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2815]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">5</data>
+</node>
+<node id="2D_GAF_4468fe94">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2815]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">6</data>
+</node>
+<node id="2D_GAF_9862269e">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2815]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">7</data>
+</node>
+<node id="2D_GAF_7acf9565">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8178]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">8</data>
+</node>
+<node id="3D_DYNAMIC_GAF_af4d8a1d">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8178]</data>
+  <data key="d1">3D_DYNAMIC_GAF</data>
+  <data key="d2">9</data>
+</node>
+<node id="3D_DYNAMIC_GAF_0cb2347e">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8178]</data>
+  <data key="d1">3D_DYNAMIC_GAF</data>
+  <data key="d2">10</data>
+</node>
+<node id="2D_GAF_b53400b9">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8178]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">11</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_d0d8ec20">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8178]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">12</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_6a731c00">
+  <data key="d0">[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8178]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">13</data>
+</node>
+<edge source="1D_CNN_32b6be8f" target="1D_CNN_32b6be8f" id="set_optimization_model(model_name=2D_GAF)">
+  <data key="d3">set_optimization_model(model_name=2D_GAF)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "2D_GAF", "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.05450000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_4468fe94" target="2D_GAF_9862269e" id="set_optimization_model(model_name=2D_GAF)">
+  <data key="d3">set_optimization_model(model_name=2D_GAF)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "2D_GAF", "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_9862269e" target="2D_GAF_9862269e" id="create_dataset_manifest(n_fft=1024, hop_length=256, gaf_image_size=128,...)">
+  <data key="d3">create_dataset_manifest(n_fft=1024, hop_length=256, gaf_image_size=128,...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"n_fft": 1024, "hop_length": 256, "gaf_image_size": 128, "video_num_segments": 8, "video_gaf_image_size": 64, "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-1.1791, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_9862269e" target="2D_GAF_9862269e" id="create_dataset_manifest(n_fft=2048, hop_length=512, gaf_image_size=256,...)">
+  <data key="d3">create_dataset_manifest(n_fft=2048, hop_length=512, gaf_image_size=256,...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"n_fft": 2048, "hop_length": 512, "gaf_image_size": 256, "video_num_segments": 16, "video_gaf_image_size": 256, "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-1.1791, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_9862269e" target="2D_GAF_9862269e" id="create_dataset_manifest(manifest_name=2D_GAF_initialization, params={'n...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_GAF_initialization, params={'n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_initialization", "params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 256, "video_num_segments": 16, "video_gaf_image_size": 256}, "_data_source": "playkaggle", "_manifest_name": "2D_GAF_initialization", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 256, "video_num_segments": 16, "video_gaf_image_size": 256}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_9862269e" target="2D_GAF_9862269e" id="run_strategic_optuna_sweep(representation_type=2D_GAF, manifest_name=2D_GA...)">
+  <data key="d3">run_strategic_optuna_sweep(representation_type=2D_GAF, manifest_name=2D_GA...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "2D_GAF_initialization", "n_trials": 5, "optimization_focus": "accuracy", "hyperparameters": {"learning_rate": {"type": "loguniform", "min": 1e-05, "max": 0.01}, "dropout_rate": {"type": "float", "min": 0.1, "max": 0.6}, "filters": {"type": "choice", "choices": [32, 64, 128, 256]}, "num_conv_layers": {"type": "int", "min": 1, "max": 8}, "dense_units": {"type": "choice", "choices": [64, 128, 256, 512]}}, "_data_source": "playkaggle", "_manifest_name": "2D_GAF_initialization", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 256, "video_num_segments": 16, "video_gaf_image_size": 256}}</data>
+  <data key="d8">[-1.0053059500000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">8</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.07824169336550002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=playkaggle_2d_gaf, params={'n_fft...)">
+  <data key="d3">create_dataset_manifest(manifest_name=playkaggle_2d_gaf, params={'n_fft...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "playkaggle_2d_gaf", "params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24}, "_data_source": "playkaggle", "_manifest_name": "playkaggle_2d_gaf", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="set_optimization_model(model_name=2D_GAF)">
+  <data key="d3">set_optimization_model(model_name=2D_GAF)</data>
+  <data key="d4">8</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "2D_GAF", "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.07885875541550003, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=playkaggle_2d_gaf_corrected, n_ff...)">
+  <data key="d3">create_dataset_manifest(manifest_name=playkaggle_2d_gaf_corrected, n_ff...)</data>
+  <data key="d4">6</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "playkaggle_2d_gaf_corrected", "n_fft": 512, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 8, "video_gaf_image_size": 24, "_data_source": "playkaggle", "_manifest_name": "playkaggle_2d_gaf_corrected", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24}}</data>
+  <data key="d8">[-0.07412253755000003, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="run_training_trial(representation_type=2D_GAF, manifest_name=playk...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=playk...)</data>
+  <data key="d4">6</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "playkaggle_2d_gaf_corrected", "batch_norm": 1, "learning_rate": 0.0001, "dropout_rate": 0.3, "num_conv_layers": 2, "filters": 16, "dense_units": 128, "experiment_name": "2D_GAF", "gpu_id": 0, "_data_source": "playkaggle", "_manifest_name": "playkaggle_2d_gaf_corrected", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24}}</data>
+  <data key="d8">[-1.0248615062605004, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=O1_2D_GAF_64, params={'n_fft': 10...)">
+  <data key="d3">create_dataset_manifest(manifest_name=O1_2D_GAF_64, params={'n_fft': 10...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "O1_2D_GAF_64", "params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 4, "video_gaf_image_size": 64}, "_data_source": "playkaggle", "_manifest_name": "O1_2D_GAF_64", "_dataset_params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 4, "video_gaf_image_size": 64}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=O3_2D_GAF_224, params={'n_fft': 1...)">
+  <data key="d3">create_dataset_manifest(manifest_name=O3_2D_GAF_224, params={'n_fft': 1...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "O3_2D_GAF_224", "params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 224, "video_num_segments": 1, "video_gaf_image_size": 224}, "_data_source": "playkaggle", "_manifest_name": "O3_2D_GAF_224", "_dataset_params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 224, "video_num_segments": 1, "video_gaf_image_size": 224}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="run_training_trial(representation_type=2D_GAF, manifest_name=O1_2D...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=O1_2D...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "O1_2D_GAF_64", "learning_rate": 0.0001, "filters": 64, "kernel_size": 5, "dense_units": 256, "dropout_rate": 0.4, "batch_norm": 1, "epochs": 15, "experiment_name": "2D_GAF", "gpu_id": 0, "_data_source": "playkaggle", "_manifest_name": "O1_2D_GAF_64", "_dataset_params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 4, "video_gaf_image_size": 64}}</data>
+  <data key="d8">[-1.0182471620500002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=O1_2D_GAF_64, n_fft=1024, hop_len...)">
+  <data key="d3">create_dataset_manifest(manifest_name=O1_2D_GAF_64, n_fft=1024, hop_len...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "O1_2D_GAF_64", "n_fft": 1024, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 4, "video_gaf_image_size": 64, "_data_source": "playkaggle", "_manifest_name": "O1_2D_GAF_64", "_dataset_params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 4, "video_gaf_image_size": 64}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=2D_GAF_fixed_config, params={'n_f...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_GAF_fixed_config, params={'n_f...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_fixed_config", "params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 128, "video_num_segments": 4, "video_gaf_image_size": 128}, "_data_source": "playkaggle", "_manifest_name": "2D_GAF_fixed_config", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 128, "video_num_segments": 4, "video_gaf_image_size": 128}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="run_training_trial(representation_type=2D_GAF, manifest_name=2D_GA...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=2D_GA...)</data>
+  <data key="d4">30</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "2D_GAF_manifest", "num_conv_layers": 4, "filters": 96, "learning_rate": 0.0012, "dropout_rate": 0.4, "dense_units": 256, "batch_norm": 1, "experiment_name": "2D_GAF", "_data_source": "playkaggle", "_manifest_name": "2D_GAF_manifest", "_dataset_params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 32, "video_num_segments": 4, "video_gaf_image_size": 32}}</data>
+  <data key="d8">[-1.0471955902307268, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=2D_GAF_final_test, params={'n_fft...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_GAF_final_test, params={'n_fft...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_final_test", "params": {"n_fft": 512, "hop_length": 128, "gaf_image_size": 128, "video_num_segments": 4, "video_gaf_image_size": 128}, "_data_source": "playkaggle", "_manifest_name": "2D_GAF_final_test", "_dataset_params": {"n_fft": 512, "hop_length": 128, "gaf_image_size": 128, "video_num_segments": 4, "video_gaf_image_size": 128}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=2D_GAF_final_config, params={'n_f...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_GAF_final_config, params={'n_f...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_final_config", "params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 128, "video_num_segments": 4, "video_gaf_image_size": 128}, "_data_source": "playkaggle", "_manifest_name": "2D_GAF_final_config", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 128, "video_num_segments": 4, "video_gaf_image_size": 128}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=2D_GAF_fixed_config, representati...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_GAF_fixed_config, representati...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_fixed_config", "representation_type": "2D_GAF", "params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 224, "video_num_segments": 4, "video_gaf_image_size": 224}, "_data_source": "playkaggle", "_manifest_name": "2D_GAF_fixed_config", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 128, "video_num_segments": 4, "video_gaf_image_size": 128}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=2D_GAF_repair_routing, params={'n...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_GAF_repair_routing, params={'n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_repair_routing", "params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 224, "video_num_segments": 4, "video_gaf_image_size": 224}, "representation_type": "2D_GAF", "_data_source": "playkaggle", "_manifest_name": "2D_GAF_repair_routing", "_dataset_params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 224, "video_num_segments": 4, "video_gaf_image_size": 224, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="query_research_archive(query=environment mismatch zero accuracy fixes,...)">
+  <data key="d3">query_research_archive(query=environment mismatch zero accuracy fixes,...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"query": "environment mismatch zero accuracy fixes", "top_k": 5, "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="set_optimization_model(model_name=3D_DYNAMIC_GAF)">
+  <data key="d3">set_optimization_model(model_name=3D_DYNAMIC_GAF)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "3D_DYNAMIC_GAF", "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.05450000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="memorize_finding(finding=Worker crashes persist despite manifest...)">
+  <data key="d3">memorize_finding(finding=Worker crashes persist despite manifest...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "Worker crashes persist despite manifest patches. Environment mismatch in dependency resolution blocks all 2D_GAF trials. Confirming foundational infrastructure collapse per research chronicle.", "category": "infrastructure", "experiment_name": "2D_GAF", "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(n_fft=1024, hop_length=256, gaf_image_size=32, ...)">
+  <data key="d3">create_dataset_manifest(n_fft=1024, hop_length=256, gaf_image_size=32, ...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.5249999999999999, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"n_fft": 1024, "hop_length": 256, "gaf_image_size": 32, "video_num_segments": 4, "video_gaf_image_size": 32, "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.24707305000000007, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=2D_CWT_SCALOGRAM_manifest, params...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_CWT_SCALOGRAM_manifest, params...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_CWT_SCALOGRAM_manifest", "params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 128, "video_num_segments": 8, "video_gaf_image_size": 224}, "_data_source": "playkaggle", "_manifest_name": "2D_CWT_SCALOGRAM_manifest", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 128, "video_num_segments": 8, "video_gaf_image_size": 224}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=2D_GAF_manifest, n_fft=1024, hop_...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_GAF_manifest, n_fft=1024, hop_...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_manifest", "n_fft": 1024, "hop_length": 256, "gaf_image_size": 32, "video_num_segments": 4, "video_gaf_image_size": 32, "_data_source": "playkaggle", "_manifest_name": "2D_GAF_manifest", "_dataset_params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 32, "video_num_segments": 4, "video_gaf_image_size": 32}}</data>
+  <data key="d8">[-0.06657305000000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=2D_CWT_SCALOGRAM_manifest, n_fft=...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_CWT_SCALOGRAM_manifest, n_fft=...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_CWT_SCALOGRAM_manifest", "n_fft": 2048, "hop_length": 512, "gaf_image_size": 128, "video_num_segments": 8, "video_gaf_image_size": 224, "_data_source": "playkaggle", "_manifest_name": "2D_CWT_SCALOGRAM_manifest", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 128, "video_num_segments": 8, "video_gaf_image_size": 224}}</data>
+  <data key="d8">[-0.06657305000000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=2D_GAF_playkaggle_tensorcheck, n_...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_GAF_playkaggle_tensorcheck, n_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_playkaggle_tensorcheck", "n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 1, "video_gaf_image_size": 64, "_data_source": "playkaggle", "_manifest_name": "2D_GAF_playkaggle_tensorcheck", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 1, "video_gaf_image_size": 64}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=2D_GAF_playkaggle_correct, n_fft=...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_GAF_playkaggle_correct, n_fft=...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_playkaggle_correct", "n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 1, "video_gaf_image_size": 64, "_data_source": "playkaggle", "_manifest_name": "2D_GAF_playkaggle_correct", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 1, "video_gaf_image_size": 64}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(manifest_name=2D_GAF_playkaggle_verified, n_fft...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_GAF_playkaggle_verified, n_fft...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_playkaggle_verified", "n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 1, "video_gaf_image_size": 64, "_data_source": "playkaggle", "_manifest_name": "2D_GAF_playkaggle_verified", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 1, "video_gaf_image_size": 64}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(representation_type=2D_GAF, n_fft=512, hop_leng...)">
+  <data key="d3">create_dataset_manifest(representation_type=2D_GAF, n_fft=512, hop_leng...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "n_fft": 512, "hop_length": 256, "gaf_image_size": 32, "video_num_segments": 3, "video_gaf_image_size": 32, "manifest_name": "rigorous_2DGAF_manifest", "_data_source": "playkaggle", "_manifest_name": "rigorous_2DGAF_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 32, "video_num_segments": 3, "video_gaf_image_size": 32, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.06657305000000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="get_optimization_status">
+  <data key="d3">get_optimization_status</data>
+  <data key="d4">6</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.07274367050000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(n_fft=255, hop_length=127, gaf_image_size=32, v...)">
+  <data key="d3">create_dataset_manifest(n_fft=255, hop_length=127, gaf_image_size=32, v...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"n_fft": 255, "hop_length": 127, "gaf_image_size": 32, "video_num_segments": 5, "video_gaf_image_size": 32, "manifest_name": "bypass_auto_manifest", "_data_source": "playkaggle", "_manifest_name": "bypass_auto_manifest", "_dataset_params": {"n_fft": 255, "hop_length": 127, "gaf_image_size": 32, "video_num_segments": 5, "video_gaf_image_size": 32}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="run_training_trial(representation_type=2D_GAF, manifest_name=fixed...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=fixed...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "fixed_2DGAF_manifest", "learning_rate": 0.001, "batch_size": 32, "batch_norm": 1, "epochs": 10, "experiment_name": "2D_GAF", "gpu_id": 0, "_data_source": "playkaggle", "_manifest_name": "fixed_2DGAF_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 32, "video_num_segments": 3, "video_gaf_image_size": 32, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-1.0093195, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="run_training_trial(representation_type=2D_GAF, manifest_name=rigor...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=rigor...)</data>
+  <data key="d4">6</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "rigorous_2DGAF_manifest", "inject_pretrain_tensor_check_step": 9, "lr": 0.001, "experiment_name": "2D_GAF", "gpu_id": 0, "_data_source": "playkaggle", "_manifest_name": "rigorous_2DGAF_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 32, "video_num_segments": 3, "video_gaf_image_size": 32, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-1.0229828189499999, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(n_fft=512, hop_length=256, gaf_image_size=224, ...)">
+  <data key="d3">create_dataset_manifest(n_fft=512, hop_length=256, gaf_image_size=224, ...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"n_fft": 512, "hop_length": 256, "gaf_image_size": 224, "video_num_segments": 10, "video_gaf_image_size": 100, "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-1.0093195, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="run_training_trial(representation_type=2D_GAF, epochs=5, batch_nor...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, epochs=5, batch_nor...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "epochs": 5, "batch_norm": 1, "experiment_name": "2D_GAF", "gpu_id": 0, "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-1.0168682949999999, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="create_dataset_manifest(params={'n_fft': 512, 'hop_length': 256, 'gaf_i...)">
+  <data key="d3">create_dataset_manifest(params={'n_fft': 512, 'hop_length': 256, 'gaf_i...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 224, "video_num_segments": 10, "video_gaf_image_size": 100}, "manifest_name": "2D_GAF_manifest", "_data_source": "playkaggle", "_manifest_name": "2D_GAF_manifest", "_dataset_params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 32, "video_num_segments": 4, "video_gaf_image_size": 32}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="run_training_trial(representation_type=2D_GAF, learning_rate=0.000...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, learning_rate=0.000...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "learning_rate": 0.0003, "num_conv_layers": 4, "filters": 128, "dropout_rate": 0.5, "dense_units": 512, "batch_norm": 1, "experiment_name": "2D_GAF", "gpu_id": 0, "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-1.0168682949999999, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="memorize_finding(finding=Data generation worker crashes persiste...)">
+  <data key="d3">memorize_finding(finding=Data generation worker crashes persiste...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "Data generation worker crashes persistently during '2D_GAF' pipeline execution. Hypothesis: Tensor dimension mismatch or missing path dependencies in GAF conversion. No successful trials achieved. Engineering isolation required.", "category": "pipeline", "experiment_name": "2D_GAF", "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="memorize_finding(finding=Persistent 100.0000% crash rate (5/5 tr...)">
+  <data key="d3">memorize_finding(finding=Persistent 100.0000% crash rate (5/5 tr...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "Persistent 100.0000% crash rate (5/5 trials) in 2D_GAF pipeline confirms unverified schema dependencies, including tensor-to-architecture dimension mismatches and missing 'representation_type' validation. Definitive evidence that schema defects are root cause.", "category": "architecture_validation", "experiment_name": "2D_GAF", "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_7acf9565" target="2D_GAF_7acf9565" id="set_optimization_model(model_name=2D_CWT_SCALOGRAM)">
+  <data key="d3">set_optimization_model(model_name=2D_CWT_SCALOGRAM)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "2D_CWT_SCALOGRAM", "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.05450000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="3D_DYNAMIC_GAF_af4d8a1d" target="3D_DYNAMIC_GAF_0cb2347e" id="set_optimization_model(model_name=3D_DYNAMIC_GAF)">
+  <data key="d3">set_optimization_model(model_name=3D_DYNAMIC_GAF)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "3D_DYNAMIC_GAF", "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="3D_DYNAMIC_GAF_0cb2347e" target="3D_DYNAMIC_GAF_0cb2347e" id="create_dataset_manifest(manifest_name=3D_DYNAMIC_GAF_initial, params={'...)">
+  <data key="d3">create_dataset_manifest(manifest_name=3D_DYNAMIC_GAF_initial, params={'...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "3D_DYNAMIC_GAF_initial", "params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 224, "video_num_segments": 8, "video_gaf_image_size": 112}, "representation_type": "3D_DYNAMIC_GAF", "_data_source": "playkaggle", "_manifest_name": "3D_DYNAMIC_GAF_initial", "_dataset_params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 224, "video_num_segments": 8, "video_gaf_image_size": 112, "representation_type": "3D_DYNAMIC_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="3D_DYNAMIC_GAF_0cb2347e" target="3D_DYNAMIC_GAF_0cb2347e" id="run_training_trial(representation_type=3D_DYNAMIC_GAF, manifest_na...)">
+  <data key="d3">run_training_trial(representation_type=3D_DYNAMIC_GAF, manifest_na...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "3D_DYNAMIC_GAF", "manifest_name": "3D_DYNAMIC_GAF_initial", "num_conv_layers": 3, "filters": 64, "learning_rate": 0.001, "dropout_rate": 0.3, "kernel_size": 5, "dense_units": 128, "batch_norm": 1, "batch_size": 32, "experiment_name": "3D_DYNAMIC_GAF", "gpu_id": 0, "_data_source": "playkaggle", "_manifest_name": "3D_DYNAMIC_GAF_initial", "_dataset_params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 224, "video_num_segments": 8, "video_gaf_image_size": 112, "representation_type": "3D_DYNAMIC_GAF"}}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="3D_DYNAMIC_GAF_0cb2347e" target="3D_DYNAMIC_GAF_0cb2347e" id="set_optimization_model(model_name=2D_GAF)">
+  <data key="d3">set_optimization_model(model_name=2D_GAF)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "2D_GAF", "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.05450000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_b53400b9" target="2D_GAF_7acf9565" id="set_optimization_model(model_name=2D_GAF)">
+  <data key="d3">set_optimization_model(model_name=2D_GAF)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "2D_GAF", "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.05490500000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_d0d8ec20" target="2D_CWT_SCALOGRAM_6a731c00" id="set_optimization_model(model_name=2D_CWT_SCALOGRAM)">
+  <data key="d3">set_optimization_model(model_name=2D_CWT_SCALOGRAM)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "2D_CWT_SCALOGRAM", "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_6a731c00" target="2D_CWT_SCALOGRAM_6a731c00" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_6a731c00" target="2D_CWT_SCALOGRAM_6a731c00" id="create_dataset_manifest(params={'n_fft': 512, 'hop_length': 256, 'gaf_i...)">
+  <data key="d3">create_dataset_manifest(params={'n_fft': 512, 'hop_length': 256, 'gaf_i...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 224, "video_num_segments": 10, "video_gaf_image_size": 100}, "manifest_name": "2D_CWT_SCALOGRAM_manifest", "_data_source": "playkaggle", "_manifest_name": "2D_CWT_SCALOGRAM_manifest", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 128, "video_num_segments": 8, "video_gaf_image_size": 224}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_6a731c00" target="2D_CWT_SCALOGRAM_6a731c00" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">6</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "data_paper_mine_csv", "num_conv_layers": 4, "filters": 128, "kernel_size": 3, "learning_rate": 0.001, "dropout_rate": 0.4, "weight_decay": 0.0, "batch_norm": 1, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "playkaggle", "_manifest_name": "data_paper_mine_csv", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_SPECTROGRAM"}}</data>
+  <data key="d8">[-1.0248615062605004, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_6a731c00" target="2D_CWT_SCALOGRAM_6a731c00" id="create_dataset_manifest(manifest_name=data_paper_mine_csv, n_fft=512, h...)">
+  <data key="d3">create_dataset_manifest(manifest_name=data_paper_mine_csv, n_fft=512, h...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "data_paper_mine_csv", "n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "_data_source": "playkaggle", "_manifest_name": "data_paper_mine_csv", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_SPECTROGRAM"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_6a731c00" target="2D_CWT_SCALOGRAM_6a731c00" id="create_dataset_manifest(manifest_name=data_paper_mine_csv, params={'n_f...)">
+  <data key="d3">create_dataset_manifest(manifest_name=data_paper_mine_csv, params={'n_f...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "data_paper_mine_csv", "params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24}, "_data_source": "playkaggle", "_manifest_name": "data_paper_mine_csv", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_SPECTROGRAM"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_6a731c00" target="2D_CWT_SCALOGRAM_6a731c00" id="run_web_research(query=CWT preprocessing zero accuracy pipeline bug)">
+  <data key="d3">run_web_research(query=CWT preprocessing zero accuracy pipeline bug)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"query": "CWT preprocessing zero accuracy pipeline bug", "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_6a731c00" target="2D_CWT_SCALOGRAM_6a731c00" id="run_web_research(query=CWT preprocessing zero accuracy pipeline ...)">
+  <data key="d3">run_web_research(query=CWT preprocessing zero accuracy pipeline ...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"query": "CWT preprocessing zero accuracy pipeline bug", "max_sites": 5, "_data_source": "playkaggle", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d8" for="edge" attr.name="q_vector" attr.type="string"/>
+<key id="d7" for="edge" attr.name="full_arguments" attr.type="string"/>
+<key id="d6" for="edge" attr.name="raw_rewards" attr.type="string"/>
+<key id="d5" for="edge" attr.name="impact_vector" attr.type="string"/>
+<key id="d4" for="edge" attr.name="visits" attr.type="long"/>
+<key id="d3" for="edge" attr.name="action" attr.type="string"/>
+<key id="d2" for="node" attr.name="creation_step" attr.type="long"/>
+<key id="d1" for="node" attr.name="architecture" attr.type="string"/>
+<key id="d0" for="node" attr.name="vector" attr.type="string"/>
+<graph edgedefault="directed"><node id="2D_GAF_b7caf50f">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9797]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">0</data>
+</node>
+<node id="1D_CNN_c0ca89e4">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9797]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">1</data>
+</node>
+<node id="1D_CNN_da0947e1">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9797]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">2</data>
+</node>
+<node id="1D_CNN_6436f744">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0639]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">3</data>
+</node>
+<node id="2D_GAF_9d30171e">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0639]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">4</data>
+</node>
+<node id="2D_GAF_bacd2509">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0639]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">5</data>
+</node>
+<node id="2D_GAF_407badc1">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9847, 0.0, 0.02, 0.0007, 0.9847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0639]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">6</data>
+</node>
+<node id="1D_CNN_b4a0a728">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9847, -0.0, 0.04, 0.0007, 0.9847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0639]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">7</data>
+</node>
+<node id="1D_CNN_505112f5">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.9847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0639]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">8</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_83fe6eba">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.9847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0639]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">9</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_3268a587">
+  <data key="d0">[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.9847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0639]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">10</data>
+</node>
+<node id="1D_CNN_8705eb7e">
+  <data key="d0">[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.9847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0639]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">11</data>
+</node>
+<node id="3D_DYNAMIC_GAF_c019df63">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.9847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0639]</data>
+  <data key="d1">3D_DYNAMIC_GAF</data>
+  <data key="d2">12</data>
+</node>
+<node id="3D_DYNAMIC_GAF_aaa8e6a4">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.9847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0639]</data>
+  <data key="d1">3D_DYNAMIC_GAF</data>
+  <data key="d2">13</data>
+</node>
+<node id="3D_DYNAMIC_GAF_52dd3522">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.9867, 0.0, 0.02, 0.0018, 0.9867, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0639]</data>
+  <data key="d1">3D_DYNAMIC_GAF</data>
+  <data key="d2">14</data>
+</node>
+<edge source="2D_GAF_b7caf50f" target="2D_GAF_b7caf50f" id="create_dataset_manifest(manifest_name=ECG5000_manifest, params={'repres...)">
+  <data key="d3">create_dataset_manifest(manifest_name=ECG5000_manifest, params={'repres...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "ECG5000_manifest", "params": {"representation_type": "2D_GAF", "n_fft": 256, "hop_length": 64, "gaf_image_size": 128, "video_num_segments": 4, "video_gaf_image_size": 128}, "_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 128, "video_num_segments": 4, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_b7caf50f" target="2D_GAF_b7caf50f" id="run_training_trial(representation_type=2D_GAF, dataset=ECG5000, dr...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, dataset=ECG5000, dr...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "dataset": "ECG5000", "dropout_rate": 0.3, "weight_decay": 0.0001, "epochs": 100, "experiment_name": "2D_GAF", "gpu_id": 0, "_data_source": "ECG5000", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_b7caf50f" target="2D_GAF_b7caf50f" id="set_optimization_model(model_name=1D_CNN)">
+  <data key="d3">set_optimization_model(model_name=1D_CNN)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "1D_CNN", "_data_source": "ECG5000", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.05450000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_c0ca89e4" target="1D_CNN_da0947e1" id="set_optimization_model(model_name=1D_CNN)">
+  <data key="d3">set_optimization_model(model_name=1D_CNN)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "1D_CNN", "_data_source": "ECG5000", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_da0947e1" target="1D_CNN_da0947e1" id="run_training_trial(representation_type=2D_GAF, dataset=ECG5000, dr...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, dataset=ECG5000, dr...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "dataset": "ECG5000", "dropout_rate": 0.3, "weight_decay": 0.0001, "epochs": 100, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "ECG5000", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-1.1791, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_da0947e1" target="1D_CNN_da0947e1" id="run_training_trial(representation_type=1D_CNN, manifest_name=ECG50...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=ECG50...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "ECG5000_manifest", "num_conv_layers": 3, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 128, "video_num_segments": 4, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-1.1791, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_6436f744" target="1D_CNN_6436f744" id="set_optimization_model(model_name=2D_GAF)">
+  <data key="d3">set_optimization_model(model_name=2D_GAF)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "2D_GAF", "_data_source": "ECG5000", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.05450000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_9d30171e" target="2D_GAF_bacd2509" id="set_optimization_model(model_name=2D_GAF)">
+  <data key="d3">set_optimization_model(model_name=2D_GAF)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "2D_GAF", "_data_source": "ECG5000", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_bacd2509" target="2D_GAF_bacd2509" id="create_dataset_manifest(manifest_name=ECG5000_manifest, params={'repres...)">
+  <data key="d3">create_dataset_manifest(manifest_name=ECG5000_manifest, params={'repres...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "ECG5000_manifest", "params": {"representation_type": "2D_GAF", "n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 5, "video_gaf_image_size": 64}, "_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 5, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_bacd2509" target="2D_GAF_407badc1" id="run_training_trial(manifest_name=ECG5000_manifest, representation_...)">
+  <data key="d3">run_training_trial(manifest_name=ECG5000_manifest, representation_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.9847, 0.015124507745107013, 0.029913516959758735, 6.068391799926758, 0.10596466064453125]</data>
+  <data key="d6">[[0.9847, 0.015124507745107013, 0.029913516959758735, 6.068391799926758, 0.10596466064453125], [0.9847, 0.015124507745107013, 0.029913516959758735, 6.068391799926758, 0.10596466064453125]]</data>
+  <data key="d7">{"manifest_name": "ECG5000_manifest", "representation_type": "2D_GAF", "batch_size": 32, "learning_rate": 0.001, "experiment_name": "2D_GAF", "gpu_id": 0, "_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 5, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[0.9847000000000001, 0.015124507745107013, 0.029913516959758735, 6.068391799926758, 0.10596466064453125]</data>
+</edge>
+<edge source="2D_GAF_407badc1" target="2D_GAF_407badc1" id="get_optimization_status">
+  <data key="d3">get_optimization_status</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 5, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.06773179550000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_407badc1" target="2D_GAF_407badc1" id="run_training_trial(manifest_name=ECG5000_manifest, representation_...)">
+  <data key="d3">run_training_trial(manifest_name=ECG5000_manifest, representation_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.015124507745107013, 0.029913516959758735, 6.344013214111328, 0.10596466064453125]</data>
+  <data key="d6">[[-0.05, 0.015124507745107013, 0.029913516959758735, 6.344013214111328, 0.10596466064453125], [-0.05, 0.015124507745107013, 0.029913516959758735, 6.344013214111328, 0.10596466064453125]]</data>
+  <data key="d7">{"manifest_name": "ECG5000_manifest", "representation_type": "2D_GAF", "batch_size": 32, "learning_rate": 0.001, "experiment_name": "2D_GAF", "gpu_id": 0, "_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 5, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.01783330708225568, 0.03527102784725153, 7.480225980758667, 0.1249429313659668]</data>
+</edge>
+<edge source="2D_GAF_407badc1" target="2D_GAF_407badc1" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 5, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0030494955110657216, 0.006031345761880013, 1.279118642709732, 0.021365241263580324]</data>
+</edge>
+<edge source="2D_GAF_407badc1" target="2D_GAF_407badc1" id="set_optimization_model(model_name=1D_CNN)">
+  <data key="d3">set_optimization_model(model_name=1D_CNN)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "1D_CNN", "_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 5, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.0016049976374030114, 0.003174392506252638, 0.6732203382682801, 0.011244863822937013]</data>
+</edge>
+<edge source="1D_CNN_b4a0a728" target="1D_CNN_505112f5" id="set_optimization_model(model_name=1D_CNN)">
+  <data key="d3">set_optimization_model(model_name=1D_CNN)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.9847, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.9847, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "1D_CNN", "_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 5, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.9847000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_505112f5" target="1D_CNN_505112f5" id="set_optimization_model(model_name=1D_CNN)">
+  <data key="d3">set_optimization_model(model_name=1D_CNN)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "1D_CNN", "_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 5, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_505112f5" target="1D_CNN_505112f5" id="set_optimization_model(model_name=2D_CWT_SCALOGRAM)">
+  <data key="d3">set_optimization_model(model_name=2D_CWT_SCALOGRAM)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "2D_CWT_SCALOGRAM", "_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 5, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_505112f5" target="1D_CNN_505112f5" id="create_dataset_manifest(manifest_name=ECG5000_1D_CNN, params={'represen...)">
+  <data key="d3">create_dataset_manifest(manifest_name=ECG5000_1D_CNN, params={'represen...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "ECG5000_1D_CNN", "params": {"representation_type": "1D_CNN", "n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 4, "video_gaf_image_size": 64}, "_data_source": "ECG5000", "_manifest_name": "ECG5000_1D_CNN", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 4, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_505112f5" target="1D_CNN_505112f5" id="set_optimization_model(model_name=3D_DYNAMIC_GAF)">
+  <data key="d3">set_optimization_model(model_name=3D_DYNAMIC_GAF)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "3D_DYNAMIC_GAF", "_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 5, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_83fe6eba" target="2D_CWT_SCALOGRAM_3268a587" id="set_optimization_model(model_name=2D_CWT_SCALOGRAM)">
+  <data key="d3">set_optimization_model(model_name=2D_CWT_SCALOGRAM)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "2D_CWT_SCALOGRAM", "_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 5, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_3268a587" target="2D_CWT_SCALOGRAM_3268a587" id="create_dataset_manifest(manifest_name=ECG5000_2D_CWT_SCALOGRAM, params=...)">
+  <data key="d3">create_dataset_manifest(manifest_name=ECG5000_2D_CWT_SCALOGRAM, params=...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "ECG5000_2D_CWT_SCALOGRAM", "params": {"representation_type": "2D_CWT_SCALOGRAM", "n_fft": 256, "hop_length": 64, "gaf_image_size": 128, "video_num_segments": 8, "video_gaf_image_size": 128}, "_data_source": "ECG5000", "_manifest_name": "ECG5000_2D_CWT_SCALOGRAM", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 128, "video_num_segments": 8, "video_gaf_image_size": 128, "representation_type": "2D_CWT_SCALOGRAM"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_3268a587" target="2D_CWT_SCALOGRAM_3268a587" id="set_optimization_model(model_name=1D_CNN)">
+  <data key="d3">set_optimization_model(model_name=1D_CNN)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "1D_CNN", "_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 5, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_8705eb7e" target="1D_CNN_505112f5" id="set_optimization_model(model_name=1D_CNN)">
+  <data key="d3">set_optimization_model(model_name=1D_CNN)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "1D_CNN", "_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 5, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.05490500000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="3D_DYNAMIC_GAF_c019df63" target="3D_DYNAMIC_GAF_aaa8e6a4" id="set_optimization_model(model_name=3D_DYNAMIC_GAF)">
+  <data key="d3">set_optimization_model(model_name=3D_DYNAMIC_GAF)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "3D_DYNAMIC_GAF", "_data_source": "ECG5000", "_manifest_name": "ECG5000_manifest", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 5, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="3D_DYNAMIC_GAF_aaa8e6a4" target="3D_DYNAMIC_GAF_aaa8e6a4" id="create_dataset_manifest(manifest_name=ECG5000_3D_DYNAMIC_GAF, params={'...)">
+  <data key="d3">create_dataset_manifest(manifest_name=ECG5000_3D_DYNAMIC_GAF, params={'...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "ECG5000_3D_DYNAMIC_GAF", "params": {"representation_type": "3D_DYNAMIC_GAF", "n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24}, "_data_source": "ECG5000", "_manifest_name": "ECG5000_3D_DYNAMIC_GAF", "_dataset_params": {"representation_type": "3D_DYNAMIC_GAF", "n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="3D_DYNAMIC_GAF_aaa8e6a4" target="3D_DYNAMIC_GAF_aaa8e6a4" id="create_dataset_manifest(manifest_name=ecg5000_gaf_64, n_fft=128, hop_le...)">
+  <data key="d3">create_dataset_manifest(manifest_name=ecg5000_gaf_64, n_fft=128, hop_le...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "ecg5000_gaf_64", "n_fft": 128, "hop_length": 32, "gaf_image_size": 64, "video_num_segments": 8, "video_gaf_image_size": 64, "representation_type": "3D_DYNAMIC_GAF", "_data_source": "ECG5000", "_manifest_name": "ecg5000_gaf_64", "_dataset_params": {"n_fft": 128, "hop_length": 32, "gaf_image_size": 64, "video_num_segments": 8, "video_gaf_image_size": 64, "representation_type": "3D_DYNAMIC_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="3D_DYNAMIC_GAF_aaa8e6a4" target="3D_DYNAMIC_GAF_52dd3522" id="run_training_trial(representation_type=3D_DYNAMIC_GAF, manifest_na...)">
+  <data key="d3">run_training_trial(representation_type=3D_DYNAMIC_GAF, manifest_na...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.9867, 0.09144632418950399, 0.012504868073896946, 9.105315208435059, 0.24878692626953125]</data>
+  <data key="d6">[[0.9867, 0.09144632418950399, 0.012504868073896946, 9.105315208435059, 0.24878692626953125], [0.9867, 0.09144632418950399, 0.012504868073896946, 9.105315208435059, 0.24878692626953125]]</data>
+  <data key="d7">{"representation_type": "3D_DYNAMIC_GAF", "manifest_name": "ecg5000_gaf_64", "learning_rate": 0.001, "epochs": 100, "experiment_name": "3D_DYNAMIC_GAF", "gpu_id": 0, "_data_source": "ECG5000", "_manifest_name": "ecg5000_gaf_64", "_dataset_params": {"n_fft": 128, "hop_length": 32, "gaf_image_size": 64, "video_num_segments": 8, "video_gaf_image_size": 64, "representation_type": "3D_DYNAMIC_GAF"}}</data>
+  <data key="d8">[0.9867, 0.09144632418950399, 0.012504868073896948, 9.105315208435059, 0.24878692626953128]</data>
+</edge>
+<edge source="3D_DYNAMIC_GAF_52dd3522" target="3D_DYNAMIC_GAF_52dd3522" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "ECG5000", "_manifest_name": "ecg5000_gaf_64", "_dataset_params": {"n_fft": 128, "hop_length": 32, "gaf_image_size": 64, "video_num_segments": 8, "video_gaf_image_size": 64, "representation_type": "3D_DYNAMIC_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "MOSAN: an autonomous multi-objective agent for neural architecture discovery"
+authors:
+  - family-names: "Sagnelli"
+    given-names: "Domenico"
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # <- replace with your real ORCID
+abstract: >-
+  MOSAN is an autonomous AI-agent framework that designs, trains and evaluates
+  neural architectures across data modalities (1-D spectra, time series and 2-D
+  images), guided by an Organic Strategic Graph Memory (OSGM) and a multi-agent
+  Theorist/Critic/Decider loop.
+keywords:
+  - autonomous agents
+  - neural architecture search
+  - AutoML
+  - domain adaptation
+license: "Apache-2.0"
+version: "1.0.0"          # <- bump per release
+date-released: "2026-06-05"
+repository-code: "https://github.com/<user>/<repo>"   # <- add your GitHub repo link
+doi: "10.5281/zenodo.xxxxxxx"                         # <- add your Zenodo DOI when available
+
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Sagnelli"
+    given-names: "Domenico"
+  title: "MOSAN: an autonomous multi-objective agent for neural architecture discovery"
+  journal: "Name of the Journal"                      # <- add Journal name when accepted
+  year: 2026                                          # <- add publication year
+  doi: "10.xxxx/xxxxx"                                # <- add paper DOI when accepted

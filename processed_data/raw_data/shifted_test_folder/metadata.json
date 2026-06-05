@@ -1,0 +1,29 @@
+{
+    "name": "Dati Spettroscopia SERS (CSV)",
+    "type": "csv",
+    "description": "SERS Data of bacteria_low quality data",
+    "data_nature": "Tabled data / Feature",
+    "file_configurations": [
+        {
+            "category": "E.coli",
+            "paths": [
+                "COLI280_380_processed_supervised",
+                "COLI1000_380_processed_supervised"
+            ]
+        },
+        {
+            "category": "Enterococcus",
+            "paths": [
+                "ENTEROCUCCUSI280_380_processed_supervised",
+                "ENTEROCUCCUSI1000_380_processed_supervised"
+            ]
+        },
+        {
+            "category": "Citrobacter",
+            "paths": [
+                "citroI280_380_processed_supervised",
+                "citroI1000_380_processed_supervised"
+            ]
+        }
+    ]
+}

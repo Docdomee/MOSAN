@@ -1,0 +1,11 @@
+{
+    "representation_type": "1D_CNN",
+    "data_domain": "SERS_spectral",
+    "num_classes": 3,
+    "dataset_description": "SERS (Surface-Enhanced Raman Spectroscopy) spectra of 3 bacterial species (E. coli, S. aureus, S. epidermidis) collected in our laboratory on silver nanoparticle substrates. This is a PROPRIETARY EXPERIMENTAL DATASET — no external reference, no paper to search for. DO NOT perform web searches for this dataset.",
+    "train_split": "data_paper_aged (spectra collected at substrate fabrication time, used for training/CV)",
+    "test_split": "test_data_folder (spectra collected 6 months later on the same substrates — aged substrate causes systematic spectral drift, especially at ~1002 cm-1 phenylalanine band)",
+    "domain_shift": "Substrate aging causes intra-class variance > inter-class distance. Best result so far: 51.7% on aged test (2D_GAF). Fresh heldout: ~94%. Problem is NOT solvable by normalization alone — requires domain adaptation.",
+    "do_not_search_online": true,
+    "source": "proprietary_lab_data"
+}

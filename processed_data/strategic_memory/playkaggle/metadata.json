@@ -1,0 +1,5 @@
+{
+    "representation_type": "1D_CNN",
+    "data_domain": "Heart Disease prediction",
+    "num_classes": 2
+}

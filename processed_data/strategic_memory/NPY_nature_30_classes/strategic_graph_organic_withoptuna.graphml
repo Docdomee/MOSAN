@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d8" for="edge" attr.name="q_vector" attr.type="string"/>
+<key id="d7" for="edge" attr.name="full_arguments" attr.type="string"/>
+<key id="d6" for="edge" attr.name="raw_rewards" attr.type="string"/>
+<key id="d5" for="edge" attr.name="impact_vector" attr.type="string"/>
+<key id="d4" for="edge" attr.name="visits" attr.type="long"/>
+<key id="d3" for="edge" attr.name="action" attr.type="string"/>
+<key id="d2" for="node" attr.name="creation_step" attr.type="long"/>
+<key id="d1" for="node" attr.name="architecture" attr.type="string"/>
+<key id="d0" for="node" attr.name="vector" attr.type="string"/>
+<graph edgedefault="directed"><node id="1D_CNN_dcb823d7">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.379]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">5</data>
+</node>
+<node id="1D_CNN_1038b20f">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7279, 0.0, 0.02, 0.0306, 0.7279, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3483]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">6</data>
+</node>
+<node id="1D_CNN_74025854">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7279, -0.2441, 0.04, 0.0306, 0.7279, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3483]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">7</data>
+</node>
+<node id="1D_CNN_6e153311">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7279, -0.0003, 0.66, 0.0306, 0.7279, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3483]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">8</data>
+</node>
+<node id="2D_GAF_05887854">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7279, -0.0003, 0.66, 0.0306, 0.7279, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3483]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">9</data>
+</node>
+<node id="2D_GAF_27118a29">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.7279, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3483]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">10</data>
+</node>
+<edge source="1D_CNN_dcb823d7" target="1D_CNN_dcb823d7" id="run_training_trial(representation_type=1D_CNN, manifest_name=1D_CN...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=1D_CN...)</data>
+  <data key="d4">10</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "1D_CNN on NPY_nature_30_classes", "num_conv_layers": 8, "filters": 128, "kernel_size": 3, "dense_units": 256, "dropout_rate": 0.3, "learning_rate": 0.0008, "batch_size": 32, "weight_decay": 0.0001, "batch_norm": 1, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "1D_CNN on NPY_nature_30_classes"}</data>
+  <data key="d8">[-1.4899343837310999, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_dcb823d7" target="1D_CNN_dcb823d7" id="run_strategic_optuna_sweep(representation_type=1D_CNN, manifest_name=1D_CN...)">
+  <data key="d3">run_strategic_optuna_sweep(representation_type=1D_CNN, manifest_name=1D_CN...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "1D_CNN on NPY_nature_30_classes", "n_trials": 15, "optimization_focus": "accuracy", "hyperparameters": {"num_conv_layers": {"type": "int", "min": 4, "max": 12}, "filters": {"type": "choice", "choices": [128, 256]}, "kernel_size": {"type": "choice", "choices": [3, 5, 7]}, "dense_units": {"type": "choice", "choices": [128, 256, 512]}, "dropout_rate": {"type": "float", "min": 0.1, "max": 0.6}, "learning_rate": {"type": "loguniform", "min": 1e-05, "max": 0.01}, "weight_decay": {"type": "loguniform", "min": 1e-06, "max": 0.001}}, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "1D_CNN on NPY_nature_30_classes"}</data>
+  <data key="d8">[-1.155152305, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_dcb823d7" target="1D_CNN_dcb823d7" id="create_dataset_manifest(manifest_name=1D_CNN on NPY_nature_30_classes, ...)">
+  <data key="d3">create_dataset_manifest(manifest_name=1D_CNN on NPY_nature_30_classes, ...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "1D_CNN on NPY_nature_30_classes", "n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "_data_source": "NPY_nature_30_classes", "_manifest_name": "1D_CNN on NPY_nature_30_classes"}</data>
+  <data key="d8">[-1.3466971, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_dcb823d7" target="1D_CNN_dcb823d7" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_dcb823d7" target="1D_CNN_dcb823d7" id="create_dataset_manifest(manifest_name=1D_CNN_NPY_nature_30_classes, dat...)">
+  <data key="d3">create_dataset_manifest(manifest_name=1D_CNN_NPY_nature_30_classes, dat...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "1D_CNN_NPY_nature_30_classes", "dataset_name": "NPY_nature_30_classes", "representation_type": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "1D_CNN_NPY_nature_30_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_dcb823d7" target="1D_CNN_dcb823d7" id="create_dataset_manifest(manifest_name=1D_CNN_on_NPY_nature_30_classes, ...)">
+  <data key="d3">create_dataset_manifest(manifest_name=1D_CNN_on_NPY_nature_30_classes, ...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "1D_CNN_on_NPY_nature_30_classes", "dataset_name": "NPY_nature_30_classes", "representation_type": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "1D_CNN_on_NPY_nature_30_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_1038b20f" target="1D_CNN_1038b20f" id="run_training_trial(representation_type=1D_CNN, manifest_name=1D_CN...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=1D_CN...)</data>
+  <data key="d4">6</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "1D_CNN on NPY_nature_30_classes", "learning_rate": 0.0001, "batch_norm": 1, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "1D_CNN on NPY_nature_30_classes"}</data>
+  <data key="d8">[-1.5266786553910003, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_1038b20f" target="1D_CNN_1038b20f" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">6</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "1D_CNN_on_NPY_nature_30_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.07633393276955003, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_1038b20f" target="1D_CNN_1038b20f" id="create_dataset_manifest(manifest_name=1D_CNN on NPY_nature_30_classes, ...)">
+  <data key="d3">create_dataset_manifest(manifest_name=1D_CNN on NPY_nature_30_classes, ...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "1D_CNN on NPY_nature_30_classes", "n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "_data_source": "NPY_nature_30_classes", "_manifest_name": "1D_CNN on NPY_nature_30_classes"}</data>
+  <data key="d8">[-1.0182471620500002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_1038b20f" target="1D_CNN_1038b20f" id="create_dataset_manifest(manifest_name=1D_CNN_NPY_nature_30_classes, par...)">
+  <data key="d3">create_dataset_manifest(manifest_name=1D_CNN_NPY_nature_30_classes, par...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "1D_CNN_NPY_nature_30_classes", "params": {}, "_data_source": "NPY_nature_30_classes", "_manifest_name": "1D_CNN_NPY_nature_30_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_1038b20f" target="1D_CNN_74025854" id="run_training_trial(representation_type=1D_CNN, manifest_name=1D_CN...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=1D_CN...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.053410005569458, 0.00474727292253514, 7.022275924682617, 0.08800506591796875]</data>
+  <data key="d6">[[-0.05, 0.053410005569458, 0.00474727292253514, 7.022275924682617, 0.08800506591796875], [-0.05, 0.053410005569458, 0.00474727292253514, 7.022275924682617, 0.08800506591796875]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "1D_CNN_NPY_nature_30_classes", "kernel_size": 5, "batch_norm": 1, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "1D_CNN_NPY_nature_30_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.053410005569458, 0.00474727292253514, 7.022275924682617, 0.08800506591796875]</data>
+</edge>
+<edge source="1D_CNN_74025854" target="1D_CNN_74025854" id="run_training_trial(representation_type=1D_CNN, manifest_name=1D_CN...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=1D_CN...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, -0.013698331514994304, 0.008273939532463003, 8.14096450805664, 0.07213592529296875]</data>
+  <data key="d6">[[-0.05, -0.013698331514994304, 0.008273939532463003, 8.14096450805664, 0.07213592529296875], [-0.05, -0.013698331514994304, 0.008273939532463003, 8.14096450805664, 0.07213592529296875]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "1D_CNN_NPY_nature_30_classes", "learning_rate": 0.0001, "batch_norm": 1, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "1D_CNN_NPY_nature_30_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, -0.016151702689329785, 0.009755802102727126, 9.599011251449586, 0.08505546951293946]</data>
+</edge>
+<edge source="1D_CNN_74025854" target="1D_CNN_6e153311" id="run_strategic_optuna_sweep(representation_type=1D_CNN, manifest_name=1D_CN...)">
+  <data key="d3">run_strategic_optuna_sweep(representation_type=1D_CNN, manifest_name=1D_CN...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "1D_CNN_NPY_nature_30_classes", "n_trials": 30, "optimization_focus": "accuracy", "hyperparameters": {"learning_rate": {"type": "loguniform", "min": 1e-05, "max": 0.001}, "dropout_rate": {"type": "float", "min": 0.05, "max": 0.15}, "filters": {"type": "choice", "choices": [32, 64, 128, 256]}, "dense_units": {"type": "choice", "choices": [64, 128, 256, 512]}, "weight_decay": {"type": "loguniform", "min": 1e-06, "max": 0.001}}, "experiment_name": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "1D_CNN_NPY_nature_30_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_6e153311" target="1D_CNN_6e153311" id="set_optimization_model(model_name=2D_GAF)">
+  <data key="d3">set_optimization_model(model_name=2D_GAF)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "1D_CNN_NPY_nature_30_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_05887854" target="2D_GAF_27118a29" id="set_optimization_model(model_name=2D_GAF)">
+  <data key="d3">set_optimization_model(model_name=2D_GAF)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.7279, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.7279, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "1D_CNN_NPY_nature_30_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.7279, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_27118a29" target="2D_GAF_27118a29" id="create_dataset_manifest(manifest_name=2D_GAF_NPY_nature_30_classes, n_f...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_GAF_NPY_nature_30_classes, n_f...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_NPY_nature_30_classes", "n_fft": 512, "hop_length": 256, "gaf_image_size": 128, "video_num_segments": 10, "video_gaf_image_size": 64, "_data_source": "NPY_nature_30_classes", "_manifest_name": "2D_GAF_NPY_nature_30_classes", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 128, "video_num_segments": 10, "video_gaf_image_size": 64}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+</graph></graphml>

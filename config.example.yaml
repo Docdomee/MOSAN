@@ -1,0 +1,80 @@
+# Hydra Configuration for AI Architect Agent (Cluster Mode)
+# ---------------------------------------------------------------------------
+# TEMPLATE. Copy this file to `config.yaml` and fill in your own values.
+# `config.yaml` is gitignored so your real API key is never published.
+# ---------------------------------------------------------------------------
+memory:
+  backend: "sqlite"  # options: "json", "sqlite"
+  fallback_to_json: false
+api:
+  provider: "Openrouter" # Options: "OpenRouter", "LM Studio (Local)", "vllm"
+  openrouter_api_key: ""   # <-- put YOUR OpenRouter key here (do NOT commit it)
+  openrouter_model_name: "qwen/qwen3.6-plus"
+  theorist_model: "qwen/qwen3.6-plus"      # thinking model for deep hypothesis reasoning
+  decider_model: "deepseek/deepseek-v4-flash"    # fast non-thinking model for reliable tool calls
+  coding_llm_model: "qwen/qwen3-coder"
+  local_llm_url: "http://localhost:8000/v1"
+
+logging:
+  mlflow:
+    tracking_uri: "file://./processed_data/mlruns"
+    experiment_name: "my_experiment"
+    autolog: true
+
+data:
+  raw_data_source: "SERS_data_test"
+
+optimization:
+  target: 0.90
+  selected_model: "1D_CNN"
+
+execution:
+  manual_chat_mode: true
+  enable_supernet: false
+  max_concurrent_gpu: 1
+  memory_reset_interval: 10
+  num_steps: 30
+  mode: "optimization" # Options: "optimization", "report", "imagenet_competition"
+  report_source: "processed_data/logs/report_staging"
+  chunk_token_limit: 50000
+
+training:
+  early_stopping_patience: 9999   # set 15-20 to enable; 9999 disables early stopping
+  checkpoint_every_n_epochs: 20
+  finetune_session_cap: 50
+  finetune_progress_window: 20
+
+strategic_advisor:
+  enabled: true
+  default_lens: "auto" # Options: "auto", "hawk", "sage", "explorer", "engineer"
+  use_meta_rules: true
+  log_decisions: true
+  maintenance_interval: 10
+  hybrid_advice_interval: 5
+  ghost_cold_start_threshold: 10
+  saturation_enabled: false
+  saturation_min_graph_nodes: 10
+  saturation_recent_window: 10
+  explorer_novelty_percentile: 0.75
+  hawk_accuracy_slope_threshold: 0.001
+  sage_stability_std_threshold: 0.01
+  engineer_coverage_threshold: 0.8
+
+imagenet:
+  enabled: false
+  dataset_dir: "processed_data/imagenet/train"
+  val_dir: "processed_data/imagenet/val"
+  test_dir: "processed_data/imagenet/test"
+  checkpoint_dir: "processed_data/imagenet/checkpoints"
+  submission_output: "outputs/imagenet/submission.csv"
+  synset_map: "imagenet/synset_mapping.txt"
+  training:
+    backbone_depth: 152
+    batch_size_per_gpu: 256
+    base_lr: 0.1
+    warmup_epochs: 5
+    total_epochs: 90
+    mixed_precision: true
+    xla: false
+    bbox_loss_weight: 1.0
+    save_every_n_epochs: 5

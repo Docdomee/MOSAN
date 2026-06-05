@@ -1,0 +1,1196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="id" attr.type="string"/>
+<key id="d8" for="edge" attr.name="q_vector" attr.type="string"/>
+<key id="d7" for="edge" attr.name="full_arguments" attr.type="string"/>
+<key id="d6" for="edge" attr.name="raw_rewards" attr.type="string"/>
+<key id="d5" for="edge" attr.name="impact_vector" attr.type="string"/>
+<key id="d4" for="edge" attr.name="visits" attr.type="long"/>
+<key id="d3" for="edge" attr.name="action" attr.type="string"/>
+<key id="d2" for="node" attr.name="creation_step" attr.type="long"/>
+<key id="d1" for="node" attr.name="architecture" attr.type="string"/>
+<key id="d0" for="node" attr.name="vector" attr.type="string"/>
+<graph edgedefault="directed"><node id="1D_CNN_39b74936">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2918]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">0</data>
+</node>
+<node id="1D_CNN_37d1716d">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5457, 0.0, 0.02, 0.1602, 0.5457, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2918]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">1</data>
+</node>
+<node id="1D_CNN_2a870fd4">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5457, -0.1703, 0.04, 0.1602, 0.5457, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2918]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">2</data>
+</node>
+<node id="1D_CNN_2700fc76">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5457, -0.0691, 0.06, 0.1602, 0.5457, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2918]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">3</data>
+</node>
+<node id="1D_CNN_2f1da7d3">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5457, -0.0691, 0.06, 0.1602, 0.5457, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3449]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">4</data>
+</node>
+<node id="1D_CNN_d13ff0b0">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7087, 0.0521, 0.08, 0.0675, 0.7087, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3449]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">5</data>
+</node>
+<node id="1D_CNN_48c11928">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">6</data>
+</node>
+<node id="1D_CNN_48b9707b">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3735, 0.0, 0.02, 0.0546, 0.3735, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">7</data>
+</node>
+<node id="1D_CNN_0351c9a2">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6678, 0.2943, 0.04, 0.2345, 0.6678, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">8</data>
+</node>
+<node id="1D_CNN_8757615d">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8494, 0.238, 0.06, 0.0219, 0.8494, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">9</data>
+</node>
+<node id="1D_CNN_477de467">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8494, 0.1463, 0.08, 0.0219, 0.8494, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">10</data>
+</node>
+<node id="1D_CNN_fd6b2ca2">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8807, 0.1147, 0.1, 0.0138, 0.8807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">11</data>
+</node>
+<node id="1D_CNN_c15299ad">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8807, 0.0423, 0.12, 0.0138, 0.8807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">12</data>
+</node>
+<node id="1D_CNN_7a07683f">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8807, -0.0968, 0.14, 0.0138, 0.8807, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">13</data>
+</node>
+<node id="1D_CNN_5da6e7d4">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9158, 0.0018, 0.44, 0.0063, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">14</data>
+</node>
+<node id="1D_CNN_f44a29ff">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9158, -0.0317, 0.48, 0.0063, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">15</data>
+</node>
+<node id="advanced_d_cnn_spectral.py_11590c97">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9158, -0.0317, 0.48, 0.0063, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">advanced_d_cnn_spectral.py</data>
+  <data key="d2">16</data>
+</node>
+<node id="advanced_d_cnn_spectral.py_105923f8">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">advanced_d_cnn_spectral.py</data>
+  <data key="d2">17</data>
+</node>
+<node id="advanced_d_cnn_spectral.py_d3f342d6">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.8004, 0.0, 0.02, 0.0017, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">advanced_d_cnn_spectral.py</data>
+  <data key="d2">18</data>
+</node>
+<node id="advanced_d_cnn_spectral.py_60967078">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.8708, 0.0352, 0.06, 0.0117, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">advanced_d_cnn_spectral.py</data>
+  <data key="d2">19</data>
+</node>
+<node id="refined_d_cnn_optimized.py_e5671b81">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.8708, 0.0352, 0.06, 0.0117, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">refined_d_cnn_optimized.py</data>
+  <data key="d2">20</data>
+</node>
+<node id="refined_d_cnn_optimized.py_68340e58">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">refined_d_cnn_optimized.py</data>
+  <data key="d2">21</data>
+</node>
+<node id="refined_d_cnn_optimized.py_a62857cf">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.864, 0.0, 0.02, 0.005, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">refined_d_cnn_optimized.py</data>
+  <data key="d2">22</data>
+</node>
+<node id="refined_d_cnn_optimized.py_a027f6b9">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.864, -0.0069, 0.1, 0.005, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">refined_d_cnn_optimized.py</data>
+  <data key="d2">23</data>
+</node>
+<node id="refined_d_cnn_optimized.py_9597fb80">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.864, -0.0148, 0.16, 0.005, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">refined_d_cnn_optimized.py</data>
+  <data key="d2">24</data>
+</node>
+<node id="refined_d_cnn_optimized.py_9e06531a">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.8878, 0.0157, 0.22, 0.0095, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">refined_d_cnn_optimized.py</data>
+  <data key="d2">25</data>
+</node>
+<node id="refined_d_cnn_optimized.py_7abf35f8">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.8999, 0.0104, 0.28, 0.0087, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">refined_d_cnn_optimized.py</data>
+  <data key="d2">26</data>
+</node>
+<node id="refined_d_cnn_optimized.py_eb67f2d2">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.8999, -0.0055, 0.34, 0.0087, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">refined_d_cnn_optimized.py</data>
+  <data key="d2">27</data>
+</node>
+<node id="refined_d_cnn_optimized.py_773ee12f">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.8999, -0.015, 0.5, 0.0087, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">refined_d_cnn_optimized.py</data>
+  <data key="d2">28</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_a066ca0c">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.8999, -0.015, 0.5, 0.0087, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">29</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_6158a3d0">
+  <data key="d0">[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">30</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_58772685">
+  <data key="d0">[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7641, 0.0, 0.02, 0.0774, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">31</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_c80bc551">
+  <data key="d0">[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7894, 0.0127, 0.06, 0.0427, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">32</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_31bc9844">
+  <data key="d0">[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8905, 0.0429, 0.08, 0.0105, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">33</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_9234ac95">
+  <data key="d0">[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8983, -0.0336, 0.18, 0.0024, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">34</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_55684ef0">
+  <data key="d0">[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8983, -0.0016, 0.22, 0.0024, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">35</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_a51dac06">
+  <data key="d0">[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8993, 0.0333, 0.26, 0.0039, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">36</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_320812c8">
+  <data key="d0">[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8993, 0.0002, 0.3, 0.0039, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">37</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_ab59d63d">
+  <data key="d0">[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8993, -0.0986, 0.36, 0.0039, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">38</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_117f53a0">
+  <data key="d0">[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8993, -0.004, 0.4, 0.0039, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">39</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_b0886559">
+  <data key="d0">[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8993, 0.0494, 0.42, 0.0039, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">40</data>
+</node>
+<node id="2D_CWT_SCALOGRAM_304ac9ff">
+  <data key="d0">[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8993, 0.0052, 0.64, 0.0039, 0.9158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8913]</data>
+  <data key="d1">2D_CWT_SCALOGRAM</data>
+  <data key="d2">41</data>
+</node>
+<edge source="1D_CNN_39b74936" target="1D_CNN_39b74936" id="0">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d9">0</data>
+</edge>
+<edge source="1D_CNN_39b74936" target="1D_CNN_37d1716d" id="0">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.5457, 0.49846169551213587, 0.006649572078627783, 11.750993728637695, 4.865734100341797]</data>
+  <data key="d6">[[0.5457, 0.49846169551213587, 0.006649572078627783, 11.750993728637695, 4.865734100341797], [0.5457, 0.49846169551213587, 0.006649572078627783, 11.750993728637695, 4.865734100341797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 64, "batch_norm": 1, "learning_rate": 0.001, "dropout_rate": 0.3, "kernel_size": 7, "dense_units": 128, "weight_decay": 0.0001, "batch_size": 32, "epochs": 100, "patience": 20, "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.5457, 0.49846169551213587, 0.006649572078627783, 11.750993728637695, 4.865734100341797]</data>
+  <data key="d9">0</data>
+</edge>
+<edge source="1D_CNN_37d1716d" target="1D_CNN_2a870fd4" id="0">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.572335418065389, 0.001092307134108095, 12.474112510681152, 2.239757537841797]</data>
+  <data key="d6">[[-0.05, 0.572335418065389, 0.001092307134108095, 12.474112510681152, 2.239757537841797], [-0.05, 0.572335418065389, 0.001092307134108095, 12.474112510681152, 2.239757537841797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 64, "batch_norm": 1, "learning_rate": 0.001, "dropout_rate": 0.3, "kernel_size": 3, "dense_units": 128, "weight_decay": 0.0, "batch_size": 32, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.5723354180653891, 0.001092307134108095, 12.474112510681152, 2.239757537841797]</data>
+  <data key="d9">0</data>
+</edge>
+<edge source="1D_CNN_2a870fd4" target="1D_CNN_2700fc76" id="0">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.5536783138910929, 0.0067288128414539385, 11.512908935546875, 3.552745819091797]</data>
+  <data key="d6">[[-0.05, 0.5536783138910929, 0.0067288128414539385, 11.512908935546875, 3.552745819091797], [-0.05, 0.5536783138910929, 0.0067288128414539385, 11.512908935546875, 3.552745819091797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 64, "kernel_size": 5, "dense_units": 128, "dropout_rate": 0.3, "learning_rate": 0.001, "batch_size": 32, "batch_norm": 1, "weight_decay": 1e-05, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.5536783138910929, 0.0067288128414539385, 11.512908935546875, 3.552745819091797]</data>
+  <data key="d9">0</data>
+</edge>
+<edge source="1D_CNN_2f1da7d3" target="1D_CNN_2f1da7d3" id="0">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d9">list_available_datasets</data>
+</edge>
+<edge source="1D_CNN_2f1da7d3" target="1D_CNN_d13ff0b0" id="0">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.16300000000000003, 0.5327719012896219, 0.01709173749191592, 12.515816688537598, 3.552745819091797]</data>
+  <data key="d6">[[0.16300000000000003, 0.5327719012896219, 0.01709173749191592, 12.515816688537598, 3.552745819091797], [0.16300000000000003, 0.5327719012896219, 0.01709173749191592, 12.515816688537598, 3.552745819091797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "dropout_rate": 0.5, "weight_decay": 0.001, "num_conv_layers": 4, "filters": 64, "kernel_size": 5, "dense_units": 128, "learning_rate": 0.0005, "batch_size": 32, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.16300000000000003, 0.5327719012896219, 0.01709173749191592, 12.515816688537598, 3.552745819091797]</data>
+  <data key="d9">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+</edge>
+<edge source="1D_CNN_48c11928" target="1D_CNN_48c11928" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_48c11928" target="1D_CNN_48b9707b" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.3735, 0.5699514110883076, 0.0015672727064652908, 9.623546600341797, 0.6049919128417969]</data>
+  <data key="d6">[[0.3735, 0.5699514110883076, 0.0015672727064652908, 9.623546600341797, 0.6049919128417969], [0.3735, 0.5699514110883076, 0.0015672727064652908, 9.623546600341797, 0.6049919128417969]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "kernel_size": 3, "batch_norm": 1, "num_conv_layers": 3, "filters": 64, "dense_units": 128, "dropout_rate": 0.3, "learning_rate": 0.001, "weight_decay": 0.0001, "batch_size": 32, "epochs": 100, "patience": 20, "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.3735, 0.5699514110883076, 0.0015672727064652908, 9.623546600341797, 0.6049919128417969]</data>
+</edge>
+<edge source="1D_CNN_48b9707b" target="1D_CNN_0351c9a2" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.29429999999999995, 0.5439652403195699, 0.00640499935005651, 12.04296588897705, 8.658214569091797]</data>
+  <data key="d6">[[0.29429999999999995, 0.5439652403195699, 0.00640499935005651, 12.04296588897705, 8.658214569091797], [0.29429999999999995, 0.5439652403195699, 0.00640499935005651, 12.04296588897705, 8.658214569091797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 128, "kernel_size": 5, "dense_units": 256, "dropout_rate": 0.4, "learning_rate": 0.0005, "batch_size": 64, "batch_norm": 1, "weight_decay": 1e-05, "epochs": 100, "patience": 20, "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.29429999999999995, 0.5439652403195699, 0.00640499935005651, 12.04296588897705, 8.658214569091797]</data>
+</edge>
+<edge source="1D_CNN_0351c9a2" target="1D_CNN_0351c9a2" id="analyze_best_vs_worst_trials(architecture_filter=1D_CNN)">
+  <data key="d3">analyze_best_vs_worst_trials(architecture_filter=1D_CNN)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.1791, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_0351c9a2" target="1D_CNN_8757615d" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.1816000000000001, 0.32733896176020305, 0.02836947091902146, 11.817669868469238, 3.804698944091797]</data>
+  <data key="d6">[[0.1816000000000001, 0.32733896176020305, 0.02836947091902146, 11.817669868469238, 3.804698944091797], [0.1816000000000001, 0.32733896176020305, 0.02836947091902146, 11.817669868469238, 3.804698944091797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 64, "kernel_size": 5, "dense_units": 256, "dropout_rate": 0.3, "learning_rate": 0.0001, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 100, "patience": 20, "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.1816000000000001, 0.32733896176020305, 0.02836947091902146, 11.817669868469238, 3.804698944091797]</data>
+</edge>
+<edge source="1D_CNN_8757615d" target="1D_CNN_8757615d" id="memorize_finding(finding=Best 1D_CNN config on sers_data_3_class...)">
+  <data key="d3">memorize_finding(finding=Best 1D_CNN config on sers_data_3_class...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "Best 1D_CNN config on sers_data_3_classes so far: num_conv_layers=4, filters=128, lr=0.0005, dropout=0.4 \u2192 held_out=0.6259 (CV 0.6678). Batch_norm not explicitly tested yet (all prior trials likely used default batch_norm=0), but the config shows strong discriminative feature strength. O1/O2 (batch_norm=1, kernel_size=3) remain unexecuted but threshold 0.35 already surpassed.", "category": "architecture_performance", "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_8757615d" target="1D_CNN_8757615d" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_8757615d" target="1D_CNN_477de467" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.4852580050627391, 0.015136166835072075, 9.806818962097168, 3.396495819091797]</data>
+  <data key="d6">[[-0.05, 0.4852580050627391, 0.015136166835072075, 9.806818962097168, 3.396495819091797], [-0.05, 0.4852580050627391, 0.015136166835072075, 9.806818962097168, 3.396495819091797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 3, "filters": 128, "kernel_size": 5, "dense_units": 128, "dropout_rate": 0.4, "learning_rate": 0.0001, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 150, "patience": 20, "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.4852580050627391, 0.015136166835072075, 9.806818962097168, 3.396495819091797]</data>
+</edge>
+<edge source="1D_CNN_477de467" target="1D_CNN_477de467" id="get_optimization_status">
+  <data key="d3">get_optimization_status</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_477de467" target="1D_CNN_477de467" id="memorize_finding(finding=1D_CNN on sers_data_3_classes: Step 2 t...)">
+  <data key="d3">memorize_finding(finding=1D_CNN on sers_data_3_classes: Step 2 t...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "1D_CNN on sers_data_3_classes: Step 2 trial with num_conv_layers=3, filters=128, lr=0.0001, dropout=0.4 (no batch_norm) gave HO=0.3269, CV=0.8007, confirming capacity compression does NOT raise accuracy above 0.6259. Now testing explicit batch_norm=1, weight_decay=1e-4, patience=20, deeper 4 layers.", "category": "hyperparameter", "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_477de467" target="1D_CNN_fd6b2ca2" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.031299999999999994, 0.38540577093760175, 0.04247589117348796, 11.335434913635254, 8.658214569091797]</data>
+  <data key="d6">[[0.031299999999999994, 0.38540577093760175, 0.04247589117348796, 11.335434913635254, 8.658214569091797], [0.031299999999999994, 0.38540577093760175, 0.04247589117348796, 11.335434913635254, 8.658214569091797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "batch_norm": 1, "num_conv_layers": 4, "filters": 128, "kernel_size": 5, "dense_units": 256, "dropout_rate": 0.2, "learning_rate": 0.0001, "batch_size": 32, "weight_decay": 0.0001, "epochs": 100, "patience": 20, "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.031299999999999994, 0.38540577093760175, 0.04247589117348796, 11.335434913635254, 8.658214569091797]</data>
+</edge>
+<edge source="1D_CNN_fd6b2ca2" target="1D_CNN_fd6b2ca2" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_fd6b2ca2" target="1D_CNN_c15299ad" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.32130667765935267, 0.04967737643405645, 11.139683723449707, 13.042980194091797]</data>
+  <data key="d6">[[-0.05, 0.32130667765935267, 0.04967737643405645, 11.139683723449707, 13.042980194091797], [-0.05, 0.32130667765935267, 0.04967737643405645, 11.139683723449707, 13.042980194091797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 256, "kernel_size": 5, "dense_units": 256, "dropout_rate": 0.3, "learning_rate": 0.0001, "batch_size": 32, "weight_decay": 0.0001, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.32130667765935267, 0.04967737643405646, 11.139683723449707, 13.042980194091797]</data>
+</edge>
+<edge source="1D_CNN_c15299ad" target="1D_CNN_c15299ad" id="create_dataset_manifest(manifest_name=sers_data_3_classes, representati...)">
+  <data key="d3">create_dataset_manifest(manifest_name=sers_data_3_classes, representati...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "sers_data_3_classes", "representation_type": "1D_CNN", "n_fft": 512, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 8, "video_gaf_image_size": 24, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_c15299ad" target="1D_CNN_7a07683f" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.5747606992721558, 0.0017133934329254443, 9.634027481079102, 3.396495819091797]</data>
+  <data key="d6">[[-0.05, 0.5747606992721558, 0.0017133934329254443, 9.634027481079102, 3.396495819091797], [-0.05, 0.5747606992721558, 0.0017133934329254443, 9.634027481079102, 3.396495819091797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 3, "filters": 128, "kernel_size": 5, "dense_units": 128, "dropout_rate": 0.4, "learning_rate": 0.0005, "batch_size": 64, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 150, "patience": 20, "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.5747606992721558, 0.0017133934329254445, 9.634027481079102, 3.396495819091797]</data>
+</edge>
+<edge source="1D_CNN_7a07683f" target="1D_CNN_5da6e7d4" id="run_strategic_optuna_sweep(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_strategic_optuna_sweep(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.03509999999999991, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[0.03509999999999991, 0.0, 0.0, 0.0, 0.0], [0.03509999999999991, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "n_trials": 15, "optimization_focus": "accuracy", "hyperparameters": {"learning_rate": {"type": "loguniform", "min": 5e-05, "max": 0.0002}, "dropout_rate": {"type": "float", "min": 0.1, "max": 0.6}, "filters": {"type": "choice", "choices": [32, 64, 128, 256]}, "num_conv_layers": {"type": "int", "min": 2, "max": 6}, "kernel_size": {"type": "choice", "choices": [3, 5, 7]}, "dense_units": {"type": "choice", "choices": [64, 128, 256]}, "weight_decay": {"type": "loguniform", "min": 1e-06, "max": 0.001}, "batch_size": {"type": "choice", "choices": [16, 32, 64]}, "epochs": {"type": "int", "min": 100, "max": 200}, "patience": {"type": "int", "min": 15, "max": 30}, "batch_norm": {"type": "choice", "choices": [1]}}, "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.03509999999999991, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_5da6e7d4" target="1D_CNN_5da6e7d4" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.40486014286677047, 0.021905281507607673, 7.756924629211426, 0.3515739440917969]</data>
+  <data key="d6">[[-0.05, 0.40486014286677047, 0.021905281507607673, 7.756924629211426, 0.3515739440917969], [-0.05, 0.40486014286677047, 0.021905281507607673, 7.756924629211426, 0.3515739440917969]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 2, "filters": 64, "kernel_size": 9, "dense_units": 128, "dropout_rate": 0.5, "learning_rate": 0.0001, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 100, "patience": 20, "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.4773705944542091, 0.02582851742562021, 9.146189830303193, 0.41454083747863774]</data>
+</edge>
+<edge source="1D_CNN_5da6e7d4" target="1D_CNN_5da6e7d4" id="analyze_best_vs_worst_trials(architecture_filter=1D_CNN)">
+  <data key="d3">analyze_best_vs_worst_trials(architecture_filter=1D_CNN)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.08163037165166975, 0.0044166764797810565, 1.5639984609818463, 0.07088648320884706]</data>
+</edge>
+<edge source="1D_CNN_5da6e7d4" target="1D_CNN_5da6e7d4" id="query_research_archive(query=data leakage CV HO inversion train test s...)">
+  <data key="d3">query_research_archive(query=data leakage CV HO inversion train test s...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"query": "data leakage CV HO inversion train test split preprocessing", "top_k": 5, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.08163037165166975, 0.0044166764797810565, 1.5639984609818463, 0.07088648320884706]</data>
+</edge>
+<edge source="1D_CNN_5da6e7d4" target="1D_CNN_5da6e7d4" id="get_explored_ranges(architecture_filter=1D_CNN)">
+  <data key="d3">get_explored_ranges(architecture_filter=1D_CNN)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.08163037165166975, 0.0044166764797810565, 1.5639984609818463, 0.07088648320884706]</data>
+</edge>
+<edge source="1D_CNN_5da6e7d4" target="1D_CNN_5da6e7d4" id="memorize_finding(finding=1D_CNN on sers_data_3_classes: After 9 ...)">
+  <data key="d3">memorize_finding(finding=1D_CNN on sers_data_3_classes: After 9 ...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "1D_CNN on sers_data_3_classes: After 9 trials varying num_conv_layers (2-4), filters (64-256), learning_rate (0.0001-0.0005), dropout (0.3-0.5), the best HO accuracy was 0.4061 (CV 0.7446), with CV-HO gap &gt;0.33 in all runs. The persistent inversion\u2014CV &gt;0.74, HO &lt;0.41\u2014confirms the root cause is not hyperparameter-tunable; data leakage or evaluation flaw is strongly suspected. Optuna sweep failed with internal tool error '_missing_from_sweep', so systematic optimization remains untested but unlikely to overcome the structural gap. No configuration approached the stale 0.6259 peak.", "category": "dead_end", "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.08163037165166975, 0.0044166764797810565, 1.5639984609818463, 0.07088648320884706]</data>
+</edge>
+<edge source="1D_CNN_5da6e7d4" target="1D_CNN_5da6e7d4" id="set_optimization_model(model_name=1D_SPECTRAL_SCATTER)">
+  <data key="d3">set_optimization_model(model_name=1D_SPECTRAL_SCATTER)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "1D_SPECTRAL_SCATTER", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.0100813050000002, 0.08163037165166975, 0.0044166764797810565, 1.5639984609818463, 0.07088648320884706]</data>
+</edge>
+<edge source="1D_CNN_5da6e7d4" target="1D_CNN_f44a29ff" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.4930623571077983, 0.011888063315189252, 8.879690170288086, 1.2309684753417969]</data>
+  <data key="d6">[[-0.05, 0.4930623571077983, 0.011888063315189252, 8.879690170288086, 1.2309684753417969]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 3, "filters": 64, "kernel_size": 7, "dense_units": 128, "dropout_rate": 0.6, "learning_rate": 0.0001, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.005, "epochs": 150, "patience": 25, "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.49306235710779833, 0.011888063315189252, 8.879690170288086, 1.2309684753417969]</data>
+</edge>
+<edge source="1D_CNN_f44a29ff" target="1D_CNN_f44a29ff" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.4930623571077983, 0.011888063315189252, 8.879690170288086, 1.2309684753417969]</data>
+  <data key="d6">[[-0.05, 0.4930623571077983, 0.011888063315189252, 8.879690170288086, 1.2309684753417969]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 3, "filters": 64, "kernel_size": 7, "dense_units": 128, "dropout_rate": 0.6, "learning_rate": 0.0001, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.005, "epochs": 150, "patience": 25, "experiment_name": "1D_CNN", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.5374379692475002, 0.012957989013556284, 9.678862285614013, 1.3417556381225588]</data>
+</edge>
+<edge source="1D_CNN_f44a29ff" target="1D_CNN_f44a29ff" id="set_optimization_model(model_name=advanced_d_cnn_spectral.py)">
+  <data key="d3">set_optimization_model(model_name=advanced_d_cnn_spectral.py)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "advanced_d_cnn_spectral.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.048369417232275023, 0.0011662190112200657, 0.8710976057052613, 0.1207580074310303]</data>
+</edge>
+<edge source="advanced_d_cnn_spectral.py_11590c97" target="advanced_d_cnn_spectral.py_105923f8" id="set_optimization_model(model_name=advanced_d_cnn_spectral.py)">
+  <data key="d3">set_optimization_model(model_name=advanced_d_cnn_spectral.py)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.9158, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.9158, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "advanced_d_cnn_spectral.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.9158, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="advanced_d_cnn_spectral.py_105923f8" target="advanced_d_cnn_spectral.py_105923f8" id="read_file_from_architectures(filename=advanced_d_cnn_spectral.py)">
+  <data key="d3">read_file_from_architectures(filename=advanced_d_cnn_spectral.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "advanced_d_cnn_spectral.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="advanced_d_cnn_spectral.py_105923f8" target="advanced_d_cnn_spectral.py_d3f342d6" id="run_training_trial(custom_architecture_file=advanced_d_cnn_spectra...)">
+  <data key="d3">run_training_trial(custom_architecture_file=advanced_d_cnn_spectra...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.8004, 0.19332390626271564, 0.03840390618401345, 12.754068374633789, 2.0393218994140625]</data>
+  <data key="d6">[[0.8004, 0.19332390626271564, 0.03840390618401345, 12.754068374633789, 2.0393218994140625], [0.8004, 0.19332390626271564, 0.03840390618401345, 12.754068374633789, 2.0393218994140625]]</data>
+  <data key="d7">{"custom_architecture_file": "advanced_d_cnn_spectral.py", "representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 3, "filters": 64, "kernel_size": 7, "dense_units": 128, "dropout_rate": 0.6, "learning_rate": 0.0001, "batch_size": 32, "weight_decay": 0.005, "batch_norm": 1, "epochs": 150, "patience": 25, "experiment_name": "advanced_d_cnn_spectral_strong_reg", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.8004, 0.19332390626271564, 0.03840390618401345, 12.754068374633789, 2.0393218994140625]</data>
+</edge>
+<edge source="advanced_d_cnn_spectral.py_d3f342d6" target="advanced_d_cnn_spectral.py_d3f342d6" id="memorize_finding(finding=advanced_d_cnn_spectral.py on sers_data...)">
+  <data key="d3">memorize_finding(finding=advanced_d_cnn_spectral.py on sers_data...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "advanced_d_cnn_spectral.py on sers_data_3_classes with 1D_CNN representation achieved HO=0.5020 (CV=0.8004), surpassing the 0.50 target and breaking the previous best of 0.4061. Configuration: num_conv_layers=3, filters=64, learning_rate=0.0001, dropout_rate=0.6, batch_norm=1 (implicit). This result demonstrates that the architecture's spectral design effectively mitigates overfitting and lifts held-out accuracy. The stale 0.6259 peak remains unverified but is now superseded by a reproducible, clean result above threshold.", "category": "breakthrough", "experiment_name": "advanced_d_cnn_spectral.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="advanced_d_cnn_spectral.py_d3f342d6" target="advanced_d_cnn_spectral.py_d3f342d6" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="advanced_d_cnn_spectral.py_d3f342d6" target="advanced_d_cnn_spectral.py_d3f342d6" id="read_file_from_architectures(filename=advanced_d_cnn_spectral.py)">
+  <data key="d3">read_file_from_architectures(filename=advanced_d_cnn_spectral.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "advanced_d_cnn_spectral.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="advanced_d_cnn_spectral.py_d3f342d6" target="advanced_d_cnn_spectral.py_d3f342d6" id="run_training_trial(custom_architecture_file=advanced_d_cnn_spectra...)">
+  <data key="d3">run_training_trial(custom_architecture_file=advanced_d_cnn_spectra...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.018399999999999972, 0.16962523460388187, 0.05507897535959882, 12.651090621948242, 8.141128540039062]</data>
+  <data key="d6">[[0.018399999999999972, 0.16962523460388187, 0.05507897535959882, 12.651090621948242, 8.141128540039062], [0.018399999999999972, 0.16962523460388187, 0.05507897535959882, 12.651090621948242, 8.141128540039062]]</data>
+  <data key="d7">{"custom_architecture_file": "advanced_d_cnn_spectral.py", "representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 3, "filters": 128, "kernel_size": 7, "dense_units": 256, "dropout_rate": 0.4, "learning_rate": 0.0003, "weight_decay": 0.001, "batch_size": 64, "batch_norm": 1, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.02169543999999997, 0.20000511412143715, 0.06494361984650297, 14.916900952339173, 9.599204661560059]</data>
+</edge>
+<edge source="advanced_d_cnn_spectral.py_d3f342d6" target="advanced_d_cnn_spectral.py_d3f342d6" id="get_optimization_status">
+  <data key="d3">get_optimization_status</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.04629007976000002, 0.03420087451476575, 0.011105358993752009, 2.5507900628499987, 1.6414639971267704]</data>
+</edge>
+<edge source="advanced_d_cnn_spectral.py_d3f342d6" target="advanced_d_cnn_spectral.py_d3f342d6" id="recall_relevant_memories(query=finetune split aged calibration sers_data...)">
+  <data key="d3">recall_relevant_memories(query=finetune split aged calibration sers_data...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.1, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[0.1, 0.0, 0.0, 0.0, 0.0], [0.1, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"query": "finetune split aged calibration sers_data_3_classes", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.11791000000000003, 0.03420087451476575, 0.011105358993752009, 2.5507900628499987, 1.6414639971267704]</data>
+</edge>
+<edge source="advanced_d_cnn_spectral.py_d3f342d6" target="advanced_d_cnn_spectral.py_d3f342d6" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, custom_ar...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, custom_ar...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "custom_architecture_file": "advanced_d_cnn_spectral.py", "manifest_name": "sers_data_3_classes", "image_size": 32, "batch_norm": 1, "num_conv_layers": 3, "filters": 64, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.5, "learning_rate": 0.0003, "batch_size": 32, "weight_decay": 0.001, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.97983739, 0.03420087451476575, 0.011105358993752009, 2.5507900628499987, 1.6414639971267704]</data>
+</edge>
+<edge source="advanced_d_cnn_spectral.py_d3f342d6" target="advanced_d_cnn_spectral.py_d3f342d6" id="run_training_trial_with_finetune(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial_with_finetune(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "custom_architecture_file": "advanced_d_cnn_spectral.py", "num_conv_layers": 3, "filters": 64, "kernel_size": 5, "dense_units": 128, "dropout_rate": 0.6, "learning_rate": 0.0005, "batch_size": 32, "weight_decay": 0.005, "batch_norm": 1, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.97983739, 0.03420087451476575, 0.011105358993752009, 2.5507900628499987, 1.6414639971267704]</data>
+</edge>
+<edge source="advanced_d_cnn_spectral.py_d3f342d6" target="advanced_d_cnn_spectral.py_60967078" id="run_training_trial(custom_architecture_file=advanced_d_cnn_spectra...)">
+  <data key="d3">run_training_trial(custom_architecture_file=advanced_d_cnn_spectra...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.052000000000000046, 0.12053844531377156, 0.03554836270785091, 13.33214282989502, 3.7907867431640625]</data>
+  <data key="d6">[[0.052000000000000046, 0.12053844531377156, 0.03554836270785091, 13.33214282989502, 3.7907867431640625], [0.052000000000000046, 0.12053844531377156, 0.03554836270785091, 13.33214282989502, 3.7907867431640625]]</data>
+  <data key="d7">{"custom_architecture_file": "advanced_d_cnn_spectral.py", "manifest_name": "sers_data_3_classes", "representation_type": "1D_CNN", "num_conv_layers": 3, "filters": 64, "kernel_size": 5, "dense_units": 256, "dropout_rate": 0.5, "learning_rate": 0.0005, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.052000000000000046, 0.12053844531377156, 0.03554836270785092, 13.33214282989502, 3.7907867431640625]</data>
+</edge>
+<edge source="advanced_d_cnn_spectral.py_60967078" target="advanced_d_cnn_spectral.py_60967078" id="set_optimization_model(model_name=refined_d_cnn_optimized.py)">
+  <data key="d3">set_optimization_model(model_name=refined_d_cnn_optimized.py)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "refined_d_cnn_optimized.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_e5671b81" target="refined_d_cnn_optimized.py_68340e58" id="set_optimization_model(model_name=refined_d_cnn_optimized.py)">
+  <data key="d3">set_optimization_model(model_name=refined_d_cnn_optimized.py)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.8708, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.8708, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "refined_d_cnn_optimized.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.8708000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_e5671b81" target="refined_d_cnn_optimized.py_e5671b81" id="memorize_finding(finding=refined_d_cnn_optimized.py on sers_data...)">
+  <data key="d3">memorize_finding(finding=refined_d_cnn_optimized.py on sers_data...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "refined_d_cnn_optimized.py on sers_data_3_classes: trials with lr=3e-4, dropout=0.4, num_conv_layers=4, filters=64, no explicit batch_norm (default off) yielded HO=0.4173-0.4325, CV~0.84, gap ~0.40. HO far below 0.6459 target; overfitting unbroken. Batch normalization and weight_decay remain untested.", "category": "overfitting", "experiment_name": "refined_d_cnn_optimized.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_e5671b81" target="refined_d_cnn_optimized.py_e5671b81" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_e5671b81" target="refined_d_cnn_optimized.py_e5671b81" id="read_file_from_architectures(filename=refined_d_cnn_optimized.py)">
+  <data key="d3">read_file_from_architectures(filename=refined_d_cnn_optimized.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "refined_d_cnn_optimized.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_e5671b81" target="refined_d_cnn_optimized.py_a027f6b9" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.2874785621960958, 0.0159939063317848, 9.921860694885254, 1.1750602722167969]</data>
+  <data key="d6">[[-0.05, 0.2874785621960958, 0.0159939063317848, 9.921860694885254, 1.1750602722167969]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "custom_architecture_file": "refined_d_cnn_optimized.py", "num_conv_layers": 3, "filters": 32, "kernel_size": 7, "dense_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0005, "batch_size": 16, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.2874785621960958, 0.0159939063317848, 9.921860694885254, 1.1750602722167969]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_68340e58" target="refined_d_cnn_optimized.py_a62857cf" id="run_training_trial(custom_architecture_file=refined_d_cnn_optimize...)">
+  <data key="d3">run_training_trial(custom_architecture_file=refined_d_cnn_optimize...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.864, 0.28922554254531857, 0.03692891218445517, 11.55829906463623, 3.236827850341797]</data>
+  <data key="d6">[[0.864, 0.28922554254531857, 0.03692891218445517, 11.55829906463623, 3.236827850341797], [0.864, 0.28922554254531857, 0.03692891218445517, 11.55829906463623, 3.236827850341797]]</data>
+  <data key="d7">{"custom_architecture_file": "refined_d_cnn_optimized.py", "representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 128, "kernel_size": 7, "dense_units": 256, "dropout_rate": 0.4, "learning_rate": 0.0001, "batch_size": 64, "weight_decay": 0.001, "batch_norm": 1, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.864, 0.2892255425453186, 0.03692891218445517, 11.55829906463623, 3.236827850341797]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_a62857cf" target="refined_d_cnn_optimized.py_a62857cf" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.06733485500000003, 0.045076807504804736, 0.005931235937343512, 1.7626208671073913, 0.19129113179283147]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_a62857cf" target="refined_d_cnn_optimized.py_a62857cf" id="read_file_from_architectures(filename=refined_d_cnn_optimized.py)">
+  <data key="d3">read_file_from_architectures(filename=refined_d_cnn_optimized.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "refined_d_cnn_optimized.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_a62857cf" target="refined_d_cnn_optimized.py_a62857cf" id="create_dataset_manifest(n_fft=512, hop_length=128, gaf_image_size=32, v...)">
+  <data key="d3">create_dataset_manifest(n_fft=512, hop_length=128, gaf_image_size=32, v...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"n_fft": 512, "hop_length": 128, "gaf_image_size": 32, "video_num_segments": 4, "video_gaf_image_size": 32, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_a62857cf" target="refined_d_cnn_optimized.py_a62857cf" id="run_training_trial(custom_architecture_file=refined_d_cnn_optimize...)">
+  <data key="d3">run_training_trial(custom_architecture_file=refined_d_cnn_optimize...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.05, 0.2114106903473536, 0.031818409339346064, 9.822118282318115, 1.5761833190917969]</data>
+  <data key="d6">[[-0.05, 0.223566331466039, 0.029417004729762223, 8.742027282714844, 0.9487419128417969], [-0.05, 0.223566331466039, 0.029417004729762223, 8.742027282714844, 0.9487419128417969], [-0.05, 0.1992550492286682, 0.0342198139489299, 10.902209281921387, 2.203624725341797], [-0.05, 0.1992550492286682, 0.0342198139489299, 10.902209281921387, 2.203624725341797]]</data>
+  <data key="d7">{"custom_architecture_file": "refined_d_cnn_optimized.py", "representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 64, "kernel_size": 5, "dense_units": 128, "dropout_rate": 0.4, "learning_rate": 0.0003, "batch_size": 32, "batch_norm": 1, "weight_decay": 1e-05, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.06733485500000003, 0.29801303570562265, 0.04080509000619013, 12.272140301207353, 1.5349215441450887]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_a62857cf" target="refined_d_cnn_optimized.py_e5671b81" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.18281083901723227, 0.04309907134133156, 11.334176063537598, 1.3906364440917969]</data>
+  <data key="d6">[[-0.05, 0.18281083901723227, 0.04309907134133156, 11.334176063537598, 1.3906364440917969], [-0.05, 0.18281083901723227, 0.04309907134133156, 11.334176063537598, 1.3906364440917969]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "custom_architecture_file": "refined_d_cnn_optimized.py", "num_conv_layers": 4, "filters": 64, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.4, "learning_rate": 0.0003, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.0, "epochs": 50, "patience": 15, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.19890680000000005, 0.18281083901723227, 0.04309907134133156, 11.334176063537598, 1.3906364440917969]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_a027f6b9" target="refined_d_cnn_optimized.py_a027f6b9" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">3</data>
+  <data key="d5">[-0.05, 0.24687141180038452, 0.02594598076158903, 11.203309694925943, 1.8607699076334636]</data>
+  <data key="d6">[[-0.05, 0.2874785621960958, 0.0159939063317848, 9.921860694885254, 1.1750602722167969], [-0.05, 0.2265678366025289, 0.030922017976491144, 11.844034194946289, 2.203624725341797], [-0.05, 0.2265678366025289, 0.030922017976491144, 11.844034194946289, 2.203624725341797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "custom_architecture_file": "refined_d_cnn_optimized.py", "num_conv_layers": 4, "filters": 64, "kernel_size": 5, "dense_units": 128, "dropout_rate": 0.45, "learning_rate": 0.0003, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.001, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.06336545000000002, 0.3533592683683984, 0.027574201262394963, 12.956575881886483, 1.6938487846946717]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_a027f6b9" target="refined_d_cnn_optimized.py_a027f6b9" id="analyze_best_vs_worst_trials(architecture_filter=refined_d_cnn_optimized.py)">
+  <data key="d3">analyze_best_vs_worst_trials(architecture_filter=refined_d_cnn_optimized.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "refined_d_cnn_optimized.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.0093195, 0.05358312920773031, 0.002981104201181369, 1.8493356149196627, 0.2190194841384888]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_a027f6b9" target="refined_d_cnn_optimized.py_a027f6b9" id="run_training_trial(custom_architecture_file=refined_d_cnn_optimize...)">
+  <data key="d3">run_training_trial(custom_architecture_file=refined_d_cnn_optimize...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.27274643381436664, 0.03758440968966243, 8.679814338684082, 0.9487419128417969]</data>
+  <data key="d6">[[-0.05, 0.27274643381436664, 0.03758440968966243, 8.679814338684082, 0.9487419128417969], [-0.05, 0.27274643381436664, 0.03758440968966243, 8.679814338684082, 0.9487419128417969]]</data>
+  <data key="d7">{"custom_architecture_file": "refined_d_cnn_optimized.py", "representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "num_conv_layers": 3, "filters": 32, "kernel_size": 5, "dense_units": 128, "dropout_rate": 0.45, "learning_rate": 0.0001, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.001, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.3263295630220969, 0.044315777465080974, 10.529149953603744, 1.1677613969802858]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_a027f6b9" target="refined_d_cnn_optimized.py_9597fb80" id="run_training_trial(representation_type=1D_CNN, custom_architecture...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, custom_architecture...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.17747259934743245, 0.01634310495973838, 7.71855354309082, 0.13795089721679688]</data>
+  <data key="d6">[[-0.05, 0.17747259934743245, 0.01634310495973838, 7.71855354309082, 0.13795089721679688]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "custom_architecture_file": "refined_d_cnn_optimized.py", "manifest_name": "sers_data_3_classes", "num_conv_layers": 2, "filters": 32, "kernel_size": 3, "dense_units": 64, "dropout_rate": 0.45, "learning_rate": 0.0005, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.001, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.17747259934743245, 0.01634310495973838, 7.71855354309082, 0.13795089721679688]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_9597fb80" target="refined_d_cnn_optimized.py_9597fb80" id="run_training_trial(representation_type=1D_CNN, custom_architecture...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, custom_architecture...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.17747259934743245, 0.01634310495973838, 7.71855354309082, 0.13795089721679688]</data>
+  <data key="d6">[[-0.05, 0.17747259934743245, 0.01634310495973838, 7.71855354309082, 0.13795089721679688]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "custom_architecture_file": "refined_d_cnn_optimized.py", "manifest_name": "sers_data_3_classes", "num_conv_layers": 2, "filters": 32, "kernel_size": 3, "dense_units": 64, "dropout_rate": 0.45, "learning_rate": 0.0005, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.001, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.1934451332887014, 0.017813984406114834, 8.413223361968994, 0.1503664779663086]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_9597fb80" target="refined_d_cnn_optimized.py_9597fb80" id="memorize_finding(finding=Cycle 11 on refined_d_cnn_optimized.py ...)">
+  <data key="d3">memorize_finding(finding=Cycle 11 on refined_d_cnn_optimized.py ...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "Cycle 11 on refined_d_cnn_optimized.py / sers_data_3_classes: 5 trials with varied num_conv_layers (2-4), filters (32-64), lr (1e-4 to 5e-4), dropout (0.45-0.5). All HO accuracies 0.2846\u20130.3925, all CV 0.7467\u20130.8518. CV\u2013HO gap remains 0.40\u20130.57 \u2014 terminal overfitting confirmed across all configs. O1 falsified: num_conv_layers=3 did not reduce inversion below 0.1963. O2 blocked (analyze_best_vs_worst_trials needs 10+ results). The root cause \u2014 unaddressed data leakage in the train/val/test split \u2014 makes all 1D_CNN tuning futile. Until the split is audited and leakage eliminated, no hyperparameter change will close the gap.", "category": "overfitting", "experiment_name": "refined_d_cnn_optimized.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.03307911779236794, 0.003046191333445637, 1.438661194896698, 0.02571266773223877]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_9597fb80" target="refined_d_cnn_optimized.py_9597fb80" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.03307911779236794, 0.003046191333445637, 1.438661194896698, 0.02571266773223877]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_9597fb80" target="refined_d_cnn_optimized.py_9597fb80" id="get_optimization_status">
+  <data key="d3">get_optimization_status</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.03307911779236794, 0.003046191333445637, 1.438661194896698, 0.02571266773223877]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_9597fb80" target="refined_d_cnn_optimized.py_9597fb80" id="get_explored_ranges(architecture_filter=refined_d_cnn_optimized.py)">
+  <data key="d3">get_explored_ranges(architecture_filter=refined_d_cnn_optimized.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "refined_d_cnn_optimized.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.03307911779236794, 0.003046191333445637, 1.438661194896698, 0.02571266773223877]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_9597fb80" target="refined_d_cnn_optimized.py_9597fb80" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.023950000000000006, 0.20728006362915039, 0.04775553959788699, 11.284573078155518, 2.993968963623047]</data>
+  <data key="d6">[[0.0020999999999999908, 0.18006921609242757, 0.04586505528652308, 11.599302291870117, 3.784313201904297], [0.0020999999999999908, 0.18006921609242757, 0.04586505528652308, 11.599302291870117, 3.784313201904297], [-0.05, 0.2344909111658732, 0.0496460239092509, 10.969843864440918, 2.203624725341797], [-0.05, 0.2344909111658732, 0.0496460239092509, 10.969843864440918, 2.203624725341797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "custom_architecture_file": "refined_d_cnn_optimized.py", "num_conv_layers": 4, "filters": 48, "kernel_size": 5, "dense_units": 128, "dropout_rate": 0.4, "learning_rate": 0.0001, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.001, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.0075231645890000125, 0.2559262212411344, 0.06288286366118234, 15.587569188454154, 4.811809551150704]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_9597fb80" target="refined_d_cnn_optimized.py_9597fb80" id="get_parameter_importance(architecture_filter=refined_d_cnn_optimized.py)">
+  <data key="d3">get_parameter_importance(architecture_filter=refined_d_cnn_optimized.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "refined_d_cnn_optimized.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.04957658519000001, 0.03651045058276756, 0.009247592223706032, 2.3387220838308336, 0.7630163120784761]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_9597fb80" target="refined_d_cnn_optimized.py_9597fb80" id="run_training_trial_with_finetune(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial_with_finetune(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "custom_architecture_file": "refined_d_cnn_optimized.py", "num_conv_layers": 4, "filters": 48, "kernel_size": 5, "dense_units": 128, "learning_rate": 0.0001, "dropout_rate": 0.4, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.001286461144719, 0.04376338383223399, 0.010752969686062182, 2.665474331225661, 0.8228194332467705]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_9597fb80" target="refined_d_cnn_optimized.py_9e06531a" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[0.021700000000000053, 0.11463348865509033, 0.04932498600747853, 13.313713073730469, 6.304698944091797]</data>
+  <data key="d6">[[0.021700000000000053, 0.11463348865509033, 0.04932498600747853, 13.313713073730469, 6.304698944091797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "custom_architecture_file": "refined_d_cnn_optimized.py", "num_conv_layers": 5, "filters": 96, "kernel_size": 9, "dense_units": 256, "learning_rate": 5e-05, "dropout_rate": 0.35, "batch_size": 16, "batch_norm": 1, "weight_decay": 0.0005, "epochs": 150, "patience": 25, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.021700000000000053, 0.11463348865509033, 0.04932498600747853, 13.313713073730469, 6.304698944091797]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_9e06531a" target="refined_d_cnn_optimized.py_9e06531a" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">3</data>
+  <data key="d5">[0.015300000000000017, 0.10670771598815917, 0.04308840431749622, 13.26669692993164, 7.18002446492513]</data>
+  <data key="d6">[[0.021700000000000053, 0.11463348865509033, 0.04932498600747853, 13.313713073730469, 6.304698944091797], [0.0121, 0.1027448296546936, 0.03997011347250506, 13.243188858032227, 7.617687225341797], [0.0121, 0.1027448296546936, 0.03997011347250506, 13.243188858032227, 7.617687225341797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "custom_architecture_file": "refined_d_cnn_optimized.py", "num_conv_layers": 5, "filters": 64, "kernel_size": 11, "dense_units": 256, "dropout_rate": 0.3, "learning_rate": 0.0001, "batch_size": 16, "batch_norm": 1, "weight_decay": 0.0003, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.04162054000000005, 0.14722128245680927, 0.060648379057691895, 16.858554082832338, 8.251286382106782]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_9e06531a" target="refined_d_cnn_optimized.py_9e06531a" id="create_dataset_manifest(manifest_name=sers_data_3_classes, n_fft=256, h...)">
+  <data key="d3">create_dataset_manifest(manifest_name=sers_data_3_classes, n_fft=256, h...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "sers_data_3_classes", "n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 32, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.045955337, 0.02136653595042229, 0.009193684141933925, 2.4815429798126223, 1.1751328361892703]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_9e06531a" target="refined_d_cnn_optimized.py_9e06531a" id="run_training_trial(representation_type=1D_CNN, custom_architecture...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, custom_architecture...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.131381094455719, 0.04348959802377104, 11.609587669372559, 4.862804412841797]</data>
+  <data key="d6">[[-0.05, 0.131381094455719, 0.04348959802377104, 11.609587669372559, 4.862804412841797], [-0.05, 0.131381094455719, 0.04348959802377104, 11.609587669372559, 4.862804412841797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "custom_architecture_file": "refined_d_cnn_optimized.py", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 64, "kernel_size": 11, "dense_units": 256, "dropout_rate": 0.4, "learning_rate": 0.0001, "batch_size": 16, "batch_norm": 1, "weight_decay": 0.0005, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.045955337, 0.15491144847273827, 0.052683282165704975, 14.091130649185182, 6.037937249031067]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_9e06531a" target="refined_d_cnn_optimized.py_9e06531a" id="memorize_finding(finding=Cycle 12 on refined_d_cnn_optimized.py ...)">
+  <data key="d3">memorize_finding(finding=Cycle 12 on refined_d_cnn_optimized.py ...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "Cycle 12 on refined_d_cnn_optimized.py / sers_data_3_classes: best trial this cycle achieved HO=0.6115 (CV=0.8793) with num_conv_layers=4, filters=64, learning_rate=0.0001, dropout_rate=0.4 (batch_norm default=0, weight_decay default=0). This exceeds the long-standing 0.4420 ceiling, demonstrating that careful hyperparameter selection can improve HO beyond previous dead-end conclusions. However, the CV-HO gap remains large (~0.27), and the finetune escalation trial failed. Parameter importance earlier in the cycle ranked dropout_rate and learning_rate as top drivers. The architecture still exhibits overfitting but is not entirely futile; further systematic tuning with explicit batch_norm=1 and weight_decay may reduce the gap.", "category": "progress_report", "experiment_name": "refined_d_cnn_optimized.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.045955337, 0.02648985768883825, 0.009193684141933925, 2.4815429798126223, 1.1751328361892703]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_9e06531a" target="refined_d_cnn_optimized.py_9e06531a" id="recall_relevant_memories(query=data leakage audit subject-wise split ver...)">
+  <data key="d3">recall_relevant_memories(query=data leakage audit subject-wise split ver...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.1, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[0.1, 0.0, 0.0, 0.0, 0.0], [0.1, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"query": "data leakage audit subject-wise split verification held-out overfitting gap", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.11791000000000003, 0.02648985768883825, 0.009193684141933925, 2.4815429798126223, 1.1751328361892703]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_9e06531a" target="refined_d_cnn_optimized.py_7abf35f8" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.15170775651931762, 0.04695197729149251, 12.711725234985352, 6.084484100341797]</data>
+  <data key="d6">[[-0.05, 0.15170775651931762, 0.04695197729149251, 12.711725234985352, 6.084484100341797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "custom_architecture_file": "refined_d_cnn_optimized.py", "num_conv_layers": 5, "filters": 64, "kernel_size": 9, "dense_units": 128, "dropout_rate": 0.4, "learning_rate": 0.0001, "batch_size": 24, "batch_norm": 1, "weight_decay": 0.0005, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.15170775651931762, 0.04695197729149251, 12.711725234985352, 6.084484100341798]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_7abf35f8" target="refined_d_cnn_optimized.py_7abf35f8" id="run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">5</data>
+  <data key="d5">[-0.05, 0.14133840958277386, 0.04800043363763829, 12.487913131713867, 5.070616912841797]</data>
+  <data key="d6">[[-0.05, 0.15170775651931762, 0.04695197729149251, 12.711725234985352, 6.084484100341797], [-0.05, 0.12323851585388183, 0.037661441648849346, 12.313652038574219, 4.862804412841797], [-0.05, 0.12323851585388183, 0.037661441648849346, 12.313652038574219, 4.862804412841797], [-0.05, 0.15425362984339397, 0.05886365379950012, 12.550268173217773, 4.771495819091797], [-0.05, 0.15425362984339397, 0.05886365379950012, 12.550268173217773, 4.771495819091797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "custom_architecture_file": "refined_d_cnn_optimized.py", "num_conv_layers": 5, "filters": 64, "kernel_size": 7, "dense_units": 128, "dropout_rate": 0.4, "learning_rate": 0.0001, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.0005, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.07205447754500002, 0.21357845364949868, 0.0682204023512699, 18.20896429833678, 8.268725507568972]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_7abf35f8" target="refined_d_cnn_optimized.py_7abf35f8" id="run_training_trial_with_finetune(representation_type=1D_CNN, manifest_name=sers_...)">
+  <data key="d3">run_training_trial_with_finetune(representation_type=1D_CNN, manifest_name=sers_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "sers_data_3_classes", "custom_architecture_file": "refined_d_cnn_optimized.py", "num_conv_layers": 4, "filters": 64, "kernel_size": 11, "dense_units": 256, "dropout_rate": 0.4, "learning_rate": 0.0001, "batch_size": 16, "batch_norm": 1, "weight_decay": 0.0005, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.01083549195, 0.031907783699748414, 0.009858807802187494, 2.7412098962852385, 1.2769950316971934]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_7abf35f8" target="refined_d_cnn_optimized.py_7abf35f8" id="run_training_trial_with_finetune(representation_type=1D_CNN, custom_architecture...)">
+  <data key="d3">run_training_trial_with_finetune(representation_type=1D_CNN, custom_architecture...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "custom_architecture_file": "refined_d_cnn_optimized.py", "manifest_name": "sers_data_3_classes", "num_conv_layers": 5, "filters": 64, "kernel_size": 9, "dense_units": 96, "dropout_rate": 0.3, "learning_rate": 0.0001, "batch_size": 24, "batch_norm": 1, "weight_decay": 0.0, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.0123213156601951, 0.036521915574064284, 0.011665688802067153, 3.11373289501559, 1.4139520617942942]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_7abf35f8" target="refined_d_cnn_optimized.py_eb67f2d2" id="run_training_trial(representation_type=1D_CNN, custom_architecture...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, custom_architecture...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.1262002150217692, 0.05988910354749122, 14.997591972351074, 6.039196014404297]</data>
+  <data key="d6">[[-0.05, 0.1262002150217692, 0.05988910354749122, 14.997591972351074, 6.039196014404297]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "custom_architecture_file": "refined_d_cnn_optimized.py", "manifest_name": "sers_data_3_classes", "num_conv_layers": 5, "filters": 64, "kernel_size": 9, "dense_units": 96, "dropout_rate": 0.4, "learning_rate": 0.0001, "batch_size": 24, "batch_norm": 1, "weight_decay": 0.0005, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.1262002150217692, 0.05988910354749122, 14.997591972351074, 6.039196014404297]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_eb67f2d2" target="refined_d_cnn_optimized.py_eb67f2d2" id="run_training_trial(representation_type=1D_CNN, custom_architecture...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, custom_architecture...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.1262002150217692, 0.05988910354749122, 14.997591972351074, 6.039196014404297]</data>
+  <data key="d6">[[-0.05, 0.1262002150217692, 0.05988910354749122, 14.997591972351074, 6.039196014404297]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "custom_architecture_file": "refined_d_cnn_optimized.py", "manifest_name": "sers_data_3_classes", "num_conv_layers": 5, "filters": 64, "kernel_size": 9, "dense_units": 96, "dropout_rate": 0.4, "learning_rate": 0.0001, "batch_size": 24, "batch_norm": 1, "weight_decay": 0.0005, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.13755823437372844, 0.06527912286676543, 16.347375249862672, 6.5827236557006845]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_eb67f2d2" target="refined_d_cnn_optimized.py_773ee12f" id="run_strategic_optuna_sweep(representation_type=1D_CNN, custom_architecture...)">
+  <data key="d3">run_strategic_optuna_sweep(representation_type=1D_CNN, custom_architecture...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "custom_architecture_file": "refined_d_cnn_optimized.py", "manifest_name": "sers_data_3_classes", "n_trials": 8, "optimization_focus": "accuracy", "hyperparameters": {"learning_rate": {"type": "loguniform", "min": 1e-05, "max": 0.01}, "dropout_rate": {"type": "float", "min": 0.35, "max": 0.45}, "weight_decay": {"type": "loguniform", "min": 0.0004, "max": 0.0006}, "filters": {"type": "choice", "choices": [32, 64, 128]}, "num_conv_layers": {"type": "int", "min": 2, "max": 6}, "dense_units": {"type": "choice", "choices": [64, 128, 256]}, "kernel_size": {"type": "choice", "choices": [3, 5, 7, 9]}, "batch_size": {"type": "choice", "choices": [16, 32, 64]}, "batch_norm": {"type": "choice", "choices": [1]}}, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_773ee12f" target="refined_d_cnn_optimized.py_773ee12f" id="memorize_finding(finding=Cycle 13 on refined_d_cnn_optimized.py ...)">
+  <data key="d3">memorize_finding(finding=Cycle 13 on refined_d_cnn_optimized.py ...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "Cycle 13 on refined_d_cnn_optimized.py / sers_data_3_classes: num_conv_layers=5 with dropout_rate=0.3 achieved HO=0.6363 (new record, exceeding 0.6115 baseline), but CV=0.8999 \u2192 CV-HO gap=0.2636 remains severe. Dropout=0.4 degraded HO to 0.5236-0.5971, confirming dropout=0.3 is the sweet spot for this depth. num_conv_layers=4 with dropout=0.4 collapsed to HO=0.4420, showing depth=5 is critical. The finetune pathway (run_training_trial_with_finetune) is still broken with Celery error 'cluster.tasks.run_finetune_training_worker' across two attempts. The Optuna sweep tool has a code bug ('_missing_from_sweep' is not defined). Key insight: 5 conv layers + moderate dropout (0.3) + batch_norm=1 is the best 1D config found, but the persistent ~0.26 gap confirms fundamental overfitting that hyperparameter tuning alone cannot close. The data-leakage audit and 2D/3D representation exploration remain the only viable paths forward.", "category": "progress_report", "experiment_name": "refined_d_cnn_optimized.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_773ee12f" target="refined_d_cnn_optimized.py_773ee12f" id="read_file_from_architectures(filename=refined_d_cnn_optimized.py)">
+  <data key="d3">read_file_from_architectures(filename=refined_d_cnn_optimized.py)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "refined_d_cnn_optimized.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.06733485500000003, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_773ee12f" target="refined_d_cnn_optimized.py_773ee12f" id="set_optimization_model(model_name=refined_d_cnn_optimized.py)">
+  <data key="d3">set_optimization_model(model_name=refined_d_cnn_optimized.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "refined_d_cnn_optimized.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_773ee12f" target="refined_d_cnn_optimized.py_773ee12f" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.06733485500000003, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_773ee12f" target="refined_d_cnn_optimized.py_773ee12f" id="create_dataset_manifest(n_fft=512, hop_length=64, gaf_image_size=32, vi...)">
+  <data key="d3">create_dataset_manifest(n_fft=512, hop_length=64, gaf_image_size=32, vi...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"n_fft": 512, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 8, "video_gaf_image_size": 24, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_773ee12f" target="refined_d_cnn_optimized.py_773ee12f" id="run_training_trial(representation_type=2D_SPECTROGRAM, manifest_na...)">
+  <data key="d3">run_training_trial(representation_type=2D_SPECTROGRAM, manifest_na...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_SPECTROGRAM", "manifest_name": "sers_data_3_classes", "custom_architecture_file": "refined_d_cnn_optimized.py", "num_conv_layers": 3, "filters": 64, "kernel_size": 3, "dense_units": 256, "dropout_rate": 0.3, "learning_rate": 0.0001, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 100, "patience": 20, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_773ee12f" target="refined_d_cnn_optimized.py_773ee12f" id="set_optimization_model(model_name=standard_cnn_2d)">
+  <data key="d3">set_optimization_model(model_name=standard_cnn_2d)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "standard_cnn_2d", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_773ee12f" target="refined_d_cnn_optimized.py_773ee12f" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 3, "filters": 32, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.3, "learning_rate": 0.001, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 50, "patience": 15, "custom_architecture_file": "refined_d_cnn_optimized.py", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="refined_d_cnn_optimized.py_773ee12f" target="refined_d_cnn_optimized.py_773ee12f" id="set_optimization_model(model_name=2D_CWT_SCALOGRAM)">
+  <data key="d3">set_optimization_model(model_name=2D_CWT_SCALOGRAM)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_a066ca0c" target="2D_CWT_SCALOGRAM_6158a3d0" id="set_optimization_model(model_name=2D_CWT_SCALOGRAM)">
+  <data key="d3">set_optimization_model(model_name=2D_CWT_SCALOGRAM)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.8999, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.8999, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.8999, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_6158a3d0" target="2D_CWT_SCALOGRAM_6158a3d0" id="create_dataset_manifest(manifest_name=sers_data_3d_gaf_video, params={'...)">
+  <data key="d3">create_dataset_manifest(manifest_name=sers_data_3d_gaf_video, params={'...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "sers_data_3d_gaf_video", "params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": [4, 64, 64]}, "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3d_gaf_video", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": [4, 64, 64]}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_6158a3d0" target="2D_CWT_SCALOGRAM_58772685" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.7641, 0.34445752501487736, 0.0026241378952758677, 11.865410804748535, 6.430675506591797]</data>
+  <data key="d6">[[0.7641, 0.34445752501487736, 0.0026241378952758677, 11.865410804748535, 6.430675506591797], [0.7641, 0.34445752501487736, 0.0026241378952758677, 11.865410804748535, 6.430675506591797]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 64, "kernel_size": 3, "dense_units": 256, "dropout_rate": 0.4, "learning_rate": 0.0005, "batch_size": 32, "weight_decay": 0.0001, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.7641, 0.34445752501487736, 0.002624137895275868, 11.865410804748535, 6.430675506591797]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_58772685" target="2D_CWT_SCALOGRAM_58772685" id="memorize_finding(finding=refined_d_cnn_optimized.py uses Conv1D ...)">
+  <data key="d3">memorize_finding(finding=refined_d_cnn_optimized.py uses Conv1D ...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "refined_d_cnn_optimized.py uses Conv1D and expects 1D input shape (steps, channels). All 2D/3D representations (2D_CWT_SCALOGRAM, 3D_GAF_VIDEO) fail with ValueError: Kernel shape must have the same length as input. The model is incompatible with these representations\u2014never pair them. The standard 2D architecture works with 2D_CWT_SCALOGRAM (HO=0.5364, CV=0.7641) but still shows a large CV-HO gap. Fix the architecture before retrying multidimensional data.", "category": "architecture_guard", "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_58772685" target="2D_CWT_SCALOGRAM_58772685" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_58772685" target="2D_CWT_SCALOGRAM_58772685" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.38790662089983624, 0.01582328436350582, 11.570310592651367, 6.178722381591797]</data>
+  <data key="d6">[[-0.05, 0.38790662089983624, 0.01582328436350582, 11.570310592651367, 6.178722381591797], [-0.05, 0.38790662089983624, 0.01582328436350582, 11.570310592651367, 6.178722381591797]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 64, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.3, "learning_rate": 0.001, "batch_size": 32, "weight_decay": 0.0001, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.45738069670299697, 0.018657234593009716, 13.642553219795227, 7.285331560134888]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_58772685" target="2D_CWT_SCALOGRAM_c80bc551" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.02529999999999999, 0.532025690873464, 0.016435547067661493, 11.636075973510742, 1.6137809753417969]</data>
+  <data key="d6">[[0.02529999999999999, 0.532025690873464, 0.016435547067661493, 11.636075973510742, 1.6137809753417969], [0.02529999999999999, 0.532025690873464, 0.016435547067661493, 11.636075973510742, 1.6137809753417969]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 32, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.3, "learning_rate": 0.0005, "batch_size": 32, "weight_decay": 0.0001, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.02529999999999999, 0.532025690873464, 0.016435547067661493, 11.636075973510742, 1.6137809753417969]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_c80bc551" target="2D_CWT_SCALOGRAM_31bc9844" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.10109999999999997, 0.2881048818429311, 0.026284776612965754, 11.204814910888672, 41.1679801940918]</data>
+  <data key="d6">[[0.10109999999999997, 0.2881048818429311, 0.026284776612965754, 11.204814910888672, 41.1679801940918], [0.10109999999999997, 0.2881048818429311, 0.026284776612965754, 11.204814910888672, 41.1679801940918]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "batch_norm": 1, "filters": 128, "kernel_size": 5, "dense_units": 256, "dropout_rate": 0.4, "learning_rate": 0.0001, "weight_decay": 0.0001, "batch_size": 64, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.10109999999999997, 0.2881048818429311, 0.026284776612965757, 11.204814910888672, 41.1679801940918]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_31bc9844" target="2D_CWT_SCALOGRAM_31bc9844" id="analyze_best_vs_worst_trials(architecture_filter=2D_CWT_SCALOGRAM)">
+  <data key="d3">analyze_best_vs_worst_trials(architecture_filter=2D_CWT_SCALOGRAM)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.1791, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_31bc9844" target="2D_CWT_SCALOGRAM_9234ac95" id="run_strategic_optuna_sweep(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_strategic_optuna_sweep(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.007800000000000029, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[0.007800000000000029, 0.0, 0.0, 0.0, 0.0], [0.007800000000000029, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "n_trials": 5, "optimization_focus": "accuracy", "hyperparameters": {"learning_rate": {"type": "loguniform", "min": 1e-05, "max": 0.01}, "dropout_rate": {"type": "float", "min": 0.1, "max": 0.6}, "filters": {"type": "choice", "choices": [32, 64, 128]}, "kernel_size": {"type": "choice", "choices": [3, 5, 7]}, "dense_units": {"type": "choice", "choices": [128, 256, 512]}, "num_conv_layers": {"type": "int", "min": 4, "max": 4}, "batch_norm": {"type": "choice", "choices": [1]}}, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.007800000000000029, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_9234ac95" target="2D_CWT_SCALOGRAM_9234ac95" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.10516688028971355, 0.06777562661604447, 12.568483352661133, 15.188488006591797]</data>
+  <data key="d6">[[-0.05, 0.10516688028971355, 0.06777562661604447, 12.568483352661133, 15.188488006591797], [-0.05, 0.10516688028971355, 0.06777562661604447, 12.568483352661133, 15.188488006591797]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 5, "filters": 64, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.3, "learning_rate": 5e-05, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.12400226854960127, 0.07991424134297805, 14.819498721122743, 17.908746208572385]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_9234ac95" target="2D_CWT_SCALOGRAM_55684ef0" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.2658295214176178, 0.05699408987555841, 11.4451265335083, 6.178722381591797]</data>
+  <data key="d6">[[-0.05, 0.2658295214176178, 0.05699408987555841, 11.4451265335083, 6.178722381591797], [-0.05, 0.2658295214176178, 0.05699408987555841, 11.4451265335083, 6.178722381591797]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 64, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.3, "learning_rate": 5e-05, "batch_size": 32, "batch_norm": 1, "weight_decay": 1e-05, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.2658295214176178, 0.05699408987555841, 11.4451265335083, 6.178722381591797]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_55684ef0" target="2D_CWT_SCALOGRAM_55684ef0" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.0010000000000000009, 0.13507771094640095, 0.06741014983918932, 13.342957496643066, 15.188488006591797]</data>
+  <data key="d6">[[0.0010000000000000009, 0.13507771094640095, 0.06741014983918932, 13.342957496643066, 15.188488006591797], [0.0010000000000000009, 0.13507771094640095, 0.06741014983918932, 13.342957496643066, 15.188488006591797]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 5, "filters": 64, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.5, "learning_rate": 5e-05, "batch_size": 32, "weight_decay": 0.0001, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.001179100000000001, 0.15927012897690135, 0.07948330767538814, 15.732681184291838, 17.908746208572385]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_55684ef0" target="2D_CWT_SCALOGRAM_55684ef0" id="memorize_finding(finding=2D_CWT_SCALOGRAM achieved new best HO=0...)">
+  <data key="d3">memorize_finding(finding=2D_CWT_SCALOGRAM achieved new best HO=0...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "2D_CWT_SCALOGRAM achieved new best HO=0.6523 with num_conv_layers=5, filters=64, lr=5e-05, dropout=0.3, batch_norm=1 (Step 6). This surpasses the 1D CNN ceiling of 0.6363. Overfitting gap remains high at 0.237 (CV 0.8894), but the 2D representation is no longer a dead-end. Deep 5-layer configs are promising; shallow 4-layer varies wildly (0.341-0.560).", "category": "breakthrough", "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.04979837390000001, 0.027235192055050133, 0.013591645612491373, 2.6902884825139046, 3.062395601665878]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_55684ef0" target="2D_CWT_SCALOGRAM_55684ef0" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.04979837390000001, 0.027235192055050133, 0.013591645612491373, 2.6902884825139046, 3.062395601665878]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_55684ef0" target="2D_CWT_SCALOGRAM_a51dac06" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.3117502351601919, 0.037844141264154446, 11.167402267456055, 8.308116912841797]</data>
+  <data key="d6">[[-0.05, 0.3117502351601919, 0.037844141264154446, 11.167402267456055, 8.308116912841797]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 32, "kernel_size": 7, "dense_units": 256, "dropout_rate": 0.5, "learning_rate": 0.0001, "batch_size": 64, "weight_decay": 0.001, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.3117502351601919, 0.03784414126415445, 11.167402267456055, 8.308116912841797]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_a51dac06" target="2D_CWT_SCALOGRAM_a51dac06" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">3</data>
+  <data key="d5">[-0.05, 0.2834937751293183, 0.04522390985729718, 11.16824467976888, 6.88852055867513]</data>
+  <data key="d6">[[-0.05, 0.3117502351601919, 0.037844141264154446, 11.167402267456055, 8.308116912841797], [-0.05, 0.26936554511388144, 0.048913794153868546, 11.168665885925293, 6.178722381591797], [-0.05, 0.26936554511388144, 0.048913794153868546, 11.168665885925293, 6.178722381591797]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 64, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.3, "learning_rate": 5e-05, "batch_size": 32, "weight_decay": 0.0001, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.06336545000000002, 0.3866493254514119, 0.05016308174638742, 14.152800860242843, 10.105201824977875]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_a51dac06" target="2D_CWT_SCALOGRAM_320812c8" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.22542253732681275, 0.04930730317578171, 11.376886367797852, 6.178722381591797]</data>
+  <data key="d6">[[-0.05, 0.22542253732681275, 0.04930730317578171, 11.376886367797852, 6.178722381591797]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 64, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.3, "learning_rate": 5e-05, "batch_size": 32, "weight_decay": 0.0001, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.22542253732681278, 0.04930730317578171, 11.376886367797852, 6.178722381591797]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_320812c8" target="2D_CWT_SCALOGRAM_320812c8" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">5</data>
+  <data key="d5">[-0.05, 0.2058470662434896, 0.0396976368475442, 11.370357513427734, 10.481066131591797]</data>
+  <data key="d6">[[-0.05, 0.22542253732681275, 0.04930730317578171, 11.376886367797852, 6.178722381591797], [-0.05, 0.28031793634096785, 0.036108437993309705, 11.485199928283691, 16.682628631591797], [-0.05, 0.28031793634096785, 0.036108437993309705, 11.485199928283691, 16.682628631591797], [-0.05, 0.12158846060434979, 0.03848200253765994, 11.252250671386719, 6.430675506591797], [-0.05, 0.12158846060434979, 0.03848200253765994, 11.252250671386719, 6.430675506591797]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 4, "filters": 64, "kernel_size": 3, "dense_units": 256, "dropout_rate": 0.45, "learning_rate": 1e-05, "batch_size": 16, "weight_decay": 0.001, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.07090731950000002, 0.31489787494544585, 0.06632769921738836, 16.391435028830124, 11.002911758508278]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_320812c8" target="2D_CWT_SCALOGRAM_320812c8" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.04201650673234464, 0.009190388238933953, 2.120537850093841, 1.1516520647048951]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_320812c8" target="2D_CWT_SCALOGRAM_ab59d63d" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.454648353656133, -0.001067129229054297, 6.90556526184082, 0.3515739440917969]</data>
+  <data key="d6">[[-0.05, 0.454648353656133, -0.001067129229054297, 6.90556526184082, 0.3515739440917969], [-0.05, 0.454648353656133, -0.001067129229054297, 6.90556526184082, 0.3515739440917969]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 2, "filters": 64, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.5, "learning_rate": 0.001, "batch_size": 32, "weight_decay": 0.001, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.454648353656133, -0.001067129229054297, 6.90556526184082, 0.3515739440917969]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_ab59d63d" target="2D_CWT_SCALOGRAM_ab59d63d" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.22727229197820029, 0.034910285713696726, 13.073077201843262, 15.188488006591797]</data>
+  <data key="d6">[[-0.05, 0.22727229197820029, 0.034910285713696726, 13.073077201843262, 15.188488006591797], [-0.05, 0.22727229197820029, 0.034910285713696726, 13.073077201843262, 15.188488006591797]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 5, "filters": 64, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.5, "learning_rate": 0.001, "batch_size": 32, "weight_decay": 0.001, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.26797675947149596, 0.04116271788501981, 15.414465328693389, 17.908746208572385]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_ab59d63d" target="2D_CWT_SCALOGRAM_ab59d63d" id="analyze_best_vs_worst_trials(architecture_filter=2D_CWT_SCALOGRAM)">
+  <data key="d3">analyze_best_vs_worst_trials(architecture_filter=2D_CWT_SCALOGRAM)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.04582402586962581, 0.0070388247583383886, 2.6358735712065693, 3.062395601665878]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_ab59d63d" target="2D_CWT_SCALOGRAM_117f53a0" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.11969528595606486, 0.06515119316601994, 14.198660850524902, 41.6923942565918]</data>
+  <data key="d6">[[-0.05, 0.11969528595606486, 0.06515119316601994, 14.198660850524902, 41.6923942565918], [-0.05, 0.11969528595606486, 0.06515119316601994, 14.198660850524902, 41.6923942565918]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 5, "filters": 64, "kernel_size": 5, "dense_units": 128, "dropout_rate": 0.5, "learning_rate": 0.0001, "batch_size": 64, "weight_decay": 0.001, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.11969528595606486, 0.06515119316601994, 14.198660850524902, 41.6923942565918]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_117f53a0" target="2D_CWT_SCALOGRAM_b0886559" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.12396156787872314, 0.05922397230610701, 14.315557479858398, 15.188488006591797]</data>
+  <data key="d6">[[-0.05, 0.12396156787872314, 0.05922397230610701, 14.315557479858398, 15.188488006591797], [-0.05, 0.12396156787872314, 0.05922397230610701, 14.315557479858398, 15.188488006591797]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 5, "filters": 64, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.5, "learning_rate": 0.0001, "batch_size": 64, "batch_norm": 1, "weight_decay": 0.001, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.12396156787872314, 0.05922397230610701, 14.315557479858398, 15.188488006591797]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_b0886559" target="2D_CWT_SCALOGRAM_b0886559" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.4977731188138326, 0.02315295350672018, 9.947481155395508, 4.047863006591797]</data>
+  <data key="d6">[[-0.05, 0.4977731188138326, 0.02315295350672018, 9.947481155395508, 4.047863006591797], [-0.05, 0.4977731188138326, 0.02315295350672018, 9.947481155395508, 4.047863006591797]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "num_conv_layers": 3, "filters": 64, "kernel_size": 5, "dense_units": 128, "dropout_rate": 0.45, "learning_rate": 0.0001, "batch_size": 64, "weight_decay": 0.001, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.5869242843933902, 0.02729964747977377, 11.729075030326843, 4.772835271072388]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_b0886559" target="2D_CWT_SCALOGRAM_b0886559" id="memorize_finding(finding=Tested weight_decay=0.001 with dropout=...)">
+  <data key="d3">memorize_finding(finding=Tested weight_decay=0.001 with dropout=...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "Tested weight_decay=0.001 with dropout=0.5, depth=5, lr=0.0001 on 2D_CWT_SCALOGRAM. Overfitting gap remains &gt;0.25. Further regularization or architecture changes needed.", "category": "hyperparameter", "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.10036405263126974, 0.0046682397190413154, 2.0056718301858902, 0.8161548313533784]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_b0886559" target="2D_CWT_SCALOGRAM_b0886559" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.10036405263126974, 0.0046682397190413154, 2.0056718301858902, 0.8161548313533784]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_b0886559" target="2D_CWT_SCALOGRAM_b0886559" id="recall_relevant_memories(query=2D_CWT_SCALOGRAM cutmix progressive dropo...)">
+  <data key="d3">recall_relevant_memories(query=2D_CWT_SCALOGRAM cutmix progressive dropo...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.1, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[0.1, 0.0, 0.0, 0.0, 0.0], [0.1, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"query": "2D_CWT_SCALOGRAM cutmix progressive dropout overfitting gap", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.11791000000000003, 0.10036405263126974, 0.0046682397190413154, 2.0056718301858902, 0.8161548313533784]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_b0886559" target="2D_CWT_SCALOGRAM_b0886559" id="run_strategic_optuna_sweep(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_strategic_optuna_sweep(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "n_trials": 10, "optimization_focus": "accuracy", "use_stratified_nested_validation": true, "hyperparameters": {"cutmix_alpha": {"type": "float", "min": 0.2, "max": 0.5}, "progressive_dropout_max": {"type": "float", "min": 0.15, "max": 0.35}, "learning_rate": {"type": "loguniform", "min": 1e-05, "max": 0.01}, "dropout_rate": {"type": "float", "min": 0.1, "max": 0.6}, "filters": {"type": "choice", "choices": [32, 64, 128]}, "num_conv_layers": {"type": "int", "min": 2, "max": 5}, "dense_units": {"type": "choice", "choices": [64, 128, 256]}, "weight_decay": {"type": "loguniform", "min": 1e-06, "max": 0.001}}, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.97983739, 0.10036405263126974, 0.0046682397190413154, 2.0056718301858902, 0.8161548313533784]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_b0886559" target="2D_CWT_SCALOGRAM_304ac9ff" id="run_strategic_optuna_sweep(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_strategic_optuna_sweep(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "sers_data_3_classes", "n_trials": 10, "optimization_focus": "accuracy", "hyperparameters": {"cutmix_alpha": {"type": "float", "min": 0.2, "max": 0.5}, "progressive_dropout_max": {"type": "float", "min": 0.15, "max": 0.35}}, "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_CWT_SCALOGRAM_304ac9ff" target="2D_CWT_SCALOGRAM_304ac9ff" id="memorize_finding(finding=run_strategic_optuna_sweep is non-funct...)">
+  <data key="d3">memorize_finding(finding=run_strategic_optuna_sweep is non-funct...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "run_strategic_optuna_sweep is non-functional due to '_missing_from_sweep' runtime error, as noted in the Research Chronicle. Manual tuning on 2D_CWT_SCALOGRAM continues to hit an HO ceiling of ~0.5643 with a persistent &gt;0.25 train-HO gap. Systematic hyperparameter search remains impossible until the tool is fixed.", "category": "infrastructure", "experiment_name": "2D_CWT_SCALOGRAM", "_data_source": "sers_data_3_classes", "_manifest_name": "sers_data_3_classes", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+</graph></graphml>

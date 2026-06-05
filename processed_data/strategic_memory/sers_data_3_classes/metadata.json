@@ -1,0 +1,5 @@
+{
+    "representation_type": "1D_CNN",
+    "num_classes": 3,
+    "data_domain": "SERS_spectral"
+}

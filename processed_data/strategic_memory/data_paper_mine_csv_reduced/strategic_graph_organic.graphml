@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d8" for="edge" attr.name="q_vector" attr.type="string"/>
+<key id="d7" for="edge" attr.name="full_arguments" attr.type="string"/>
+<key id="d6" for="edge" attr.name="raw_rewards" attr.type="string"/>
+<key id="d5" for="edge" attr.name="impact_vector" attr.type="string"/>
+<key id="d4" for="edge" attr.name="visits" attr.type="long"/>
+<key id="d3" for="edge" attr.name="action" attr.type="string"/>
+<key id="d2" for="node" attr.name="creation_step" attr.type="long"/>
+<key id="d1" for="node" attr.name="architecture" attr.type="string"/>
+<key id="d0" for="node" attr.name="vector" attr.type="string"/>
+<graph edgedefault="directed"><node id="2D_GAF_f8e40133">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5368]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">0</data>
+</node>
+<node id="2D_GAF_9809fa19">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7109, 0.0, 0.02, 0.0267, 0.7109, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5368]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">1</data>
+</node>
+<node id="2D_GAF_48142c1a">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.7341, 0.0053, 0.08, 0.0328, 0.7341, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5368]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">2</data>
+</node>
+<node id="2D_GAF_362bfbb4">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.769, 0.0159, 0.1, 0.0365, 0.769, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5368]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">3</data>
+</node>
+<edge source="2D_GAF_f8e40133" target="2D_GAF_f8e40133" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "data_paper_mine_csv_reduced", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f8e40133" target="2D_GAF_f8e40133" id="create_dataset_manifest(manifest_name=2D_GAF_manifest, params={'represe...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_GAF_manifest, params={'represe...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_manifest", "params": {"representation_type": "2D_GAF", "n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64}, "_data_source": "data_paper_mine_csv_reduced", "_manifest_name": "2D_GAF_manifest", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f8e40133" target="2D_GAF_9809fa19" id="run_training_trial(manifest_name=2D_GAF_manifest, representation_t...)">
+  <data key="d3">run_training_trial(manifest_name=2D_GAF_manifest, representation_t...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.7109, 0.18376627961794534, 0.018224145908548376, 6.519899368286133, 0.10645675659179688]</data>
+  <data key="d6">[[0.7109, 0.18376627961794534, 0.018224145908548376, 6.519899368286133, 0.10645675659179688], [0.7109, 0.18376627961794534, 0.018224145908548376, 6.519899368286133, 0.10645675659179688]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_manifest", "representation_type": "2D_GAF", "learning_rate": 0.001, "batch_size": 32, "epochs": 20, "batch_norm": 1, "experiment_name": "2D_GAF", "gpu_id": 0, "_data_source": "data_paper_mine_csv_reduced", "_manifest_name": "2D_GAF_manifest", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[0.7109, 0.18376627961794534, 0.018224145908548376, 6.519899368286133, 0.10645675659179688]</data>
+</edge>
+<edge source="2D_GAF_9809fa19" target="2D_GAF_9809fa19" id="create_dataset_manifest(manifest_name=2D_GAF_manifest_v2, params={'repr...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_GAF_manifest_v2, params={'repr...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_manifest_v2", "params": {"representation_type": "2D_GAF", "n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64}, "_data_source": "data_paper_mine_csv_reduced", "_manifest_name": "2D_GAF_manifest_v2", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_9809fa19" target="2D_GAF_9809fa19" id="get_correlation_matrix(architecture_filter=2D_GAF)">
+  <data key="d3">get_correlation_matrix(architecture_filter=2D_GAF)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "2D_GAF", "_data_source": "data_paper_mine_csv_reduced", "_manifest_name": "2D_GAF_manifest_v3", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-1.0182471620500002, 0.03193837686034266, 0.00571833389854153, 1.4692281803718363, 0.02465993485337551]</data>
+</edge>
+<edge source="2D_GAF_9809fa19" target="2D_GAF_9809fa19" id="run_training_trial(representation_type=2D_GAF, manifest_name=2D_GA...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=2D_GA...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.05, 0.08861471315224966, 0.021637015872531463, 6.4398908615112305, 0.10645675659179688]</data>
+  <data key="d6">[[-0.05, 0.15837318698565164, 0.025954510527427744, 6.302189826965332, 0.10645675659179688], [-0.05, 0.15837318698565164, 0.025954510527427744, 6.302189826965332, 0.10645675659179688], [-0.05, 0.018856239318847657, 0.017319521217635185, 6.577591896057129, 0.10645675659179688], [-0.05, 0.018856239318847657, 0.017319521217635185, 6.577591896057129, 0.10645675659179688]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "2D_GAF_manifest_v3", "learning_rate": 0.0001, "batch_size": 16, "epochs": 20, "batch_norm": 1, "experiment_name": "2D_GAF", "gpu_id": 0, "_data_source": "data_paper_mine_csv_reduced", "_manifest_name": "2D_GAF_manifest_v3", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.06733485500000003, 0.1867741336862144, 0.03344054911427795, 8.591977662993195, 0.14421014534137724]</data>
+</edge>
+<edge source="2D_GAF_9809fa19" target="2D_GAF_9809fa19" id="create_dataset_manifest(manifest_name=2D_GAF_manifest_v3, params={'repr...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_GAF_manifest_v3, params={'repr...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_manifest_v3", "params": {"representation_type": "2D_GAF", "n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64}, "_data_source": "data_paper_mine_csv_reduced", "_manifest_name": "2D_GAF_manifest_v3", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0319321680364877, 0.005233106735054201, 1.270685956270695, 0.0214644606502533]</data>
+</edge>
+<edge source="2D_GAF_9809fa19" target="2D_GAF_48142c1a" id="run_training_trial(representation_type=2D_GAF, manifest_name=2D_GA...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=2D_GA...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.0232, 0.2176121453444163, 0.018224145908548376, 7.1285295486450195, 0.10645675659179688]</data>
+  <data key="d6">[[0.0232, 0.2176121453444163, 0.018224145908548376, 7.1285295486450195, 0.10645675659179688], [0.0232, 0.2176121453444163, 0.018224145908548376, 7.1285295486450195, 0.10645675659179688]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "2D_GAF_manifest", "batch_norm": 1, "weight_decay": 5e-05, "epochs": 50, "experiment_name": "2D_GAF", "gpu_id": 0, "_data_source": "data_paper_mine_csv_reduced", "_manifest_name": "2D_GAF_manifest", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[0.0232, 0.2176121453444163, 0.018224145908548376, 7.1285295486450195, 0.10645675659179688]</data>
+</edge>
+<edge source="2D_GAF_48142c1a" target="2D_GAF_48142c1a" id="create_dataset_manifest(manifest_name=2D_GAF_manifest, params={'represe...)">
+  <data key="d3">create_dataset_manifest(manifest_name=2D_GAF_manifest, params={'represe...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_manifest", "params": {"representation_type": "2D_GAF", "n_fft": 1024, "hop_length": 256, "gaf_image_size": 224, "video_num_segments": 16, "video_gaf_image_size": 224}, "_data_source": "data_paper_mine_csv_reduced", "_manifest_name": "2D_GAF_manifest", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_48142c1a" target="2D_GAF_48142c1a" id="analyze_best_vs_worst_trials(architecture_filter=2D_GAF)">
+  <data key="d3">analyze_best_vs_worst_trials(architecture_filter=2D_GAF)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "2D_GAF", "_data_source": "data_paper_mine_csv_reduced", "_manifest_name": "2D_GAF_manifest", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_48142c1a" target="2D_GAF_48142c1a" id="get_optimization_status">
+  <data key="d3">get_optimization_status</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "data_paper_mine_csv_reduced", "_manifest_name": "2D_GAF_manifest", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_48142c1a" target="2D_GAF_362bfbb4" id="run_training_trial(representation_type=2D_GAF, manifest_name=2D_GA...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=2D_GA...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.03490000000000004, 0.1915958265463511, 0.025738205813398262, 6.389303207397461, 1.2636833190917969]</data>
+  <data key="d6">[[0.03490000000000004, 0.1915958265463511, 0.025738205813398262, 6.389303207397461, 1.2636833190917969], [0.03490000000000004, 0.1915958265463511, 0.025738205813398262, 6.389303207397461, 1.2636833190917969]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "2D_GAF_manifest", "depth": 8, "filters": 128, "batch_norm": 1, "weight_decay": 5e-05, "epochs": 50, "patience": 15, "experiment_name": "2D_GAF", "gpu_id": 0, "_data_source": "data_paper_mine_csv_reduced", "_manifest_name": "2D_GAF_manifest", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[0.03490000000000005, 0.1915958265463511, 0.025738205813398266, 6.389303207397461, 1.2636833190917969]</data>
+</edge>
+<edge source="2D_GAF_362bfbb4" target="2D_GAF_362bfbb4" id="get_optimization_status">
+  <data key="d3">get_optimization_status</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "data_paper_mine_csv_reduced", "_manifest_name": "2D_GAF_manifest", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_362bfbb4" target="2D_GAF_362bfbb4" id="run_training_trial(manifest_name=2D_GAF_manifest, representation_t...)">
+  <data key="d3">run_training_trial(manifest_name=2D_GAF_manifest, representation_t...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.2176121453444163, 0.018224145908548376, 6.443567276000977, 0.10645675659179688]</data>
+  <data key="d6">[[-0.05, 0.2176121453444163, 0.018224145908548376, 6.443567276000977, 0.10645675659179688], [-0.05, 0.2176121453444163, 0.018224145908548376, 6.443567276000977, 0.10645675659179688]]</data>
+  <data key="d7">{"manifest_name": "2D_GAF_manifest", "representation_type": "2D_GAF", "epochs": 50, "patience": 15, "batch_norm": 1, "experiment_name": "2D_GAF", "gpu_id": 0, "_data_source": "data_paper_mine_csv_reduced", "_manifest_name": "2D_GAF_manifest", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.2565864805756013, 0.02148809044076939, 7.597610175132751, 0.1255231616973877]</data>
+</edge>
+<edge source="2D_GAF_362bfbb4" target="2D_GAF_362bfbb4" id="run_training_trial(representation_type=2D_GAF, manifest_name=2D_GA...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=2D_GA...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.1915958265463511, 0.025738205813398262, 7.446098327636719, 1.2636833190917969]</data>
+  <data key="d6">[[-0.05, 0.1915958265463511, 0.025738205813398262, 7.446098327636719, 1.2636833190917969], [-0.05, 0.1915958265463511, 0.025738205813398262, 7.446098327636719, 1.2636833190917969]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "2D_GAF_manifest", "depth": 8, "filters": 128, "batch_norm": 1, "weight_decay": 5e-05, "epochs": 50, "patience": 15, "experiment_name": "2D_GAF", "gpu_id": 0, "_data_source": "data_paper_mine_csv_reduced", "_manifest_name": "2D_GAF_manifest", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 64, "video_num_segments": 16, "video_gaf_image_size": 64, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.23547211472477897, 0.030347918474577896, 8.793194243728351, 1.4900090015411378]</data>
+</edge>
+</graph></graphml>

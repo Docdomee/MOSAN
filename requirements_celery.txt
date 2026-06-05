@@ -1,0 +1,6 @@
+celery[redis]
+redis
+numpy
+pandas
+scikit-learn
+mlflow

@@ -1,0 +1,1445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d8" for="edge" attr.name="q_vector" attr.type="string"/>
+<key id="d7" for="edge" attr.name="full_arguments" attr.type="string"/>
+<key id="d6" for="edge" attr.name="raw_rewards" attr.type="string"/>
+<key id="d5" for="edge" attr.name="impact_vector" attr.type="string"/>
+<key id="d4" for="edge" attr.name="visits" attr.type="long"/>
+<key id="d3" for="edge" attr.name="action" attr.type="string"/>
+<key id="d2" for="node" attr.name="creation_step" attr.type="long"/>
+<key id="d1" for="node" attr.name="architecture" attr.type="string"/>
+<key id="d0" for="node" attr.name="vector" attr.type="string"/>
+<graph edgedefault="directed"><node id="1D_CNN_98423ada">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.323]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">0</data>
+</node>
+<node id="1D_CNN_a5860ca3">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4132, 0.0, 0.02, 0.0405, 0.4132, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.323]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">1</data>
+</node>
+<node id="1D_CNN_a39914f6">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9315, 0.5183, 0.04, 0.0043, 0.9315, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.323]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">2</data>
+</node>
+<node id="1D_CNN_0721e959">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9315, 0.245, 0.06, 0.0043, 0.9315, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.323]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">3</data>
+</node>
+<node id="1D_CNN_17e324d3">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9315, 0.1444, 0.08, 0.0043, 0.9315, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.323]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">4</data>
+</node>
+<node id="1D_CNN_dd5cf97f">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9315, 0.0921, 0.1, 0.0043, 0.9315, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.323]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">5</data>
+</node>
+<node id="1D_CNN_7c0e9932">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9315, -0.0017, 0.12, 0.0043, 0.9315, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.323]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">6</data>
+</node>
+<node id="1D_CNN_ff289ea9">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9382, 0.0108, 0.18, 0.0025, 0.9382, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.323]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">7</data>
+</node>
+<node id="1D_CNN_a5c71dcf">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9382, 0.0007, 0.22, 0.0025, 0.9382, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6453]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">8</data>
+</node>
+<node id="1D_CNN_c6586552">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9393, 0.0011, 0.28, 0.0024, 0.9393, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6453]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">9</data>
+</node>
+<node id="1D_CNN_2bdc9ec3">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9393, -0.0009, 0.34, 0.0024, 0.9393, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6136]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">10</data>
+</node>
+<node id="1D_CNN_ee350b80">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9408, -0.0008, 0.66, 0.002, 0.9408, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6136]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">11</data>
+</node>
+<node id="deep_res_d_cnn.py_272e6180">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9408, -0.0008, 0.66, 0.002, 0.9408, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6136]</data>
+  <data key="d1">deep_res_d_cnn.py</data>
+  <data key="d2">12</data>
+</node>
+<node id="deep_res_d_cnn.py_1bc0072b">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.9408, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6136]</data>
+  <data key="d1">deep_res_d_cnn.py</data>
+  <data key="d2">13</data>
+</node>
+<node id="deep_res_d_cnn.py_9b858140">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.925, 0.0, 0.02, 0.0049, 0.9408, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6136]</data>
+  <data key="d1">deep_res_d_cnn.py</data>
+  <data key="d2">14</data>
+</node>
+<node id="deep_res_d_cnn.py_e53114fe">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.926, -0.0546, 0.26, 0.0032, 0.9408, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6136]</data>
+  <data key="d1">deep_res_d_cnn.py</data>
+  <data key="d2">15</data>
+</node>
+<node id="deep_res_d_cnn.py_c3b94cc0">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.926, -0.0546, 0.26, 0.0032, 0.9408, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3018]</data>
+  <data key="d1">deep_res_d_cnn.py</data>
+  <data key="d2">16</data>
+</node>
+<node id="deep_res_d_cnn.py_f658b84b">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.926, 0.0237, 0.3, 0.0032, 0.9408, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3018]</data>
+  <data key="d1">deep_res_d_cnn.py</data>
+  <data key="d2">17</data>
+</node>
+<node id="resnet_1d_nature.py_3b0b6870">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.926, 0.0237, 0.3, 0.0032, 0.9408, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3018]</data>
+  <data key="d1">resnet_1d_nature.py</data>
+  <data key="d2">18</data>
+</node>
+<node id="resnet_1d_nature.py_cd4b0ee0">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.9408, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3018]</data>
+  <data key="d1">resnet_1d_nature.py</data>
+  <data key="d2">19</data>
+</node>
+<node id="resnet_1d_nature.py_5dc37c31">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.9393, 0.0, 0.02, 0.0021, 0.9408, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3018]</data>
+  <data key="d1">resnet_1d_nature.py</data>
+  <data key="d2">20</data>
+</node>
+<node id="resnet_1d_nature.py_e47e48f0">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.9393, -0.0001, 0.08, 0.0021, 0.9408, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3018]</data>
+  <data key="d1">resnet_1d_nature.py</data>
+  <data key="d2">21</data>
+</node>
+<node id="1D_CNN_235ed59f">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5641]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">22</data>
+</node>
+<node id="1D_CNN_0457b2a6">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.435, 0.0, 0.02, 0.0478, 0.435, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5641]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">23</data>
+</node>
+<node id="resnet_1d_nature.py_f318d957">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.435, -0.0315, 0.04, 0.0478, 0.435, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5641]</data>
+  <data key="d1">resnet_1d_nature.py</data>
+  <data key="d2">24</data>
+</node>
+<node id="resnet_1d_nature.py_b1b4b11f">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.435, -0.0315, 0.04, 0.0478, 0.7405, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5641]</data>
+  <data key="d1">resnet_1d_nature.py</data>
+  <data key="d2">25</data>
+</node>
+<node id="1D_CNN_2227f257">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.435, -0.0315, 0.04, 0.0478, 0.7405, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5641]</data>
+  <data key="d1">1D_CNN</data>
+  <data key="d2">26</data>
+</node>
+<node id="deep_d_resnet_cnn.py_77f9bc1c">
+  <data key="d0">[1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.435, -0.0315, 0.04, 0.0478, 0.7405, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5641]</data>
+  <data key="d1">deep_d_resnet_cnn.py</data>
+  <data key="d2">27</data>
+</node>
+<node id="deep_d_resnet_cnn.py_f3958048">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.3255, 0.0, 0.02, 0.0239, 0.7405, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5641]</data>
+  <data key="d1">deep_d_resnet_cnn.py</data>
+  <data key="d2">28</data>
+</node>
+<node id="deep_d_resnet_cnn.py_b10e380a">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.4273, 0.1018, 0.04, 0.0124, 0.7405, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5641]</data>
+  <data key="d1">deep_d_resnet_cnn.py</data>
+  <data key="d2">29</data>
+</node>
+<node id="enhanced_resnet_d.py_2a9e4b4b">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.4273, 0.1018, 0.04, 0.0124, 0.7405, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5641]</data>
+  <data key="d1">enhanced_resnet_d.py</data>
+  <data key="d2">30</data>
+</node>
+<node id="enhanced_resnet_d.py_c1fc9b6a">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.7678, 0.0, 0.02, 0.0207, 0.7678, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5641]</data>
+  <data key="d1">enhanced_resnet_d.py</data>
+  <data key="d2">31</data>
+</node>
+<node id="enhanced_resnet_d.py_9e0dd7be">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.8984, 0.1306, 0.04, 0.0025, 0.8984, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5641]</data>
+  <data key="d1">enhanced_resnet_d.py</data>
+  <data key="d2">32</data>
+</node>
+<node id="2D_GAF_f4e892fe">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8165]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">33</data>
+</node>
+<node id="2D_GAF_3ecf63d7">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8081, 0.0, 0.02, 0.0184, 0.8081, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8165]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">34</data>
+</node>
+<node id="2D_GAF_f2c201c3">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8081, 0.0, 0.02, 0.0184, 0.8081, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2863]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">35</data>
+</node>
+<node id="2D_GAF_fb83a430">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8081, -0.0518, 0.04, 0.0184, 0.8081, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2863]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">36</data>
+</node>
+<node id="hybrid_d_gaf_attention_cnn.py_9c5967d3">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8081, -0.0518, 0.04, 0.0184, 0.8081, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2863]</data>
+  <data key="d1">hybrid_d_gaf_attention_cnn.py</data>
+  <data key="d2">37</data>
+</node>
+<node id="hybrid_d_gaf_attention_cnn.py_85cba259">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.8081, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2863]</data>
+  <data key="d1">hybrid_d_gaf_attention_cnn.py</data>
+  <data key="d2">38</data>
+</node>
+<node id="2D_GAF_0a4004f3">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8081, -0.0518, 0.04, 0.0184, 0.8081, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1962]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">39</data>
+</node>
+<node id="2D_GAF_6c826572">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8081, -0.0518, 0.04, 0.0184, 0.8081, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3502]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">40</data>
+</node>
+<node id="2D_GAF_23bd1d67">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8367, 0.0143, 0.06, 0.0113, 0.8367, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3502]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">41</data>
+</node>
+<node id="2D_GAF_a3290353">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.899, 0.0269, 0.1, 0.0009, 0.899, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3502]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">42</data>
+</node>
+<node id="2D_GAF_484e120f">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.899, 0.0105, 0.16, 0.0009, 0.899, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3502]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">43</data>
+</node>
+<node id="2D_GAF_d28aa344">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9037, 0.0038, 0.44, 0.0023, 0.9037, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3502]</data>
+  <data key="d1">2D_GAF</data>
+  <data key="d2">44</data>
+</node>
+<node id="hybrid_d_gaf_attention_cnn.py_9c49a239">
+  <data key="d0">[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9037, -0.0009, 0.48, 0.0023, 0.9037, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3502]</data>
+  <data key="d1">hybrid_d_gaf_attention_cnn.py</data>
+  <data key="d2">45</data>
+</node>
+<node id="hybrid_d_gaf_attention_cnn.py_fd6a316d">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.9037, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3502]</data>
+  <data key="d1">hybrid_d_gaf_attention_cnn.py</data>
+  <data key="d2">46</data>
+</node>
+<node id="hybrid_d_gaf_attention_cnn.py_8bf856e8">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.8935, -0.0096, 0.06, 0.0005, 0.9037, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4859]</data>
+  <data key="d1">hybrid_d_gaf_attention_cnn.py</data>
+  <data key="d2">47</data>
+</node>
+<node id="hybrid_d_gaf_attention_cnn.py_20c8a8f2">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.8974, -0.0129, 0.12, 0.0051, 0.9037, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4859]</data>
+  <data key="d1">hybrid_d_gaf_attention_cnn.py</data>
+  <data key="d2">48</data>
+</node>
+<node id="hybrid_d_gaf_attention_cnn.py_8df1005f">
+  <data key="d0">[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.8974, -0.0063, 0.14, 0.0051, 0.9037, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6031]</data>
+  <data key="d1">hybrid_d_gaf_attention_cnn.py</data>
+  <data key="d2">49</data>
+</node>
+<edge source="1D_CNN_98423ada" target="1D_CNN_98423ada" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_98423ada" target="1D_CNN_98423ada" id="analyze_best_vs_worst_trials">
+  <data key="d3">analyze_best_vs_worst_trials</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_98423ada" target="1D_CNN_98423ada" id="create_dataset_manifest(manifest_name=NPY_nature_30_classes, params={'r...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_classes, params={'r...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_classes", "params": {"representation_type": "1D_CNN", "n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64}, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_98423ada" target="1D_CNN_98423ada" id="run_training_trial(architecture=1D_CNN, dataset=NPY_nature_30_clas...)">
+  <data key="d3">run_training_trial(architecture=1D_CNN, dataset=NPY_nature_30_clas...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture": "1D_CNN", "dataset": "NPY_nature_30_classes", "weight_decay": 0.0, "epochs": 75, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_98423ada" target="1D_CNN_98423ada" id="analyze_best_vs_worst_trials(architecture_filter=1D_CNN)">
+  <data key="d3">analyze_best_vs_worst_trials(architecture_filter=1D_CNN)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_98423ada" target="1D_CNN_a5860ca3" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.4132, 0.057895000775655105, 0.001964444162869697, 6.917901039123535, 0.07213592529296875]</data>
+  <data key="d6">[[0.4132, 0.057895000775655105, 0.001964444162869697, 6.917901039123535, 0.07213592529296875], [0.4132, 0.057895000775655105, 0.001964444162869697, 6.917901039123535, 0.07213592529296875]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "weight_decay": 0.0, "epochs": 75, "batch_norm": 1, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.41320000000000007, 0.057895000775655105, 0.001964444162869697, 6.917901039123535, 0.07213592529296875]</data>
+</edge>
+<edge source="1D_CNN_a5860ca3" target="1D_CNN_a5860ca3" id="recall_relevant_memories(query=1D CNN best configurations overfitting)">
+  <data key="d3">recall_relevant_memories(query=1D CNN best configurations overfitting)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.1, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[0.1, 0.0, 0.0, 0.0, 0.0], [0.1, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"query": "1D CNN best configurations overfitting", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.11791000000000003, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_a5860ca3" target="1D_CNN_a39914f6" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.5183, 0.06067000627517701, 0.0045097980836425215, 21.410932540893555, 19.84142303466797]</data>
+  <data key="d6">[[0.5183, 0.06067000627517701, 0.0045097980836425215, 21.410932540893555, 19.84142303466797], [0.5183, 0.06067000627517701, 0.0045097980836425215, 21.410932540893555, 19.84142303466797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 8, "filters": 256, "learning_rate": 0.0002, "batch_norm": 1, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.5183, 0.06067000627517701, 0.0045097980836425215, 21.410932540893555, 19.84142303466797]</data>
+</edge>
+<edge source="1D_CNN_a39914f6" target="1D_CNN_a39914f6" id="memorize_finding(finding=Trial with num_conv_layers=6, filters=1...)">
+  <data key="d3">memorize_finding(finding=Trial with num_conv_layers=6, filters=1...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "Trial with num_conv_layers=6, filters=128, and lr=1e-5 on 1D_CNN pipeline measured whether validation accuracy exceeds 0.40 and inference latency remains under 10ms.", "category": "experiment", "experiment_name": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_a39914f6" target="1D_CNN_0721e959" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.07967333396275837, 0.04502676881925025, 16.64891242980957, 11.188102722167969]</data>
+  <data key="d6">[[-0.05, 0.07967333396275837, 0.04502676881925025, 16.64891242980957, 11.188102722167969], [-0.05, 0.07967333396275837, 0.04502676881925025, 16.64891242980957, 11.188102722167969]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 6, "filters": 128, "learning_rate": 1e-05, "batch_norm": 1, "epochs": 75, "patience": 15, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.07967333396275837, 0.04502676881925025, 16.64891242980957, 11.188102722167969]</data>
+</edge>
+<edge source="1D_CNN_0721e959" target="1D_CNN_0721e959" id="analyze_best_vs_worst_trials(architecture_filter=1D_CNN)">
+  <data key="d3">analyze_best_vs_worst_trials(architecture_filter=1D_CNN)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.1791, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_0721e959" target="1D_CNN_0721e959" id="memorize_finding(finding=Executed O1, O2, O3, and O4 with varied...)">
+  <data key="d3">memorize_finding(finding=Executed O1, O2, O3, and O4 with varied...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "Executed O1, O2, O3, and O4 with varied configurations to address persistent failures and improve model performance.", "category": "experiment", "experiment_name": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_0721e959" target="1D_CNN_17e324d3" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.08196166356404623, 0.0222411117168388, 17.261548042297363, 5.286491394042969]</data>
+  <data key="d6">[[-0.05, 0.08196166356404623, 0.0222411117168388, 17.261548042297363, 5.286491394042969], [-0.05, 0.08196166356404623, 0.0222411117168388, 17.261548042297363, 5.286491394042969]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 6, "dropout_rate": 0.3, "batch_norm": 1, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.08196166356404623, 0.0222411117168388, 17.261548042297363, 5.286491394042969]</data>
+</edge>
+<edge source="1D_CNN_17e324d3" target="1D_CNN_17e324d3" id="analyze_best_vs_worst_trials(architecture_filter=1D_CNN)">
+  <data key="d3">analyze_best_vs_worst_trials(architecture_filter=1D_CNN)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.1791, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_17e324d3" target="1D_CNN_dd5cf97f" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.14856333732604982, 0.018575655811964888, 16.18600845336914, 11.188102722167969]</data>
+  <data key="d6">[[-0.05, 0.14856333732604982, 0.018575655811964888, 16.18600845336914, 11.188102722167969], [-0.05, 0.14856333732604982, 0.018575655811964888, 16.18600845336914, 11.188102722167969]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 6, "filters": 128, "learning_rate": 0.0002, "batch_norm": 1, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.14856333732604982, 0.018575655811964888, 16.18600845336914, 11.188102722167969]</data>
+</edge>
+<edge source="1D_CNN_dd5cf97f" target="1D_CNN_dd5cf97f" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_dd5cf97f" target="1D_CNN_7c0e9932" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.07481665213902791, 0.00515060521135427, 22.157411575317383, 11.306022644042969]</data>
+  <data key="d6">[[-0.05, 0.07481665213902791, 0.00515060521135427, 22.157411575317383, 11.306022644042969], [-0.05, 0.07481665213902791, 0.00515060521135427, 22.157411575317383, 11.306022644042969]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 8, "batch_norm": 1, "weight_decay": 0.0001, "learning_rate": 0.0002, "batch_size": 32, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.07481665213902793, 0.00515060521135427, 22.157411575317383, 11.306022644042969]</data>
+</edge>
+<edge source="1D_CNN_7c0e9932" target="1D_CNN_7c0e9932" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.022000000000000002, 0.06143416961034139, 0.016190757354100554, 20.229146480560303, 19.84142303466797]</data>
+  <data key="d6">[[-0.05, 0.06067000627517701, 0.0045097980836425215, 20.525636672973633, 19.84142303466797], [-0.05, 0.06067000627517701, 0.0045097980836425215, 20.525636672973633, 19.84142303466797], [0.006000000000000005, 0.06219833294550577, 0.027871716624558587, 19.932656288146973, 19.84142303466797], [0.006000000000000005, 0.06219833294550577, 0.027871716624558587, 19.932656288146973, 19.84142303466797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "learning_rate": 1e-05, "patience": 15, "num_conv_layers": 8, "filters": 256, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 50, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05658779550000002, 0.08248990616767557, 0.01075815622059364, 27.686761416242504, 26.877904148262406]</data>
+</edge>
+<edge source="1D_CNN_7c0e9932" target="1D_CNN_7c0e9932" id="get_optimization_status">
+  <data key="d3">get_optimization_status</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.01223265675223947, 0.0009092929993923156, 4.138504072388649, 4.000548744930268]</data>
+</edge>
+<edge source="1D_CNN_7c0e9932" target="1D_CNN_7c0e9932" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.01223265675223947, 0.0009092929993923156, 4.138504072388649, 4.000548744930268]</data>
+</edge>
+<edge source="1D_CNN_7c0e9932" target="1D_CNN_7c0e9932" id="create_dataset_manifest(manifest_name=NPY_nature_30_classes, params={'r...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_classes, params={'r...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_classes", "params": {"representation_type": "1D_CNN", "n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24}, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.01223265675223947, 0.0009092929993923156, 4.138504072388649, 4.000548744930268]</data>
+</edge>
+<edge source="1D_CNN_7c0e9932" target="1D_CNN_ff289ea9" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[0.0007000000000000339, 0.04649666945139567, 0.009783233054960623, 20.527639389038086, 19.84142303466797]</data>
+  <data key="d6">[[0.0007000000000000339, 0.04649666945139567, 0.009783233054960623, 20.527639389038086, 19.84142303466797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 8, "filters": 256, "dropout_rate": 0.6, "learning_rate": 0.0008, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.000700000000000034, 0.04649666945139567, 0.009783233054960623, 20.527639389038086, 19.84142303466797]</data>
+</edge>
+<edge source="1D_CNN_ff289ea9" target="1D_CNN_ff289ea9" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">5</data>
+  <data key="d5">[-0.03986, 0.05247933069864909, 0.017148484702062136, 21.937206268310547, 19.84142303466797]</data>
+  <data key="d6">[[0.0007000000000000339, 0.04649666945139567, 0.009783233054960623, 20.527639389038086, 19.84142303466797], [-0.05, 0.05750833749771118, 0.00537464486228098, 22.74949073791504, 19.84142303466797], [-0.05, 0.05750833749771118, 0.00537464486228098, 22.74949073791504, 19.84142303466797], [-0.05, 0.050441654523213704, 0.03260495036539405, 21.829705238342285, 19.84142303466797], [-0.05, 0.050441654523213704, 0.03260495036539405, 21.829705238342285, 19.84142303466797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 8, "filters": 256, "learning_rate": 1e-05, "dropout_rate": 0.6, "batch_norm": 1, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.01896906024436997, 0.06993863116193591, 0.017780186074058076, 30.274627397097415, 28.593267410246582]</data>
+</edge>
+<edge source="1D_CNN_ff289ea9" target="1D_CNN_ff289ea9" id="analyze_best_vs_worst_trials(architecture_filter=1D_CNN)">
+  <data key="d3">analyze_best_vs_worst_trials(architecture_filter=1D_CNN)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.525, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.8226380261717872, 0.01897938244611801, 0.004517444234046361, 8.276140116539136, 7.885025427091894]</data>
+</edge>
+<edge source="1D_CNN_ff289ea9" target="1D_CNN_ff289ea9" id="memorize_finding(finding=Batch normalization and dropout rate of...)">
+  <data key="d3">memorize_finding(finding=Batch normalization and dropout rate of...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "Batch normalization and dropout rate of 0.6 with 256 filters and 8 convolutional layers were tested to stabilize the 1D_CNN and improve held-out accuracy.", "category": "hyperparameter", "experiment_name": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05324370930178727, 0.011959505928691043, 0.0030404118186639316, 5.176961284903658, 4.889448727152166]</data>
+</edge>
+<edge source="1D_CNN_a5c71dcf" target="1D_CNN_a5c71dcf" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.024450000000000006, 0.05505834221839905, 0.017801059917970145, 23.97373676300049, 22.85118865966797]</data>
+  <data key="d6">[[-0.05, 0.05859168370564779, 0.029850099544332497, 23.395109176635742, 22.85118865966797], [-0.05, 0.05859168370564779, 0.029850099544332497, 23.395109176635742, 22.85118865966797], [0.0010999999999999899, 0.051525000731150315, 0.005752020291607793, 24.552364349365234, 22.85118865966797], [0.0010999999999999899, 0.051525000731150315, 0.005752020291607793, 24.552364349365234, 22.85118865966797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 10, "filters": 256, "learning_rate": 0.0003, "batch_norm": 1, "dropout_rate": 0.6, "weight_decay": 0.01, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05756289550000002, 0.07796412886310737, 0.03564049898853523, 31.922148788414482, 30.955040744571]</data>
+</edge>
+<edge source="1D_CNN_a5c71dcf" target="1D_CNN_c6586552" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.052953330675760905, 0.03488414052760964, 23.43327045440674, 22.85118865966797]</data>
+  <data key="d6">[[-0.05, 0.052953330675760905, 0.03488414052760964, 23.43327045440674, 22.85118865966797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 10, "filters": 256, "learning_rate": 1e-05, "weight_decay": 0.01, "epochs": 50, "patience": 15, "batch_norm": 1, "dropout_rate": 0.6, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.052953330675760905, 0.03488414052760964, 23.43327045440674, 22.85118865966797]</data>
+</edge>
+<edge source="1D_CNN_c6586552" target="1D_CNN_c6586552" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">5</data>
+  <data key="d5">[-0.05, 0.05746401309967041, 0.030856907740987923, 24.03322124481201, 22.85118865966797]</data>
+  <data key="d6">[[-0.05, 0.052953330675760905, 0.03488414052760964, 23.43327045440674, 22.85118865966797], [-0.05, 0.05859168370564779, 0.029850099544332497, 24.58583354949951, 22.85118865966797], [-0.05, 0.05859168370564779, 0.029850099544332497, 24.58583354949951, 22.85118865966797], [-0.05, 0.05859168370564779, 0.029850099544332497, 23.78058433532715, 22.85118865966797], [-0.05, 0.05859168370564779, 0.029850099544332497, 23.78058433532715, 22.85118865966797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 10, "filters": 256, "learning_rate": 1e-05, "weight_decay": 0.01, "batch_norm": 1, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "gpu_id": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.07205447754500002, 0.0785322275862528, 0.04828755740081904, 34.063352448372996, 32.93060920309209]</data>
+</edge>
+<edge source="1D_CNN_2bdc9ec3" target="1D_CNN_2bdc9ec3" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_2bdc9ec3" target="1D_CNN_2bdc9ec3" id="create_dataset_manifest(manifest_name=NPY_nature_30_classes_leakage_neu...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_classes_leakage_neu...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.525, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_classes_leakage_neutral", "representation_type": "1D_CNN", "cv_strategy": "subject_stratified_groupkfold", "spectral_filter": "constrained_bandpass", "n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_leakage_neutral"}</data>
+  <data key="d8">[-0.8377471620500001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_2bdc9ec3" target="1D_CNN_2bdc9ec3" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.06516166528066, 0.006960402594672334, 23.32754611968994, 33.73351287841797]</data>
+  <data key="d6">[[-0.05, 0.06516166528066, 0.006960402594672334, 23.32754611968994, 33.73351287841797], [-0.05, 0.06516166528066, 0.006960402594672334, 23.32754611968994, 33.73351287841797]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 10, "filters": 128, "kernel_size": 5, "dense_units": 256, "dropout_rate": 0.4, "learning_rate": 0.0003, "batch_size": 64, "weight_decay": 0.0001, "batch_norm": 1, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.07683211953242622, 0.00820701069937815, 27.50550962972641, 39.77518503494263]</data>
+</edge>
+<edge source="1D_CNN_2bdc9ec3" target="1D_CNN_ee350b80" id="run_strategic_optuna_sweep(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_strategic_optuna_sweep(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.0014999999999999458, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[0.0014999999999999458, 0.0, 0.0, 0.0, 0.0], [0.0014999999999999458, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "n_trials": 15, "optimization_focus": "accuracy", "hyperparameters": {"learning_rate": {"type": "loguniform", "min": 1e-05, "max": 0.01}, "dropout_rate": {"type": "float", "min": 0.1, "max": 0.6}, "filters": {"type": "choice", "choices": [32, 64, 128, 256]}, "num_conv_layers": {"type": "int", "min": 4, "max": 12}, "dense_units": {"type": "choice", "choices": [64, 128, 256, 512]}, "kernel_size": {"type": "choice", "choices": [3, 5, 7]}, "batch_size": {"type": "choice", "choices": [16, 32, 64]}, "weight_decay": {"type": "loguniform", "min": 1e-06, "max": 0.001}}, "experiment_name": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.0014999999999999458, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_ee350b80" target="1D_CNN_ee350b80" id="analyze_best_vs_worst_trials(architecture_filter=1D_CNN)">
+  <data key="d3">analyze_best_vs_worst_trials(architecture_filter=1D_CNN)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_ee350b80" target="1D_CNN_ee350b80" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_ee350b80" target="1D_CNN_ee350b80" id="set_optimization_model(model_name=deep_res_d_cnn.py)">
+  <data key="d3">set_optimization_model(model_name=deep_res_d_cnn.py)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "deep_res_d_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_res_d_cnn.py_272e6180" target="deep_res_d_cnn.py_1bc0072b" id="set_optimization_model(model_name=deep_res_d_cnn.py)">
+  <data key="d3">set_optimization_model(model_name=deep_res_d_cnn.py)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.9408, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.9408, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "deep_res_d_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.9408000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_res_d_cnn.py_1bc0072b" target="deep_res_d_cnn.py_1bc0072b" id="read_file_from_architectures(filename=deep_res_d_cnn.py)">
+  <data key="d3">read_file_from_architectures(filename=deep_res_d_cnn.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "deep_res_d_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_res_d_cnn.py_1bc0072b" target="deep_res_d_cnn.py_9b858140" id="run_training_trial(custom_architecture_file=deep_res_d_cnn.py, rep...)">
+  <data key="d3">run_training_trial(custom_architecture_file=deep_res_d_cnn.py, rep...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.925, 0.04888833363850911, 0.0272172727970162, 62.4285888671875, 0.9831466674804688]</data>
+  <data key="d6">[[0.925, 0.04888833363850911, 0.0272172727970162, 62.4285888671875, 0.9831466674804688], [0.925, 0.04888833363850911, 0.0272172727970162, 62.4285888671875, 0.9831466674804688]]</data>
+  <data key="d7">{"custom_architecture_file": "deep_res_d_cnn.py", "representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 23, "filters": 64, "kernel_size": 5, "dense_units": 128, "dropout_rate": 0.3, "learning_rate": 0.0005, "batch_size": 32, "weight_decay": 5e-05, "batch_norm": 1, "epochs": 50, "patience": 15, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.925, 0.04888833363850911, 0.0272172727970162, 62.4285888671875, 0.9831466674804688]</data>
+</edge>
+<edge source="deep_res_d_cnn.py_9b858140" target="deep_res_d_cnn.py_9b858140" id="get_optimization_status">
+  <data key="d3">get_optimization_status</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_res_d_cnn.py_9b858140" target="deep_res_d_cnn.py_e53114fe" id="run_strategic_optuna_sweep(custom_architecture_file=deep_res_d_cnn.py, rep...)">
+  <data key="d3">run_strategic_optuna_sweep(custom_architecture_file=deep_res_d_cnn.py, rep...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.0010000000000000009, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[0.0010000000000000009, 0.0, 0.0, 0.0, 0.0], [0.0010000000000000009, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"custom_architecture_file": "deep_res_d_cnn.py", "representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "n_trials": 12, "optimization_focus": "accuracy", "hyperparameters": {"num_conv_layers": {"type": "int", "min": 8, "max": 25}, "filters": {"type": "choice", "choices": [32, 64, 128, 256]}, "kernel_size": {"type": "choice", "choices": [3, 5, 7]}, "dense_units": {"type": "choice", "choices": [64, 128, 256, 512]}, "dropout_rate": {"type": "float", "min": 0.1, "max": 0.6}, "learning_rate": {"type": "loguniform", "min": 1e-05, "max": 0.01}, "weight_decay": {"type": "loguniform", "min": 1e-06, "max": 0.001}, "batch_norm": {"type": "choice", "choices": [0, 1]}}, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.0010000000000000009, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_res_d_cnn.py_e53114fe" target="deep_res_d_cnn.py_e53114fe" id="get_sorted_trials(sort_by=held_out_accuracy, ascending=False, n=1...)">
+  <data key="d3">get_sorted_trials(sort_by=held_out_accuracy, ascending=False, n=1...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"sort_by": "held_out_accuracy", "ascending": false, "n": 1, "architecture_filter": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.1791, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_res_d_cnn.py_e53114fe" target="deep_res_d_cnn.py_e53114fe" id="create_dataset_manifest(manifest_name=NPY_nature_30_classes_2D_GAF, rep...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_classes_2D_GAF, rep...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_classes_2D_GAF", "representation_type": "2D_GAF", "n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_2D_GAF", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_res_d_cnn.py_e53114fe" target="deep_res_d_cnn.py_e53114fe" id="get_optimization_status">
+  <data key="d3">get_optimization_status</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_res_d_cnn.py_c3b94cc0" target="deep_res_d_cnn.py_c3b94cc0" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_res_d_cnn.py_c3b94cc0" target="deep_res_d_cnn.py_c3b94cc0" id="read_file_from_architectures(filename=deep_res_d_cnn.py)">
+  <data key="d3">read_file_from_architectures(filename=deep_res_d_cnn.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "deep_res_d_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_res_d_cnn.py_c3b94cc0" target="deep_res_d_cnn.py_c3b94cc0" id="run_training_trial(custom_architecture_file=deep_res_d_cnn.py, man...)">
+  <data key="d3">run_training_trial(custom_architecture_file=deep_res_d_cnn.py, man...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"custom_architecture_file": "deep_res_d_cnn.py", "manifest_name": "NPY_nature_30_classes", "representation_type": "1D_RAW", "num_conv_layers": 4, "filters": 64, "kernel_size": 7, "dense_units": 256, "dropout_rate": 0.3, "learning_rate": 0.0005, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 50, "patience": 15, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_res_d_cnn.py_c3b94cc0" target="deep_res_d_cnn.py_c3b94cc0" id="run_training_trial(custom_architecture_file=deep_res_d_cnn.py, rep...)">
+  <data key="d3">run_training_trial(custom_architecture_file=deep_res_d_cnn.py, rep...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.04250999689102173, 0.02850414177384041, 65.7612943649292, 1.1257247924804688]</data>
+  <data key="d6">[[-0.05, 0.04250999689102173, 0.02850414177384041, 65.7612943649292, 1.1257247924804688], [-0.05, 0.04250999689102173, 0.02850414177384041, 65.7612943649292, 1.1257247924804688]]</data>
+  <data key="d7">{"custom_architecture_file": "deep_res_d_cnn.py", "representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 25, "filters": 100, "kernel_size": 3, "dense_units": 256, "dropout_rate": 0.5, "learning_rate": 0.001, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 50, "patience": 15, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.05012353733420373, 0.033609233565535225, 77.53914218568801, 1.3273421028137207]</data>
+</edge>
+<edge source="deep_res_d_cnn.py_c3b94cc0" target="deep_res_d_cnn.py_c3b94cc0" id="read_file_from_architectures(filename=resnet_1d_nature.py)">
+  <data key="d3">read_file_from_architectures(filename=resnet_1d_nature.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "resnet_1d_nature.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.008571124884148837, 0.005747178939706525, 13.25919331375265, 0.22697549958114627]</data>
+</edge>
+<edge source="deep_res_d_cnn.py_c3b94cc0" target="deep_res_d_cnn.py_f658b84b" id="run_training_trial(representation_type=1D_CNN, custom_architecture...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, custom_architecture...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.04463999668757121, 0.02692343466209644, 61.82301998138428, 1.1257247924804688]</data>
+  <data key="d6">[[-0.05, 0.04463999668757121, 0.02692343466209644, 61.82301998138428, 1.1257247924804688], [-0.05, 0.04463999668757121, 0.02692343466209644, 61.82301998138428, 1.1257247924804688]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "custom_architecture_file": "deep_res_d_cnn.py", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 25, "filters": 100, "learning_rate": 0.0005, "dropout_rate": 0.4, "kernel_size": 5, "dense_units": 256, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 50, "patience": 15, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.04463999668757121, 0.02692343466209644, 61.82301998138428, 1.1257247924804688]</data>
+</edge>
+<edge source="deep_res_d_cnn.py_f658b84b" target="deep_res_d_cnn.py_f658b84b" id="set_optimization_model(model_name=resnet_1d_nature.py)">
+  <data key="d3">set_optimization_model(model_name=resnet_1d_nature.py)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "resnet_1d_nature.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="resnet_1d_nature.py_3b0b6870" target="resnet_1d_nature.py_cd4b0ee0" id="set_optimization_model(model_name=resnet_1d_nature.py)">
+  <data key="d3">set_optimization_model(model_name=resnet_1d_nature.py)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.926, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.926, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "resnet_1d_nature.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.926, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="resnet_1d_nature.py_cd4b0ee0" target="resnet_1d_nature.py_5dc37c31" id="run_training_trial(representation_type=1D_CNN, custom_architecture...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, custom_architecture...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.9393, -0.007476679484049478, 0.07679959716218891, 0.0, 0.0]</data>
+  <data key="d6">[[0.9393, -0.007476679484049478, 0.07679959716218891, 0, 0], [0.9393, -0.007476679484049478, 0.07679959716218891, 0, 0]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "custom_architecture_file": "resnet_1d_nature.py", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 25, "filters": 100, "learning_rate": 0.0001, "dropout_rate": 0.3, "batch_norm": 1, "epochs": 50, "patience": 15, "batch_size": 32, "dense_units": 256, "kernel_size": 5, "weight_decay": 0.0001, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.9393, -0.007476679484049478, 0.07679959716218891, 0.0, 0.0]</data>
+</edge>
+<edge source="resnet_1d_nature.py_5dc37c31" target="resnet_1d_nature.py_5dc37c31" id="create_dataset_manifest(manifest_name=NPY_nature_30_classes_v2, n_fft=2...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_classes_v2, n_fft=2...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_classes_v2", "n_fft": 2048, "hop_length": 512, "gaf_image_size": 224, "video_num_segments": 1, "video_gaf_image_size": 224, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_v2"}</data>
+  <data key="d8">[-1.1791, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="resnet_1d_nature.py_5dc37c31" target="resnet_1d_nature.py_5dc37c31" id="run_training_trial(representation_type=1D_CNN, custom_architecture...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, custom_architecture...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, -0.03568331797917684, 0.0786355557465794, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, -0.03568331797917684, 0.0786355557465794, 0, 0], [-0.05, -0.03568331797917684, 0.0786355557465794, 0, 0]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "custom_architecture_file": "resnet_1d_nature.py", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 25, "filters": 100, "learning_rate": 0.0001, "dropout_rate": 0.3, "batch_norm": 1, "epochs": 50, "patience": 15, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, -0.03568331797917684, 0.09271918378079178, 0.0, 0.0]</data>
+</edge>
+<edge source="resnet_1d_nature.py_5dc37c31" target="resnet_1d_nature.py_5dc37c31" id="get_optimization_status">
+  <data key="d3">get_optimization_status</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.015854980426515394, 0.0, 0.0]</data>
+</edge>
+<edge source="resnet_1d_nature.py_5dc37c31" target="resnet_1d_nature.py_5dc37c31" id="run_training_trial(custom_architecture_file=resnet_1d_nature.py, r...)">
+  <data key="d3">run_training_trial(custom_architecture_file=resnet_1d_nature.py, r...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, -0.006838329633076986, 0.04271727291622549, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, -0.006838329633076986, 0.04271727291622549, 0, 0], [-0.05, -0.006838329633076986, 0.04271727291622549, 0, 0]]</data>
+  <data key="d7">{"custom_architecture_file": "resnet_1d_nature.py", "representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 25, "filters": 100, "kernel_size": 5, "dense_units": 256, "dropout_rate": 0.5, "learning_rate": 0.001, "batch_size": 32, "weight_decay": 0.001, "batch_norm": 1, "epochs": 50, "patience": 15, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, -0.006838329633076986, 0.05857225334274089, 0.0, 0.0]</data>
+</edge>
+<edge source="resnet_1d_nature.py_5dc37c31" target="resnet_1d_nature.py_5dc37c31" id="read_file_from_architectures(filename=resnet_1d_nature.py)">
+  <data key="d3">read_file_from_architectures(filename=resnet_1d_nature.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "resnet_1d_nature.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.015854980426515394, 0.0, 0.0]</data>
+</edge>
+<edge source="resnet_1d_nature.py_5dc37c31" target="resnet_1d_nature.py_5dc37c31" id="query_research_archive(query=multi-mother-wavelet CWT time-series isol...)">
+  <data key="d3">query_research_archive(query=multi-mother-wavelet CWT time-series isol...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"query": "multi-mother-wavelet CWT time-series isolation", "top_k": 5, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.015854980426515394, 0.0, 0.0]</data>
+</edge>
+<edge source="resnet_1d_nature.py_5dc37c31" target="resnet_1d_nature.py_5dc37c31" id="analyze_best_vs_worst_trials(architecture_filter=resnet_1d_nature.py)">
+  <data key="d3">analyze_best_vs_worst_trials(architecture_filter=resnet_1d_nature.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "resnet_1d_nature.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.015854980426515394, 0.0, 0.0]</data>
+</edge>
+<edge source="resnet_1d_nature.py_5dc37c31" target="resnet_1d_nature.py_e47e48f0" id="run_training_trial(custom_architecture_file=resnet_1d_nature.py, r...)">
+  <data key="d3">run_training_trial(custom_architecture_file=resnet_1d_nature.py, r...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.007033340136210123, 0.04296424117955298, 0, 0]</data>
+  <data key="d6">[[-0.05, 0.007033340136210123, 0.04296424117955298, 0, 0]]</data>
+  <data key="d7">{"custom_architecture_file": "resnet_1d_nature.py", "representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 25, "filters": 100, "kernel_size": 5, "dense_units": 256, "dropout_rate": 0.4, "learning_rate": 0.0005, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.001, "epochs": 50, "patience": 15, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.007033340136210123, 0.04296424117955298, 0.0, 0.0]</data>
+</edge>
+<edge source="resnet_1d_nature.py_e47e48f0" target="resnet_1d_nature.py_e47e48f0" id="run_training_trial(custom_architecture_file=resnet_1d_nature.py, r...)">
+  <data key="d3">run_training_trial(custom_architecture_file=resnet_1d_nature.py, r...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.007033340136210123, 0.04296424117955298, 0, 0]</data>
+  <data key="d6">[[-0.05, 0.007033340136210123, 0.04296424117955298, 0, 0]]</data>
+  <data key="d7">{"custom_architecture_file": "resnet_1d_nature.py", "representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 25, "filters": 100, "kernel_size": 5, "dense_units": 256, "dropout_rate": 0.4, "learning_rate": 0.0005, "batch_size": 32, "batch_norm": 1, "weight_decay": 0.001, "epochs": 50, "patience": 15, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.007666340748469034, 0.046831022885712746, 0.0, 0.0]</data>
+</edge>
+<edge source="resnet_1d_nature.py_e47e48f0" target="resnet_1d_nature.py_e47e48f0" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, -0.03750001589457194, 0.06377717226442663, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, -0.03750001589457194, 0.06377717226442663, 0, 0], [-0.05, -0.03750001589457194, 0.06377717226442663, 0, 0]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "custom_architecture_file": "resnet_1d_nature.py", "num_conv_layers": 25, "filters": 128, "kernel_size": 7, "dense_units": 512, "dropout_rate": 0.6, "learning_rate": 0.0001, "batch_norm": 1, "weight_decay": 0.001, "batch_size": 64, "epochs": 50, "patience": 15, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, -0.03618907162658374, 0.07519966381698545, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_235ed59f" target="1D_CNN_235ed59f" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_235ed59f" target="1D_CNN_0457b2a6" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.435, 0.07871833443641663, 0.005714040603300544, 8.234543800354004, 0.25353240966796875]</data>
+  <data key="d6">[[0.435, 0.07871833443641663, 0.005714040603300544, 8.234543800354004, 0.25353240966796875], [0.435, 0.07871833443641663, 0.005714040603300544, 8.234543800354004, 0.25353240966796875]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "learning_rate": 0.001, "dropout_rate": 0.3, "batch_norm": 1, "batch_size": 32, "filters": 64, "kernel_size": 3, "dense_units": 256, "weight_decay": 0.0001, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.435, 0.07871833443641663, 0.005714040603300544, 8.234543800354004, 0.25353240966796875]</data>
+</edge>
+<edge source="1D_CNN_0457b2a6" target="1D_CNN_0457b2a6" id="run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.011084999640782675, 0.008528586078171784, 8.508186340332031, 0.23888397216796875]</data>
+  <data key="d6">[[-0.05, 0.011084999640782675, 0.008528586078171784, 8.508186340332031, 0.23888397216796875], [-0.05, 0.011084999640782675, 0.008528586078171784, 8.508186340332031, 0.23888397216796875]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "learning_rate": 0.0001, "batch_norm": 1, "filters": 64, "kernel_size": 5, "dense_units": 128, "dropout_rate": 0.4, "batch_size": 32, "weight_decay": 0.0001, "epochs": 50, "patience": 15, "experiment_name": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.01307032307644685, 0.01005605584477235, 10.032002513885498, 0.281668091583252]</data>
+</edge>
+<edge source="resnet_1d_nature.py_f318d957" target="resnet_1d_nature.py_b1b4b11f" id="run_training_trial(custom_architecture_file=resnet_1d_nature.py, r...)">
+  <data key="d3">run_training_trial(custom_architecture_file=resnet_1d_nature.py, r...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.020510002225637435, 0.022637172540028897, 48.48090648651123, 2.7812118530273438]</data>
+  <data key="d6">[[-0.05, 0.020510002225637435, 0.022637172540028897, 48.48090648651123, 2.7812118530273438], [-0.05, 0.020510002225637435, 0.022637172540028897, 48.48090648651123, 2.7812118530273438]]</data>
+  <data key="d7">{"custom_architecture_file": "resnet_1d_nature.py", "representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "filters": 100, "dropout_rate": 0.2, "batch_norm": 1, "learning_rate": 0.001, "kernel_size": 3, "dense_units": 256, "weight_decay": 0.0001, "epochs": 50, "patience": 15, "batch_size": 32, "experiment_name": "resnet_1d_nature.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.05, 0.020510002225637435, 0.022637172540028897, 48.48090648651123, 2.781211853027344]</data>
+</edge>
+<edge source="resnet_1d_nature.py_b1b4b11f" target="resnet_1d_nature.py_b1b4b11f" id="run_training_trial(representation_type=1D_CNN, custom_architecture...)">
+  <data key="d3">run_training_trial(representation_type=1D_CNN, custom_architecture...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.05, 0.0033866647630929926, 0.030190000464819896, 47.886741161346436, 2.7812118530273438]</data>
+  <data key="d6">[[-0.05, -0.011878339449564616, 0.031362526284323795, 50.08655548095703, 2.7812118530273438], [-0.05, -0.011878339449564616, 0.031362526284323795, 50.08655548095703, 2.7812118530273438], [-0.05, 0.0186516689757506, 0.029017474645316, 45.68692684173584, 2.7812118530273438], [-0.05, 0.0186516689757506, 0.029017474645316, 45.68692684173584, 2.7812118530273438]]</data>
+  <data key="d7">{"representation_type": "1D_CNN", "custom_architecture_file": "resnet_1d_nature.py", "manifest_name": "NPY_nature_30_classes", "filters": 100, "learning_rate": 0.001, "dropout_rate": 0.4, "weight_decay": 0.001, "batch_norm": 1, "epochs": 50, "patience": 15, "experiment_name": "resnet_1d_nature.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.06773179550000002, -0.01001535349291214, 0.04201813905690134, 66.97352056350671, 3.767529449428483]</data>
+</edge>
+<edge source="1D_CNN_2227f257" target="1D_CNN_2227f257" id="memorize_finding(finding=resnet_1d_nature.py with filters=100, d...)">
+  <data key="d3">memorize_finding(finding=resnet_1d_nature.py with filters=100, d...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "resnet_1d_nature.py with filters=100, dropout=0.2, lr=0.001 on NPY_nature_30_classes achieved HO=0.4117, far below the 82.2% HO baseline. Math Fact 1 has NOT been reversed; gap remains large. Next step: test lower lr and higher regularization.", "category": "hypothesis_test", "experiment_name": "1D_CNN", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_2227f257" target="1D_CNN_2227f257" id="get_optimization_status">
+  <data key="d3">get_optimization_status</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_2227f257" target="1D_CNN_2227f257" id="read_file_from_architectures(filename=resnet_1d_nature.py)">
+  <data key="d3">read_file_from_architectures(filename=resnet_1d_nature.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "resnet_1d_nature.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="1D_CNN_2227f257" target="1D_CNN_2227f257" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_d_resnet_cnn.py_77f9bc1c" target="deep_d_resnet_cnn.py_f3958048" id="propose_intelligent_architecture(depth=0)">
+  <data key="d3">propose_intelligent_architecture(depth=0)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.10949999999999999, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.10949999999999999, 0.0, 0.0, 0.0, 0.0], [-0.10949999999999999, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"depth": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.10949999999999999, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_d_resnet_cnn.py_f3958048" target="deep_d_resnet_cnn.py_f3958048" id="read_file_from_architectures(filename=deep_d_resnet_cnn.py)">
+  <data key="d3">read_file_from_architectures(filename=deep_d_resnet_cnn.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "deep_d_resnet_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_d_resnet_cnn.py_f3958048" target="deep_d_resnet_cnn.py_b10e380a" id="run_training_trial(custom_architecture_file=deep_d_resnet_cnn.py, ...)">
+  <data key="d3">run_training_trial(custom_architecture_file=deep_d_resnet_cnn.py, ...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.1018, 0.09846166769663493, 0.017386969261699255, 9.28774356842041, 0.10655975341796875]</data>
+  <data key="d6">[[0.1018, 0.09846166769663493, 0.017386969261699255, 9.28774356842041, 0.10655975341796875], [0.1018, 0.09846166769663493, 0.017386969261699255, 9.28774356842041, 0.10655975341796875]]</data>
+  <data key="d7">{"custom_architecture_file": "deep_d_resnet_cnn.py", "representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "filters": 128, "dropout_rate": 0.3, "learning_rate": 0.0005, "dense_units": 512, "weight_decay": 1e-05, "batch_norm": 1, "batch_size": 64, "epochs": 50, "patience": 15, "experiment_name": "deep_d_resnet_cnn_v1", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.1018, 0.09846166769663493, 0.017386969261699258, 9.28774356842041, 0.10655975341796876]</data>
+</edge>
+<edge source="deep_d_resnet_cnn.py_b10e380a" target="deep_d_resnet_cnn.py_b10e380a" id="create_dataset_manifest(manifest_name=NPY_nature_30_classes_wavelet, n_...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_classes_wavelet, n_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_classes_wavelet", "n_fft": 256, "hop_length": 128, "gaf_image_size": 224, "video_num_segments": 8, "video_gaf_image_size": 224, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_wavelet"}</data>
+  <data key="d8">[-1.1791, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_d_resnet_cnn.py_b10e380a" target="deep_d_resnet_cnn.py_b10e380a" id="create_dataset_manifest(manifest_name=NPY_nature_30_classes_wavelet, re...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_classes_wavelet, re...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_classes_wavelet", "representation_type": "2D_CWT_SCALOGRAM", "n_fft": 256, "hop_length": 128, "gaf_image_size": 224, "video_num_segments": 8, "video_gaf_image_size": 224, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_wavelet", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 224, "video_num_segments": 8, "video_gaf_image_size": 224, "representation_type": "2D_CWT_SCALOGRAM"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="deep_d_resnet_cnn.py_b10e380a" target="deep_d_resnet_cnn.py_b10e380a" id="create_dataset_manifest(manifest_name=NPY_nature_30_classes_wavelet_con...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_classes_wavelet_con...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_classes_wavelet_convnet", "representation_type": "1D_CNN", "n_fft": 256, "hop_length": 128, "gaf_image_size": 224, "video_num_segments": 8, "video_gaf_image_size": 224, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_wavelet_convnet"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="enhanced_resnet_d.py_2a9e4b4b" target="enhanced_resnet_d.py_c1fc9b6a" id="propose_intelligent_architecture(depth=0)">
+  <data key="d3">propose_intelligent_architecture(depth=0)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.3405, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[0.3405, 0.0, 0.0, 0.0, 0.0], [0.3405, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"depth": 0, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.3405000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="enhanced_resnet_d.py_c1fc9b6a" target="enhanced_resnet_d.py_9e0dd7be" id="run_training_trial(custom_architecture_file=enhanced_resnet_d.py, ...)">
+  <data key="d3">run_training_trial(custom_architecture_file=enhanced_resnet_d.py, ...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.13059999999999994, -0.003913327058156332, 0.08719747445800086, 45.277085304260254, 4.208976745605469]</data>
+  <data key="d6">[[0.13059999999999994, -0.003913327058156332, 0.08719747445800086, 45.277085304260254, 4.208976745605469], [0.13059999999999994, -0.003913327058156332, 0.08719747445800086, 45.277085304260254, 4.208976745605469]]</data>
+  <data key="d7">{"custom_architecture_file": "enhanced_resnet_d.py", "representation_type": "1D_CNN", "manifest_name": "NPY_nature_30_classes", "filters": 64, "kernel_size": 5, "dense_units": 128, "dropout_rate": 0.25, "learning_rate": 0.0005, "weight_decay": 0.0005, "batch_size": 64, "batch_norm": 1, "epochs": 50, "patience": 15, "experiment_name": "enhanced_resnet_d_test1", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[0.13059999999999994, -0.003913327058156332, 0.08719747445800087, 45.277085304260254, 4.208976745605469]</data>
+</edge>
+<edge source="enhanced_resnet_d.py_9e0dd7be" target="enhanced_resnet_d.py_9e0dd7be" id="read_file_from_architectures(filename=wavelet_convnet.py)">
+  <data key="d3">read_file_from_architectures(filename=wavelet_convnet.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "wavelet_convnet.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-1.1791, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="enhanced_resnet_d.py_9e0dd7be" target="enhanced_resnet_d.py_9e0dd7be" id="memorize_finding(finding=enhanced_resnet_d.py test trial: HO=0.4...)">
+  <data key="d3">memorize_finding(finding=enhanced_resnet_d.py test trial: HO=0.4...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "enhanced_resnet_d.py test trial: HO=0.4430, CV=0.8984 (gap 0.4554). Best HO yet, but still far from 82.2% target. A 20-trial Optuna sweep on 1D_CNN was launched to explore hp space (lr, dropout, filters, dense, kernel, wd, batch_size). The persistent CV-HO gap across architectures strongly supports a data pipeline issue (leakage/split mismatch) per Cycle 2 Critic. Future cycles must prioritize dataset diagnostics alongside architecture tuning.", "category": "hypothesis_test", "experiment_name": "enhanced_resnet_d.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 64, "video_num_segments": 10, "video_gaf_image_size": 64, "representation_type": "1D_CNN"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f4e892fe" target="2D_GAF_f4e892fe" id="create_dataset_manifest(dataset_name=NPY_nature_30_classes, representat...)">
+  <data key="d3">create_dataset_manifest(dataset_name=NPY_nature_30_classes, representat...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"dataset_name": "NPY_nature_30_classes", "representation_type": "2D_GAF", "n_fft": 1024, "hop_length": 256, "gaf_image_size": 224, "video_num_segments": 1, "video_gaf_image_size": 224, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 1024, "hop_length": 256, "gaf_image_size": 224, "video_num_segments": 1, "video_gaf_image_size": 224, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.06773179550000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f4e892fe" target="2D_GAF_f4e892fe" id="run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">10</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_classes", "batch_size": 8, "num_conv_layers": 2, "filters": 32, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.4, "learning_rate": 0.0005, "weight_decay": 0.0001, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 128, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-1.0352048552843625, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f4e892fe" target="2D_GAF_f4e892fe" id="memorize_finding(finding=Manifest NPY_nature_30_classes (2D_GAF)...)">
+  <data key="d3">memorize_finding(finding=Manifest NPY_nature_30_classes (2D_GAF)...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "Manifest NPY_nature_30_classes (2D_GAF) was created with defaults, but the first training trial (num_conv_layers=3, lr=0.0005, dropout=0.4, filters=64) crashed in the data-generation worker during transformation. Probable cause: missing explicit pipeline parameters (n_fft, hop_length, gaf_image_size) or a transient bug. Next step: test simpler config to isolate the issue.", "category": "pipeline_debug", "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f4e892fe" target="2D_GAF_f4e892fe" id="create_dataset_manifest(manifest_name=NPY_nature_30_classes, representa...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_classes, representa...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_classes", "representation_type": "2D_GAF", "n_fft": 256, "hop_length": 128, "gaf_image_size": 128, "video_num_segments": 1, "video_gaf_image_size": 128, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 128, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f4e892fe" target="2D_GAF_f4e892fe" id="analyze_best_vs_worst_trials(architecture_filter=2D_GAF)">
+  <data key="d3">analyze_best_vs_worst_trials(architecture_filter=2D_GAF)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"architecture_filter": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f4e892fe" target="2D_GAF_f4e892fe" id="memorize_finding(finding=2D_GAF on NPY_nature_30_classes: Two tr...)">
+  <data key="d3">memorize_finding(finding=2D_GAF on NPY_nature_30_classes: Two tr...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "2D_GAF on NPY_nature_30_classes: Two trials completed. Best config (num_conv_layers=3, filters=128, dropout=0.2, lr=0.0003) achieved mean held-out accuracy 0.3421, CV acc up to 0.8641 but held-out only 0.3603. 2-layer trial got 0.2627. No trial exceeded 0.5 HO accuracy. Worker exits with code -9 but actually completes training (likely false crash). Need many more trials and hyperparameter tuning to reach targets; current architecture may be insufficient.", "category": "pipeline_results", "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f4e892fe" target="2D_GAF_f4e892fe" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "unknown_manifest"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f4e892fe" target="2D_GAF_f4e892fe" id="create_dataset_manifest(manifest_name=NPY_nature_30_gaf64, representati...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_gaf64, representati...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_gaf64", "representation_type": "2D_GAF", "n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 8, "video_gaf_image_size": 32, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_gaf64", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 8, "video_gaf_image_size": 32, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f4e892fe" target="2D_GAF_3ecf63d7" id="run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.8081, 0.14573832750320434, 0.026106766167313167, 12.831645011901855, 0.11974334716796875]</data>
+  <data key="d6">[[0.8081, 0.14573832750320434, 0.026106766167313167, 12.831645011901855, 0.11974334716796875], [0.8081, 0.14573832750320434, 0.026106766167313167, 12.831645011901855, 0.11974334716796875]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_gaf64", "num_conv_layers": 2, "filters": 32, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.4, "learning_rate": 0.0005, "weight_decay": 0.0001, "batch_norm": 1, "batch_size": 8, "epochs": 100, "patience": 20, "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_gaf64", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 8, "video_gaf_image_size": 32, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[0.8081000000000002, 0.14573832750320434, 0.02610676616731317, 12.831645011901855, 0.11974334716796875]</data>
+</edge>
+<edge source="2D_GAF_3ecf63d7" target="2D_GAF_3ecf63d7" id="memorize_finding(finding=2D_GAF on NPY_nature_30_classes: SIGKIL...)">
+  <data key="d3">memorize_finding(finding=2D_GAF on NPY_nature_30_classes: SIGKIL...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "2D_GAF on NPY_nature_30_classes: SIGKILL(-9) false-crash persists even with minimal capacity (filters=32, num_conv_layers=2, dropout=0.4). HO accuracy 0.247-0.252, CV up to 0.808 \u2014 extreme overfitting gap &gt;0.55. No configuration has exceeded HO 0.35. Architecture appears fundamentally insufficient; metrics from -9 terminated processes remain suspect.", "category": "pipeline_results", "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_gaf64", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 8, "video_gaf_image_size": 32, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_3ecf63d7" target="2D_GAF_3ecf63d7" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_gaf64", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 8, "video_gaf_image_size": 32, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_3ecf63d7" target="2D_GAF_3ecf63d7" id="run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">8</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 4, "filters": 96, "kernel_size": 3, "dense_units": 192, "dropout_rate": 0.35, "learning_rate": 0.0003, "batch_size": 16, "weight_decay": 0.001, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 128, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-1.0302191250710055, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_3ecf63d7" target="2D_GAF_3ecf63d7" id="memorize_finding(finding=2D_GAF on NPY_nature_30_classes: Expand...)">
+  <data key="d3">memorize_finding(finding=2D_GAF on NPY_nature_30_classes: Expand...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "2D_GAF on NPY_nature_30_classes: Expanded capacity (num_conv_layers=4, filters=48-64) reliably achieves HO 0.45-0.47, far above previous 0.25 ceiling. CV-HO overfitting gap narrowed from ~0.56 to ~0.45. SIGKILL(-9) at process exit is benign \u2014 all folds complete and metrics are valid before the kill. Best config so far: filters=48, lr=0.0005, dropout=0.4, batch_size=8, batch_norm=1, weight_decay=0.0001 \u2192 HO=0.4701, CV=0.9211.", "category": "pipeline_results", "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_gaf64", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 8, "video_gaf_image_size": 32, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f2c201c3" target="2D_GAF_f2c201c3" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_gaf64", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 8, "video_gaf_image_size": 32, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f2c201c3" target="2D_GAF_f2c201c3" id="read_file_from_architectures(filename=hybrid_d_gaf_attention_cnn.py)">
+  <data key="d3">read_file_from_architectures(filename=hybrid_d_gaf_attention_cnn.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "hybrid_d_gaf_attention_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_gaf64", "_dataset_params": {"n_fft": 512, "hop_length": 256, "gaf_image_size": 64, "video_num_segments": 8, "video_gaf_image_size": 32, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f2c201c3" target="2D_GAF_f2c201c3" id="create_dataset_manifest(manifest_name=NPY_nature_30_classes_gaf32, repr...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_classes_gaf32, repr...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_classes_gaf32", "representation_type": "2D_GAF", "n_fft": 512, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 8, "video_gaf_image_size": 24, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_gaf32", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f2c201c3" target="2D_GAF_f2c201c3" id="run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_classes", "dropout_rate": 0.6, "batch_norm": 1, "learning_rate": 0.0001, "filters": 64, "num_conv_layers": 4, "kernel_size": 5, "dense_units": 256, "weight_decay": 0.0001, "batch_size": 16, "epochs": 100, "patience": 20, "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 128, "gaf_image_size": 128, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-1.0100813050000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_f2c201c3" target="2D_GAF_fb83a430" id="run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.16025500098864237, 0.01632121376919024, 8.335461616516113, 0.09654998779296875]</data>
+  <data key="d6">[[-0.05, 0.16025500098864237, 0.01632121376919024, 8.335461616516113, 0.09654998779296875], [-0.05, 0.16025500098864237, 0.01632121376919024, 8.335461616516113, 0.09654998779296875]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_classes_gaf32", "num_conv_layers": 2, "filters": 32, "kernel_size": 3, "dense_units": 64, "dropout_rate": 0.5, "learning_rate": 0.001, "batch_size": 16, "batch_norm": 1, "weight_decay": 0.0001, "epochs": 30, "patience": 10, "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_gaf32", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.05, 0.1602550009886424, 0.01632121376919024, 8.335461616516113, 0.09654998779296875]</data>
+</edge>
+<edge source="2D_GAF_fb83a430" target="2D_GAF_fb83a430" id="read_file_from_architectures(filename=hybrid_d_gaf_attention_cnn.py)">
+  <data key="d3">read_file_from_architectures(filename=hybrid_d_gaf_attention_cnn.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "hybrid_d_gaf_attention_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_gaf32", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_fb83a430" target="2D_GAF_fb83a430" id="set_optimization_model(model_name=hybrid_d_gaf_attention_cnn.py)">
+  <data key="d3">set_optimization_model(model_name=hybrid_d_gaf_attention_cnn.py)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "hybrid_d_gaf_attention_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_gaf32", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_9c5967d3" target="hybrid_d_gaf_attention_cnn.py_85cba259" id="set_optimization_model(model_name=hybrid_d_gaf_attention_cnn.py)">
+  <data key="d3">set_optimization_model(model_name=hybrid_d_gaf_attention_cnn.py)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.8081, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.8081, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "hybrid_d_gaf_attention_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_gaf32", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.8081000000000002, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_85cba259" target="hybrid_d_gaf_attention_cnn.py_85cba259" id="recall_relevant_memories(query=2D GAF overfitting CV HO generalization g...)">
+  <data key="d3">recall_relevant_memories(query=2D GAF overfitting CV HO generalization g...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.1, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[0.1, 0.0, 0.0, 0.0, 0.0], [0.1, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"query": "2D GAF overfitting CV HO generalization gap strategies", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_gaf32", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[0.11791000000000003, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_0a4004f3" target="2D_GAF_0a4004f3" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_gaf32", "_dataset_params": {"n_fft": 512, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_6c826572" target="2D_GAF_6c826572" id="create_dataset_manifest(manifest_name=NPY_nature_30_gaf48, representati...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_gaf48, representati...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_gaf48", "representation_type": "2D_GAF", "n_fft": 1024, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 4, "video_gaf_image_size": 48, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_gaf48", "_dataset_params": {"n_fft": 1024, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 4, "video_gaf_image_size": 48, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_6c826572" target="2D_GAF_6c826572" id="recall_relevant_memories(query=2D_GAF NPY_nature_30_classes best configu...)">
+  <data key="d3">recall_relevant_memories(query=2D_GAF NPY_nature_30_classes best configu...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.1, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[0.1, 0.0, 0.0, 0.0, 0.0], [0.1, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"query": "2D_GAF NPY_nature_30_classes best configurations regularization overfitting", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_gaf32"}</data>
+  <data key="d8">[0.11791000000000003, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_6c826572" target="2D_GAF_6c826572" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_gaf32"}</data>
+  <data key="d8">[-0.02983739, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_6c826572" target="2D_GAF_6c826572" id="create_dataset_manifest(manifest_name=NPY_nature_30_compact_gaf48, repr...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_compact_gaf48, repr...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_compact_gaf48", "representation_type": "2D_GAF", "n_fft": 1024, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 4, "video_gaf_image_size": 48, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_compact_gaf48", "_dataset_params": {"n_fft": 1024, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 4, "video_gaf_image_size": 48, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.02983739, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_6c826572" target="2D_GAF_6c826572" id="create_dataset_manifest(manifest_name=NPY_nature_30_compact_gaf48_o3, r...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_compact_gaf48_o3, r...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_compact_gaf48_o3", "representation_type": "2D_GAF", "n_fft": 1024, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 4, "video_gaf_image_size": 48, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_compact_gaf48_o3", "_dataset_params": {"n_fft": 1024, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 4, "video_gaf_image_size": 48, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.02983739, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_6c826572" target="2D_GAF_23bd1d67" id="run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.02859999999999996, 0.15710833470026653, 0.014242424808367323, 8.408589363098145, 0.11974334716796875]</data>
+  <data key="d6">[[0.02859999999999996, 0.15710833470026653, 0.014242424808367323, 8.408589363098145, 0.11974334716796875], [0.02859999999999996, 0.15710833470026653, 0.014242424808367323, 8.408589363098145, 0.11974334716796875]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_classes", "learning_rate": 0.0005, "dropout_rate": 0.3, "filters": 32, "num_conv_layers": 2, "kernel_size": 3, "dense_units": 128, "batch_size": 8, "epochs": 100, "patience": 20, "weight_decay": 0.02, "batch_norm": 1, "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[0.02859999999999996, 0.15710833470026656, 0.014242424808367323, 8.408589363098145, 0.11974334716796875]</data>
+</edge>
+<edge source="2D_GAF_23bd1d67" target="2D_GAF_23bd1d67" id="create_dataset_manifest(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">create_dataset_manifest(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_o3_compact", "n_fft": 1024, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 4, "video_gaf_image_size": 48, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_o3_compact", "_dataset_params": {"n_fft": 1024, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 4, "video_gaf_image_size": 48, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_23bd1d67" target="2D_GAF_23bd1d67" id="run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.006800000000000028, 0.16364166736602784, 0.019648079860090012, 7.743768692016602, 0.11974334716796875]</data>
+  <data key="d6">[[0.006800000000000028, 0.16364166736602784, 0.019648079860090012, 7.743768692016602, 0.11974334716796875], [0.006800000000000028, 0.16364166736602784, 0.019648079860090012, 7.743768692016602, 0.11974334716796875]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_classes", "weight_decay": 0.02, "batch_norm": 1, "num_conv_layers": 2, "filters": 32, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.4, "learning_rate": 0.0005, "batch_size": 8, "epochs": 100, "patience": 20, "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[0.008017880000000034, 0.19294988999128343, 0.023167050963032135, 9.130677664756774, 0.14118938064575196]</data>
+</edge>
+<edge source="2D_GAF_23bd1d67" target="2D_GAF_a3290353" id="run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.055499999999999994, 0.0750266710917155, 0.014320506471576122, 15.083613395690918, 6.457145690917969]</data>
+  <data key="d6">[[0.055499999999999994, 0.0750266710917155, 0.014320506471576122, 15.083613395690918, 6.457145690917969], [0.055499999999999994, 0.0750266710917155, 0.014320506471576122, 15.083613395690918, 6.457145690917969]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 4, "filters": 64, "kernel_size": 3, "dense_units": 256, "dropout_rate": 0.5, "learning_rate": 0.0003, "batch_size": 8, "batch_norm": 1, "weight_decay": 0.02, "epochs": 100, "patience": 20, "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[0.055499999999999994, 0.0750266710917155, 0.014320506471576124, 15.083613395690918, 6.457145690917969]</data>
+</edge>
+<edge source="2D_GAF_a3290353" target="2D_GAF_a3290353" id="memorize_finding(finding=2D_GAF on NPY_nature_30_classes: First ...)">
+  <data key="d3">memorize_finding(finding=2D_GAF on NPY_nature_30_classes: First ...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "2D_GAF on NPY_nature_30_classes: First valid HO above 0.40 achieved with num_conv_layers=4, filters=64, lr=0.0003, dropout=0.5 \u2014 HO=0.4257, but CV=0.8990 reveals extreme overfitting (gap=0.4733). Depth=4 broke the previous 0.25-0.39 ceiling. Regularization (weight_decay, higher dropout) is now the critical path to close the CV-HO gap. All prior SIGKILL trials were unvalidated; this is the first reliable baseline above random.", "category": "pipeline_results", "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_a3290353" target="2D_GAF_a3290353" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_a3290353" target="2D_GAF_a3290353" id="run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.05, 0.08424999316533408, 0.017831969772926493, 10.991802215576172, 4.815666198730469]</data>
+  <data key="d6">[[-0.05, 0.08855832417805991, 0.02706949488081113, 9.708261489868164, 2.6439132690429688], [-0.05, 0.08855832417805991, 0.02706949488081113, 9.708261489868164, 2.6439132690429688], [-0.05, 0.07994166215260823, 0.008594444665041856, 12.27534294128418, 6.987419128417969], [-0.05, 0.07994166215260823, 0.008594444665041856, 12.27534294128418, 6.987419128417969]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 4, "filters": 64, "kernel_size": 3, "dense_units": 512, "dropout_rate": 0.5, "learning_rate": 0.0001, "batch_size": 8, "weight_decay": 0.02, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.06733485500000003, 0.11824957031795631, 0.03299277483816984, 13.662008846677306, 4.445897523186723]</data>
+</edge>
+<edge source="2D_GAF_a3290353" target="2D_GAF_484e120f" id="run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.03864833116531372, 0.028855049369311086, 10.495843887329102, 4.201286315917969]</data>
+  <data key="d6">[[-0.05, 0.03864833116531372, 0.028855049369311086, 10.495843887329102, 4.201286315917969]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_classes", "learning_rate": 0.0003, "dropout_rate": 0.7, "weight_decay": 0.1, "batch_norm": 1, "num_conv_layers": 3, "filters": 64, "kernel_size": 5, "dense_units": 256, "batch_size": 8, "epochs": 100, "patience": 20, "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.05, 0.03864833116531372, 0.028855049369311086, 10.495843887329102, 4.201286315917969]</data>
+</edge>
+<edge source="2D_GAF_484e120f" target="2D_GAF_484e120f" id="run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">5</data>
+  <data key="d5">[-0.05, 0.06828166564305624, 0.01342147535747952, 12.873769760131836, 6.430192565917968]</data>
+  <data key="d6">[[-0.05, 0.03864833116531372, 0.028855049369311086, 10.495843887329102, 4.201286315917969], [-0.05, 0.07343666553497315, 0.01022091104526712, 13.899402618408203, 6.987419128417969], [-0.05, 0.07343666553497315, 0.01022091104526712, 13.899402618408203, 6.987419128417969], [-0.05, 0.07794333299001059, 0.008905252663776139, 13.037099838256836, 6.987419128417969], [-0.05, 0.07794333299001059, 0.008905252663776139, 13.037099838256836, 6.987419128417969]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_classes", "dense_units": 512, "learning_rate": 0.0001, "dropout_rate": 0.5, "filters": 64, "num_conv_layers": 4, "kernel_size": 3, "batch_size": 8, "weight_decay": 0.02, "batch_norm": 1, "epochs": 100, "patience": 20, "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.07205447754500002, 0.07030052482179605, 0.03397830011710869, 16.294990642696018, 7.1522773050327615]</data>
+</edge>
+<edge source="2D_GAF_484e120f" target="2D_GAF_d28aa344" id="run_strategic_optuna_sweep(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">run_strategic_optuna_sweep(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.0046999999999999265, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[0.0046999999999999265, 0.0, 0.0, 0.0, 0.0], [0.0046999999999999265, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_classes", "n_trials": 12, "optimization_focus": "accuracy", "hyperparameters": {"learning_rate": {"type": "loguniform", "min": 5e-05, "max": 0.0005}, "dense_units": {"type": "int", "min": 256, "max": 768}, "dropout_rate": {"type": "float", "min": 0.1, "max": 0.7}, "filters": {"type": "choice", "choices": [32, 64, 128]}, "num_conv_layers": {"type": "int", "min": 2, "max": 5}, "kernel_size": {"type": "choice", "choices": [3, 5]}, "weight_decay": {"type": "loguniform", "min": 1e-05, "max": 0.01}, "batch_size": {"type": "choice", "choices": [8, 16]}, "epochs": {"type": "int", "min": 50, "max": 100}, "patience": {"type": "int", "min": 10, "max": 20}}, "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[0.004699999999999927, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="2D_GAF_d28aa344" target="2D_GAF_d28aa344" id="run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.05, 0.08863250017166138, 0.011665101785852464, 12.128458023071289, 4.482536315917969]</data>
+  <data key="d6">[[-0.05, 0.09886167446772258, 0.014665858191673209, 9.960918426513672, 1.9776535034179688], [-0.05, 0.09886167446772258, 0.014665858191673209, 9.960918426513672, 1.9776535034179688], [-0.05, 0.07840332587560017, 0.008664345380031718, 14.295997619628906, 6.987419128417969], [-0.05, 0.07840332587560017, 0.008664345380031718, 14.295997619628906, 6.987419128417969]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_classes", "dense_units": 512, "learning_rate": 0.0001, "num_conv_layers": 4, "filters": 64, "kernel_size": 3, "dropout_rate": 0.5, "batch_size": 8, "batch_norm": 1, "weight_decay": 0.02, "epochs": 100, "patience": 20, "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.06773179550000002, 0.1298503629868748, 0.018672597107891535, 14.356098556566048, 3.6759438126422888]</data>
+</edge>
+<edge source="2D_GAF_d28aa344" target="2D_GAF_d28aa344" id="memorize_finding(finding=Cycle 6 on 2D_GAF NPY_nature_30_classes...)">
+  <data key="d3">memorize_finding(finding=Cycle 6 on 2D_GAF NPY_nature_30_classes...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "Cycle 6 on 2D_GAF NPY_nature_30_classes: New best HO=0.4350 achieved with num_conv_layers=3, filters=64, lr=0.0003, dropout=0.7, batch_norm=1. This surpasses Cycle 5's 0.4257. However, CV=0.8980 means the CV-HO gap remains 0.4630 \u2014 overfitting is unchanged despite varying depth (3-4), filters (48-64), dropout (0.4-0.7), and lr (1e-4 to 3e-4). The gap never dropped below 0.44 in 9 trials this cycle. Stronger regularization (weight_decay, lower capacity) remains untested. O4 (weight_decay=0.1, dropout=0.7) and O3 (gaf_image_size=32, num_conv_layers=5) were not executed due to budget limits. The Optuna sweep (O2) failed with internal error '_missing_from_sweep' and was not retried. Root cause of data leakage still undiagnosed \u2014 all architecture tuning is likely futile until split contamination is fixed.", "category": "pipeline_results", "experiment_name": "2D_GAF", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.022204412070755592, 0.0031930141054494527, 2.4548928531727947, 0.6285863919618315]</data>
+</edge>
+<edge source="2D_GAF_d28aa344" target="2D_GAF_d28aa344" id="get_optimization_status">
+  <data key="d3">get_optimization_status</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.022204412070755592, 0.0031930141054494527, 2.4548928531727947, 0.6285863919618315]</data>
+</edge>
+<edge source="2D_GAF_d28aa344" target="2D_GAF_d28aa344" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.022204412070755592, 0.0031930141054494527, 2.4548928531727947, 0.6285863919618315]</data>
+</edge>
+<edge source="2D_GAF_d28aa344" target="2D_GAF_d28aa344" id="recall_relevant_memories(query=2D_GAF NPY_nature_30_classes overfitting ...)">
+  <data key="d3">recall_relevant_memories(query=2D_GAF NPY_nature_30_classes overfitting ...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.1, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[0.1, 0.0, 0.0, 0.0, 0.0], [0.1, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"query": "2D_GAF NPY_nature_30_classes overfitting CV-HO gap best configurations", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[0.11791000000000003, 0.022204412070755592, 0.0031930141054494527, 2.4548928531727947, 0.6285863919618315]</data>
+</edge>
+<edge source="2D_GAF_d28aa344" target="2D_GAF_d28aa344" id="set_optimization_model(model_name=hybrid_d_gaf_attention_cnn.py)">
+  <data key="d3">set_optimization_model(model_name=hybrid_d_gaf_attention_cnn.py)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "hybrid_d_gaf_attention_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.0393881, 0.011686532668818733, 0.0016805337397102383, 1.2920488700909445, 0.33083494313780604]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_9c49a239" target="hybrid_d_gaf_attention_cnn.py_fd6a316d" id="set_optimization_model(model_name=hybrid_d_gaf_attention_cnn.py)">
+  <data key="d3">set_optimization_model(model_name=hybrid_d_gaf_attention_cnn.py)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.9037, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.9037, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"model_name": "hybrid_d_gaf_attention_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.9037, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_fd6a316d" target="hybrid_d_gaf_attention_cnn.py_fd6a316d" id="create_dataset_manifest(manifest_name=NPY_nature_30_classes_32x32, gaf_...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_classes_32x32, gaf_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_classes_32x32", "gaf_image_size": 32, "n_fft": 1024, "hop_length": 256, "video_num_segments": 1, "video_gaf_image_size": 32, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_32x32"}</data>
+  <data key="d8">[-1.1791, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_fd6a316d" target="hybrid_d_gaf_attention_cnn.py_fd6a316d" id="read_file_from_architectures(filename=hybrid_d_gaf_attention_cnn.py)">
+  <data key="d3">read_file_from_architectures(filename=hybrid_d_gaf_attention_cnn.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "hybrid_d_gaf_attention_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_fd6a316d" target="hybrid_d_gaf_attention_cnn.py_fd6a316d" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_fd6a316d" target="hybrid_d_gaf_attention_cnn.py_fd6a316d" id="create_dataset_manifest(manifest_name=NPY_nature_30_classes_32x32, repr...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_classes_32x32, repr...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_classes_32x32", "representation_type": "2D_GAF", "n_fft": 1024, "hop_length": 256, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 32, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_32x32"}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_8bf856e8" target="hybrid_d_gaf_attention_cnn.py_8bf856e8" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_8bf856e8" target="hybrid_d_gaf_attention_cnn.py_8bf856e8" id="create_dataset_manifest(manifest_name=NPY_nature_30_classes_3D_DYNAMIC_...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_classes_3D_DYNAMIC_...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_classes_3D_DYNAMIC_GAF", "representation_type": "3D_DYNAMIC_GAF", "n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_3D_DYNAMIC_GAF", "_dataset_params": {"representation_type": "3D_DYNAMIC_GAF", "n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_8bf856e8" target="hybrid_d_gaf_attention_cnn.py_8bf856e8" id="run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">4</data>
+  <data key="d5">[-0.023049999999999994, 0.04090583324432373, 0.023890202274226183, 19.422354698181152, 2.0380783081054688]</data>
+  <data key="d6">[[0.0039000000000000146, 0.03938166697820027, 0.015443131779179428, 21.72624111175537, 1.0892257690429688], [0.0039000000000000146, 0.03938166697820027, 0.015443131779179428, 21.72624111175537, 1.0892257690429688], [-0.05, 0.04242999951044718, 0.03233727276927294, 17.118468284606934, 2.9869308471679688], [-0.05, 0.04242999951044718, 0.03233727276927294, 17.118468284606934, 2.9869308471679688]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_classes", "custom_architecture_file": "hybrid_d_gaf_attention_cnn.py", "num_conv_layers": 6, "filters": 128, "kernel_size": 5, "dense_units": 256, "dropout_rate": 0.7, "learning_rate": 0.0003, "weight_decay": 0.05, "batch_size": 32, "batch_norm": 1, "epochs": 100, "patience": 20, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.005443019950999984, 0.05395443845824841, 0.024281754927967258, 28.514199606699613, 1.8531476513898468]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_8bf856e8" target="hybrid_d_gaf_attention_cnn.py_8bf856e8" id="memorize_finding(finding=8 conv layers on hybrid_d_gaf_attention...)">
+  <data key="d3">memorize_finding(finding=8 conv layers on hybrid_d_gaf_attention...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "8 conv layers on hybrid_d_gaf_attention_cnn.py with 2D_GAF produced HO=0.3850, CV=0.8974 (gap=0.5124). This is WORSE than the 0.424 baseline gap \u2014 deeper layers amplified overfitting instead of reducing it. The architecture's attention mechanism may be memorizing training patterns rather than generalizing. Hypothesis: the model needs stronger regularization (dropout &gt;= 0.7, weight_decay &gt;= 0.05) or the 2D_GAF representation itself leaks train-set information into the held-out split.", "category": "overfitting_analysis", "experiment_name": "hybrid_d_gaf_attention_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.04921365821, 0.007940371924313306, 0.00311373843242201, 4.3805772630229, 0.21961634383163456]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_8bf856e8" target="hybrid_d_gaf_attention_cnn.py_8bf856e8" id="run_training_trial(representation_type=3D_DYNAMIC_GAF, manifest_na...)">
+  <data key="d3">run_training_trial(representation_type=3D_DYNAMIC_GAF, manifest_na...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0], [-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"representation_type": "3D_DYNAMIC_GAF", "manifest_name": "NPY_nature_30_classes_3D_DYNAMIC_GAF", "custom_architecture_file": "hybrid_d_gaf_attention_cnn.py", "num_conv_layers": 4, "filters": 64, "kernel_size": 3, "dense_units": 256, "dropout_rate": 0.5, "learning_rate": 0.0005, "batch_size": 32, "weight_decay": 0.0001, "batch_norm": 1, "epochs": 100, "patience": 20, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes_3D_DYNAMIC_GAF", "_dataset_params": {"representation_type": "3D_DYNAMIC_GAF", "n_fft": 512, "hop_length": 64, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24}}</data>
+  <data key="d8">[-0.99921365821, 0.007940371924313306, 0.00311373843242201, 4.3805772630229, 0.21961634383163456]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_8bf856e8" target="hybrid_d_gaf_attention_cnn.py_8bf856e8" id="get_optimization_status">
+  <data key="d3">get_optimization_status</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.04921365821, 0.007940371924313306, 0.00311373843242201, 4.3805772630229, 0.21961634383163456]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_8bf856e8" target="hybrid_d_gaf_attention_cnn.py_8bf856e8" id="memorize_finding(finding=hybrid_d_gaf_attention_cnn.py is incomp...)">
+  <data key="d3">memorize_finding(finding=hybrid_d_gaf_attention_cnn.py is incomp...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "hybrid_d_gaf_attention_cnn.py is incompatible with 3D_DYNAMIC_GAF representation: input shape (null, 8, 24, 24, 1) is 5D but architecture uses Conv2D expecting 4D. 3D trials fail with kernel shape mismatch. Architecture must be adapted (e.g., TimeDistributed Conv2D or 3D convolutions) before any 3D sweep. Best 2D_GAF results so far: 8-layer HO=0.3850, 6-layer HO=0.3883 with dropout 0.7.", "category": "architecture_limitation", "experiment_name": "hybrid_d_gaf_attention_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 256, "hop_length": 64, "gaf_image_size": 32, "video_num_segments": 1, "video_gaf_image_size": 128, "representation_type": "2D_GAF"}}</data>
+  <data key="d8">[-0.050930756411621, 0.009226208976360478, 0.004152180092682402, 4.875928132745635, 0.31688824838766383]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_8bf856e8" target="hybrid_d_gaf_attention_cnn.py_8bf856e8" id="create_dataset_manifest(manifest_name=NPY_nature_30_classes, representa...)">
+  <data key="d3">create_dataset_manifest(manifest_name=NPY_nature_30_classes, representa...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_classes", "representation_type": "2D_CWT_SCALOGRAM", "n_fft": 2048, "hop_length": 512, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_CWT_SCALOGRAM"}}</data>
+  <data key="d8">[-0.050930756411621, 0.009226208976360478, 0.004152180092682402, 4.875928132745635, 0.31688824838766383]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_8bf856e8" target="hybrid_d_gaf_attention_cnn.py_8bf856e8" id="run_web_research(query=SERS data pipeline leakage reduce interna...)">
+  <data key="d3">run_web_research(query=SERS data pipeline leakage reduce interna...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"query": "SERS data pipeline leakage reduce internal-external dataset divergence normalization techniques", "max_sites": 3, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_CWT_SCALOGRAM"}}</data>
+  <data key="d8">[-0.050930756411621, 0.009226208976360478, 0.004152180092682402, 4.875928132745635, 0.31688824838766383]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_8bf856e8" target="hybrid_d_gaf_attention_cnn.py_8bf856e8" id="query_research_archive(query=SERS pipeline data leakage fixes normaliz...)">
+  <data key="d3">query_research_archive(query=SERS pipeline data leakage fixes normaliz...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"query": "SERS pipeline data leakage fixes normalization techniques reduce overfitting gap", "top_k": 5, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_CWT_SCALOGRAM"}}</data>
+  <data key="d8">[-0.050930756411621, 0.009226208976360478, 0.004152180092682402, 4.875928132745635, 0.31688824838766383]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_8bf856e8" target="hybrid_d_gaf_attention_cnn.py_20c8a8f2" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.07287333806355795, 0.028514040901203352, 17.897539138793945, 0.6636886596679688]</data>
+  <data key="d6">[[-0.05, 0.07287333806355795, 0.028514040901203352, 17.897539138793945, 0.6636886596679688]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "NPY_nature_30_classes", "custom_architecture_file": "hybrid_d_gaf_attention_cnn.py", "num_conv_layers": 5, "filters": 64, "kernel_size": 3, "dense_units": 256, "dropout_rate": 0.45, "learning_rate": 0.0003, "batch_size": 32, "weight_decay": 0.0001, "batch_norm": 1, "epochs": 100, "patience": 20, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_CWT_SCALOGRAM"}}</data>
+  <data key="d8">[-0.05, 0.07287333806355795, 0.028514040901203356, 17.897539138793945, 0.6636886596679689]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_20c8a8f2" target="hybrid_d_gaf_attention_cnn.py_20c8a8f2" id="run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)">
+  <data key="d3">run_training_trial(representation_type=2D_CWT_SCALOGRAM, manifest_...)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-0.05, 0.07287333806355795, 0.028514040901203352, 17.897539138793945, 0.6636886596679688]</data>
+  <data key="d6">[[-0.05, 0.07287333806355795, 0.028514040901203352, 17.897539138793945, 0.6636886596679688]]</data>
+  <data key="d7">{"representation_type": "2D_CWT_SCALOGRAM", "manifest_name": "NPY_nature_30_classes", "custom_architecture_file": "hybrid_d_gaf_attention_cnn.py", "num_conv_layers": 5, "filters": 64, "kernel_size": 3, "dense_units": 256, "dropout_rate": 0.45, "learning_rate": 0.0003, "batch_size": 32, "weight_decay": 0.0001, "batch_norm": 1, "epochs": 100, "patience": 20, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_CWT_SCALOGRAM"}}</data>
+  <data key="d8">[-0.05450000000000001, 0.07943193848927817, 0.031080304582311657, 19.5083176612854, 0.7234206390380861]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_20c8a8f2" target="hybrid_d_gaf_attention_cnn.py_20c8a8f2" id="diagnose_split_leakage(manifest_name=NPY_nature_30_classes)">
+  <data key="d3">diagnose_split_leakage(manifest_name=NPY_nature_30_classes)</data>
+  <data key="d4">1</data>
+  <data key="d5">[-1.0, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-1.0, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"manifest_name": "NPY_nature_30_classes", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_CWT_SCALOGRAM"}}</data>
+  <data key="d8">[-1.004905, 0.007148874464035036, 0.0027972274124080493, 1.755748589515686, 0.06510785751342775]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_20c8a8f2" target="hybrid_d_gaf_attention_cnn.py_20c8a8f2" id="memorize_finding(finding=2D_CWT_SCALOGRAM on hybrid_d_gaf_attent...)">
+  <data key="d3">memorize_finding(finding=2D_CWT_SCALOGRAM on hybrid_d_gaf_attent...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"finding": "2D_CWT_SCALOGRAM on hybrid_d_gaf_attention_cnn.py with 5 conv layers, dropout 0.45 gave HO=0.3543, CV=0.8087 (gap=0.4544, below the 0.5044 baseline). This tentatively supports reduced divergence with the CWT representation, though accuracy is still low. Split-leakage diagnosis tool not found, so structural cause remains unconfirmed. Further investigations must target data leakage directly.", "category": "divergence_analysis", "experiment_name": "hybrid_d_gaf_attention_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_CWT_SCALOGRAM"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.013582861481666568, 0.005314732083575293, 3.335922320079803, 0.12370492927551273]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_20c8a8f2" target="hybrid_d_gaf_attention_cnn.py_20c8a8f2" id="run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)">
+  <data key="d3">run_training_trial(representation_type=2D_GAF, manifest_name=NPY_n...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.040670005480448405, 0.01648919281333384, 15.180039405822754, 0.5218429565429688]</data>
+  <data key="d6">[[-0.05, 0.040670005480448405, 0.01648919281333384, 15.180039405822754, 0.5218429565429688], [-0.05, 0.040670005480448405, 0.01648919281333384, 15.180039405822754, 0.5218429565429688]]</data>
+  <data key="d7">{"representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_classes", "custom_architecture_file": "hybrid_d_gaf_attention_cnn.py", "num_conv_layers": 4, "filters": 64, "kernel_size": 3, "dense_units": 256, "dropout_rate": 0.473, "learning_rate": 0.0003, "batch_size": 32, "weight_decay": 0.0001, "batch_norm": 1, "epochs": 100, "patience": 20, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_CWT_SCALOGRAM"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.05425286696211498, 0.021803924896909136, 18.515961725902557, 0.6455478858184815]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_8df1005f" target="hybrid_d_gaf_attention_cnn.py_8df1005f" id="list_available_datasets">
+  <data key="d3">list_available_datasets</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_CWT_SCALOGRAM"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_8df1005f" target="hybrid_d_gaf_attention_cnn.py_8df1005f" id="read_file_from_architectures(filename=hybrid_d_gaf_attention_cnn.py)">
+  <data key="d3">read_file_from_architectures(filename=hybrid_d_gaf_attention_cnn.py)</data>
+  <data key="d4">2</data>
+  <data key="d5">[-0.05, 0.0, 0.0, 0.0, 0.0]</data>
+  <data key="d6">[[-0.05, 0.0, 0.0, 0.0, 0.0], [-0.05, 0.0, 0.0, 0.0, 0.0]]</data>
+  <data key="d7">{"filename": "hybrid_d_gaf_attention_cnn.py", "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_CWT_SCALOGRAM"}}</data>
+  <data key="d8">[-0.058955000000000014, 0.0, 0.0, 0.0, 0.0]</data>
+</edge>
+<edge source="hybrid_d_gaf_attention_cnn.py_8df1005f" target="hybrid_d_gaf_attention_cnn.py_8df1005f" id="run_training_trial(custom_architecture_file=hybrid_d_gaf_attention...)">
+  <data key="d3">run_training_trial(custom_architecture_file=hybrid_d_gaf_attention...)</data>
+  <data key="d4">2</data>
+  <data key="d5">[0.0032999999999999696, 0.022083330154418945, 0.022306566708015705, 17.1773099899292, 0.6173019409179688]</data>
+  <data key="d6">[[0.0032999999999999696, 0.022083330154418945, 0.022306566708015705, 17.1773099899292, 0.6173019409179688], [0.0032999999999999696, 0.022083330154418945, 0.022306566708015705, 17.1773099899292, 0.6173019409179688]]</data>
+  <data key="d7">{"custom_architecture_file": "hybrid_d_gaf_attention_cnn.py", "representation_type": "2D_GAF", "manifest_name": "NPY_nature_30_classes", "num_conv_layers": 5, "filters": 64, "kernel_size": 3, "dense_units": 128, "dropout_rate": 0.5, "learning_rate": 0.001, "batch_size": 32, "weight_decay": 0.0001, "batch_norm": 1, "epochs": 50, "patience": 15, "_data_source": "NPY_nature_30_classes", "_manifest_name": "NPY_nature_30_classes", "_dataset_params": {"n_fft": 2048, "hop_length": 512, "gaf_image_size": 48, "video_num_segments": 8, "video_gaf_image_size": 24, "representation_type": "2D_CWT_SCALOGRAM"}}</data>
+  <data key="d8">[0.0038910299999999646, 0.02603845458507538, 0.026301672805421318, 20.253766209125523, 0.7278607185363771]</data>
+</edge>
+</graph></graphml>
