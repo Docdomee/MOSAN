@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "MOSAN: an autonomous multi-objective agent for neural architecture discovery"
+title: ""
 authors:
   - family-names: "Sagnelli"
     given-names: "Domenico"
@@ -26,7 +26,7 @@ preferred-citation:
   authors:
   - family-names: "Sagnelli"
     given-names: "Domenico"
-  title: "MOSAN: an autonomous multi-objective agent for neural architecture discovery"
+  title: ""
   journal: "Name of the Journal"                      # <- add Journal name when accepted
   year: 2026                                          # <- add publication year
   doi: "10.xxxx/xxxxx"                                # <- add paper DOI when accepted
