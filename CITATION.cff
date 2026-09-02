@@ -1,32 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: ""
-authors:
-  - family-names: "Sagnelli"
-    given-names: "Domenico"
-    orcid: "https://orcid.org/0000-0000-0000-0000"   # <- replace with your real ORCID
-abstract: >-
-  MOSAN is an autonomous AI-agent framework that designs, trains and evaluates
-  neural architectures across data modalities (1-D spectra, time series and 2-D
-  images), guided by an Organic Strategic Graph Memory (OSGM) and a multi-agent
-  Theorist/Critic/Decider loop.
-keywords:
-  - autonomous agents
-  - neural architecture search
-  - AutoML
-  - domain adaptation
-license: "Apache-2.0"
-version: "1.0.0"          # <- bump per release
-date-released: "2026-06-05"
-repository-code: "https://github.com/<user>/<repo>"   # <- add your GitHub repo link
-doi: "10.5281/zenodo.xxxxxxx"                         # <- add your Zenodo DOI when available
 
-preferred-citation:
-  type: article
-  authors:
-  - family-names: "Sagnelli"
-    given-names: "Domenico"
-  title: ""
-  journal: "Name of the Journal"                      # <- add Journal name when accepted
-  year: 2026                                          # <- add publication year
-  doi: "10.xxxx/xxxxx"                                # <- add paper DOI when accepted
+@article{10.1088/2632-2153/ae9fb7,
+	author={Sagnelli, Domenico and Guilcapi, Bryan and Milano, Alessia and D'avino, Amalia and Marchesano, Valentina and Rippa, Massimo and Petti, Lucia},
+	title={An autonomous agentic framework for cross-campaign generalization and sensor shift adaptation},
+	journal={Machine Learning: Science and Technology},
+	url={http://iopscience.iop.org/article/10.1088/2632-2153/ae9fb7},
+	year={2026},
+	abstract={Although autonomous, Large Language Model (LLM)-driven systems show immense potential for orchestrating complex scientific experiments, their efficacy is constrained by two fundamental bottlenecks: context dilution, where strategic reasoning degrades as experimental history accumulates, and inter-campaign amnesia, which forces systems into computationally expensive tabula rasa explorations upon encountering novel domains. To overcome these limitations, we introduce the Multi-Objective State-Action Network (MOSAN), an autonomous cognitive information fusion framework designed for robust cross-campaign generalization and sensor shift adaptation.&#xD;MOSAN achieves effective information fusion by coupling a self-evolving semantic memory with an Organic Strategic Graph Memory (OSGM), strictly orchestrated through a novel Single Ledger Architecture (SiLA) that isolates cognitive phases and prevents context saturation. A core mechanism of the OSGM is Cross-Domain Strategic Seeding ("ghost node" injection), a transient cold-start fusion strategy. Upon encountering novel datasets, the OSGM temporarily injects topological priors from similar past domains; these ephemeral nodes guide initial architectural deductions and are subsequently purged, allowing the system to disseminate structural knowledge across disciplines while strictly guaranteeing zero data contamination.&#xD;The fusion framework was validated on the challenging task of bacterial classification via Surface-Enhanced Raman Spectroscopy (SERS) subject to sensor aging shifts, autonomously discovering highly accurate multi-topological architectures. Crucially, when subjected to an out-of-distribution 1D sequential modality (the ECG5000 cardiovascular dataset), the agent performed zero-shot architectural meta-learning, bypassing brute-force search to rapidly achieve 0.9930 accuracy. Finally, the framework was successfully deployed using an open-weight model (Mistral 24B) at zero API inference cost. By continuously fusing multi-epoch empirical evidence, bridging representational topologies, and actively overcoming sensor drift, MOSAN establishes a scalable and rigorous paradigm for autonomous biophysical discovery.&#xD;}
+}
